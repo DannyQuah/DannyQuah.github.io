@@ -1,5 +1,14 @@
+---
+fileName: README.md
+# Last-edited: Thu 2021.07.01.1432 -- Danny Quah (me@DannyQuah.com)
+Type: Notes
+Tags: Software
+# Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
+title: README.md
+output: github_document
+---
 
-This is not my website. It's a bare-bones collection of pages for quick access, fast update, and reduced (git-control) fuss.  
+This is not my website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss.  
 Who am I? | [My Google Scholar numbers](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) | [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) | [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) | [Personal site](https://www.DannyQuah.com/) |  
 ____
 
