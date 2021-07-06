@@ -12,8 +12,7 @@ output: github_document
 
 ____
 
-Who am I? [My Google Scholar numbers](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) | [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) | [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) | [Personal site](https://www.DannyQuah.com/) |  
-
+Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) | [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) | [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) | [Personal site](https://www.DannyQuah.com/)  
 
 ____
 
