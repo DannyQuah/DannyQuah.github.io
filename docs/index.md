@@ -8,6 +8,8 @@ title: index.md
 output: github_document
 ---
 
+<img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2021.05.04-MPA-1-CC-180-cropped.jpg">
+
 This is not my website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss.  
 Who am I? | [My Google Scholar numbers](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) | [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) | [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) | [Personal site](https://www.DannyQuah.com/) |  
 ____
