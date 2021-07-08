@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Thu 2021.07.08.2136 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Thu 2021.07.08.2207 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -20,7 +20,7 @@ ____
 
 "Inequality is No Sufficient Statistic"  
 
-"[The Inchoate Tradeoff Between COVID-19 And Economic Performance](https://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)"  
+"[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)"  
 
 "The Marketplace for World Order: Inclusiveness in the International System"  
 
