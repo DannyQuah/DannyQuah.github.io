@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Thu 2021.07.08.2345 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Thu 2021.07.08.2347 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -18,7 +18,7 @@ ____
 
 **In-progress manuscripts** (or things freshly out) // The first are auto-updated from my working files (so don't expect anything polished):  
 
-"Inequality is No Sufficient Statistic" : Technical paper (not yet uploaded) : <a href=https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf>2021.07 IEA RIDGE slides</a> : <a href=https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf>2021.05 Nontechnical treatment</a> : <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary</a>
+"Inequality is No Sufficient Statistic" : Technical paper (not yet uploaded) : <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> : <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> : <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary</a>
 
 "[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)" (June 2021).  
 
