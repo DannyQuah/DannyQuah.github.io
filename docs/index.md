@@ -38,7 +38,7 @@ Soundbites on **longer-term work arcs**:
 
 This is my 2011 animation of the <a href="https://DannyQuah.github.io/Storage/2011.01-Danny.Quah-The-Global-Economys-Shifting-Centre-of-Gravity-j.1758-5899.2010.00066.x.pdf">global economy’s shifting center of gravity</a> since 1980. The dots in black are 1980-2007; those in red are 2010-2049. The paper won the GPPN Best Article Prize for 2011.
 
-<img src="https://DannyQuah.github.io/Storage/2010.08-Danny.Quah-wm-cg-gdpp-extrap-animated.gif alt="WECG-DQ" />
+<img src="https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/main/docs/Storage/2010.08-Danny.Quah-wm-cg-gdpp-extrap-animated.gif alt="WECG-DQ" />
 
 <!---
    Invisible section // index.md
