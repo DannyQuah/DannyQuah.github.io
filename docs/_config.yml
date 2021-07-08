@@ -1,4 +1,4 @@
 # _config.yml
-url: 'https://DannyQuah.github.io/'
-baseurl: 'Storage/'
 theme: jekyll-theme-minimal
+# url: 'https://DannyQuah.github.io/'
+# baseurl: 'Storage/'
