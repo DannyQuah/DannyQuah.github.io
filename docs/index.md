@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Thu 2021.07.08.2207 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Thu 2021.07.08.2248 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -16,11 +16,15 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 
 ____
 
-**In-progress manuscripts** // These are auto-updated from my working files (so don't expect anything polished):  
+**In-progress manuscripts** (or things freshly out) // The first are auto-updated from my working files (so don't expect anything polished):  
 
-"Inequality is No Sufficient Statistic"  
+"Inequality is No Sufficient Statistic" (July 2021)
 
-"[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)"  
+"[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)" (June 2021).  
+
+With Ong, Toon Hui. "[Taking Stock of an Unprecedented Pandemic](https://www.csc.gov.sg/articles/taking-stock-of-an-unprecedented-pandemic)," Ethos (June 2021), Issue 22 pp. 7-19.  
+
+"[A Thucydides Fallacy: The New Model of Power Relations for Southeast Asia, the US, and China](https://headfoundation.org/2021/06/18/think-issue-8/)," THINK, The Head Foundation Digest (June 2021) Issue 8, pp. 2-7. Reprinted, with new introduction section.  
 
 "The Marketplace for World Order: Inclusiveness in the International System"  
 
