@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Thu 2021.07.08.2306 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Thu 2021.07.08.2310 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -12,13 +12,13 @@ output: github_document
 
 ____
 
-Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) | [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) | [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) | [Personal site](https://www.DannyQuah.com/)  
+Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) : [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) : [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) : [Personal site](https://www.DannyQuah.com/)  
 
 ____
 
 **In-progress manuscripts** (or things freshly out) // The first are auto-updated from my working files (so don't expect anything polished):  
 
-"Inequality is No Sufficient Statistic" | Technical paper (not yet uploaded) | [2021.07 IEA RIDGE slides](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/docs/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf) | [2021.05 Nontechnical treatment](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/docs/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf)| [2021.02 Straits Times Commentary - Inequality: A tale of three countries](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/docs/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf)
+"Inequality is No Sufficient Statistic" : Technical paper (not yet uploaded) : [2021.07 IEA RIDGE slides](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/blob/main/docs/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf) : [2021.05 Nontechnical treatment](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/blob/main/docs/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf): [2021.02 Straits Times Commentary - Inequality: A tale of three countries](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/blob/main/docs/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf)
 
 "[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)" (June 2021).  
 
