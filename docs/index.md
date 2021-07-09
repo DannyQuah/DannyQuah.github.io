@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Fri 2021.07.09.0732 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Fri 2021.07.09.1810 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -21,6 +21,8 @@ ____
 **In-progress manuscripts** or things freshly out // The in-progress items are auto-updated from my working files, so don't expect anything polished there:  
 
 "Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>
+The paper in 1 graph <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.jpg" alt="Inequality is No Sufficient Statistic, in 1 graph" />
+
 
 "[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)" (June 2021).  
 
@@ -34,18 +36,17 @@ ____
 
 Soundbites on **longer-term work arcs**:
 
-Is world order a linear hierarchy, or is there an alternative geometry more appropriate for it?
-
+1.  Is world order a linear hierarchy, or is an alternative geometry more appropriate for it?
 
 <img src="https://DannyQuah.github.io/Storage/2020.10-World-Order-Alternative-Geometries-DQ.png" alt="Alternative-Geometries-DQ" />
 
-Where is the [World's Tightest Cluster of People](http://wp.me/p59K6I-nl), that is, the smallest circle on our 3-dimensional planet that includes at least 50% of the world's population? In 2015 that was the circle 3300km in great-circle radius centred near Mong Khet in Shan State, Myanmar, on the border with China.
+2.  Where is the [World's Tightest Cluster of People](http://wp.me/p59K6I-nl), that is, the smallest circle on our 3-dimensional planet that includes at least 50% of the world's population? In 2015 that was the circle 3300km in great-circle radius centred near Mong Khet in Shan State, Myanmar, on the border with China.
 
 <img src="https://DannyQuah.github.io/Storage/2015.09.22-Danny.Quah-3d-population-cluster-side-More-People-Inside-Democracy.png" alt="Inside-Democracy-DQ" />
 
-This is my 2011 animation of the <a href="https://DannyQuah.github.io/Storage/2011.01-Danny.Quah-The-Global-Economys-Shifting-Centre-of-Gravity-j.1758-5899.2010.00066.x.pdf">global economy’s shifting center of gravity</a> since 1980. The dots in black are 1980-2007; those in red are 2010-2049. The paper won the GPPN Best Article Prize for 2011.
+3.  This is my 2011 animation of the <a href="https://DannyQuah.github.io/Storage/2011.01-Danny.Quah-The-Global-Economys-Shifting-Centre-of-Gravity-j.1758-5899.2010.00066.x.pdf">global economy’s shifting center of gravity</a> since 1980. The dots in black are 1980-2007; those in red are 2010-2049. The paper won the GPPN Best Article Prize for 2011.
 
-<img src="https://DannyQuah.github.io/Storage/2010.08-Danny.Quah-wm-cg-gdpp-extrap-animated.gif alt="WECG-DQ" />
+<img src="https://DannyQuah.github.io/Storage/2010.08-Danny.Quah-wm-cg-gdpp-extrap-animated.gif" alt="WECG-DQ" />
 
 <!---
    Invisible section // index.md
