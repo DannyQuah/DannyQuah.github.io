@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Fri 2021.07.09.1810 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Fri 2021.07.09.1838 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -20,15 +20,24 @@ ____
 
 **In-progress manuscripts** or things freshly out // The in-progress items are auto-updated from my working files, so don't expect anything polished there:  
 
-"Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>
-The paper in 1 graph <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.jpg" alt="Inequality is No Sufficient Statistic, in 1 graph" />
+"Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>  
+The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.jpg" alt="Inequality is No Sufficient Statistic, in 1 graph" />
 
+____
 
 "[The Inchoate Tradeoff Between COVID-19 And Economic Performance](http://www.dannyquah.com/writings/en/2021/06/11/the-inchoate-tradeoff-between-covid-19-and-the-economy/)" (June 2021).  
+The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.06.05-COVID-vs-The-Economy-4quadrant.png" alt="COVID-19 and Economic Performance, in 1 graph" />
+
+____
 
 "[Taking Stock of an Unprecedented Pandemic](https://www.csc.gov.sg/articles/taking-stock-of-an-unprecedented-pandemic)," (with Ong, Toon Hui) Ethos (June 2021), Issue 22 pp. 7-19.  
 
+____
+
 "[A Thucydides Fallacy: The New Model of Power Relations for Southeast Asia, the US, and China](https://headfoundation.org/2021/06/18/think-issue-8/)," THINK, The Head Foundation Digest (June 2021) Issue 8, pp. 2-7. Reprinted, with new introduction section.  
+The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/World-Order-Marketplace-3D-DQ-latex.png" alt="New Models of Power Relations, in 1 graph" />
+
+____ 
 
 "The Marketplace for World Order: Inclusiveness in the International System"  
 
