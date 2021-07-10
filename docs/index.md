@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Sat 2021.07.10.1213 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Sat 2021.07.10.1227 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -8,9 +8,9 @@ title: index.md
 output: github_document
 ---
 
-<img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2021.05.04-MPA-1-CC-180-cropped.jpg" align=right width=100/>  This is not my website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss, focusing on just my writings or lectures or R code.  For my TikTok videos or Insta snaps, you'll have to look elsewhere.  
+<img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2021.05.04-MPA-1-CC-180-cropped.jpg" align=right width=100/>  This is not my website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss, focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
 
-
+(For my TikTok videos or Insta snaps, you'll have to look elsewhere.)  
 
 ____
 
@@ -18,10 +18,10 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 
 ____
 
-**In-progress manuscripts** or things freshly out // The in-progress items are auto-updated from my working files, so don't expect anything polished there:  
+**In-progress manuscripts** or things freshly out:  
 
 "Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>  
-The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.jpg" alt="Inequality is No Sufficient Statistic, in 1 graph" />
+The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.png" alt="Inequality is No Sufficient Statistic, in 1 graph" />
 
 ____
 
@@ -63,11 +63,11 @@ ____
 
 ____
 
-Past workstreams, apparently, show the same "1 picture" trait:
+4.  Past workstreams, apparently, show the same "1 picture" trait:
 
 <img src="https://DannyQuah.github.io/Storage/2021.07.10-Past-Work-in-1-Picture-Danny.Quah.png" alt="Past Workstreams in 1 Picture" />
 
-(These results are from my attempts to cross-validate on an independent corpus what I'm machine-learning about the world's emotions, language, and tone in narratives on inequality and social mobility).
+Who knew.  (These extractions are from my attempts to cross-validate on an independent corpus what I'm machine-learning about the world's emotions, language, and tone in narratives on inequality and social mobility).
 
 
 
