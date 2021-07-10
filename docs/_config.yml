@@ -1,4 +1,7 @@
 # _config.yml
+# Last-edited: Sat 2021.07.10.1242 -- Danny Quah (me@DannyQuah.com)
+#
+# Created: Sat 2021.07.10.1242 -- Danny Quah (me@DannyQuah.com)
 theme: jekyll-theme-minimal
 markdown: GFM
 # url: 'https://DannyQuah.github.io/'
