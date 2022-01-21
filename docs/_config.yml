@@ -1,8 +1,10 @@
 # _config.yml
-# Last-edited: Sat 2021.07.10.1242 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Fri 2022.01.21.1954 -- Danny Quah (me@DannyQuah.com)
 #
 # Created: Sat 2021.07.10.1242 -- Danny Quah (me@DannyQuah.com)
 theme: jekyll-theme-minimal
+title: Danny Quah's github.io homepage
+description: Rapid-access collection of my research resources, with links mostly auto-generated so I don't have to remember to update them
 markdown: GFM
 # url: 'https://DannyQuah.github.io/'
 # baseurl: 'Storage/'

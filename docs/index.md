@@ -1,8 +1,8 @@
 ---
 fileName: index.md
-# Last-edited: Fri 2022.01.21.1939 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Fri 2022.01.21.1948 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
-Tags: Software
+Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
 title: index.md
 output: github_document
