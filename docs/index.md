@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Sun 2021.09.12.1729 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: Fri 2022.01.21.1939 -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -52,6 +52,12 @@ ____
 2.  Where is the [World's Tightest Cluster of People](http://wp.me/p59K6I-nl), that is, the smallest circle on our 3-dimensional planet that includes at least 50% of the world's population? In 2015 that was the circle 3300km in great-circle radius centred near Mong Khet in Shan State, Myanmar, on the border with China.
 
 <img src="https://DannyQuah.github.io/Storage/2015.09.22-Danny.Quah-3d-population-cluster-side-More-People-Inside-Democracy.png" alt="Inside-Democracy-DQ" />
+
+(Big-picture history and economics: Ten minutes of "Why most people live here"
+
+[![Why most people live here](https://DannyQuah.github.io/Storage/2022.01.13-Half-of-everyone-is-here-Youtube.jpg)](https://www.youtube.com/watch?v=mcqq8eAufXk)
+
+drawing on, among other things, what I did on [World's Tightest Cluster](http://wp.me/p59K6I-nl), with a commercial sponsor!)  
 
 ____
 
