@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: Fri 2022.01.21.1948 -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2022.04.22.2200.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -19,6 +19,10 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 ____
 
 **In-progress manuscripts** or things freshly out:  
+
+"<a href="https://DannyQuah.github.io/Storage/2022.04-Danny.Quah-Roles-Evolution-Demand-Supply-MAS.pdf">The Roles of Central Banks --- Evolution, or Demand and Supply?</a>" // Trying to bring Kindleberger and Thucydides, or just demand and supply, to smooth out a narrative for central bank evolution, whether away from or remaining at an Independence/Price stability framework. 
+
+
 
 "Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>.  The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.png" alt="Inequality is No Sufficient Statistic, in 1 graph" />
 
