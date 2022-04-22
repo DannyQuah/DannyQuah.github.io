@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2022.04.22.2200.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2022.04.22.2231.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -20,7 +20,7 @@ ____
 
 **In-progress manuscripts** or things freshly out:  
 
-"<a href="https://DannyQuah.github.io/Storage/2022.04-Danny.Quah-Roles-Evolution-Demand-Supply-MAS.pdf">The Roles of Central Banks --- Evolution, or Demand and Supply?</a>" // Trying to bring Kindleberger and Thucydides, or just demand and supply, to smooth out a narrative for central bank evolution, whether away from or remaining at an Independence/Price stability framework. 
+"<a href="https://DannyQuah.github.io/Storage/2022.04-Danny.Quah-Roles-Evolution-Demand-Supply-MAS.pdf">The Roles of Central Banks --- Evolution, or Demand and Supply?</a>" // Trying to bring Kindleberger and Thucydides, or just demand and supply, to smooth out a narrative for central bank evolution, whether away from or remaining at a narrow Independence/Price stability mandate. 
 
 
 
