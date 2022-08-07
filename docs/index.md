@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2022.06.26.1437.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2022.08.07.2011.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -20,7 +20,7 @@ ____
 
 **In-progress manuscripts** or things freshly out:  
 
-"<a href="https://DannyQuah.github.io/Storage/2022.06-Danny.Quah-Platform-Companies-Workers-Responses-LKYSPP.pdf">Platform Companies and Platform
+"<a href="https://DannyQuah.github.io/Storage/2022.08-Danny.Quah-Platform-Companies-Workers-Responses-LKYSPP.pdf">Platform Companies and Platform
 Workers: Price and Quantity Responses to Changing Cost</a>" (Jun 2022) What is a platform company, and how are platform workers not employees? In a gig economy what are likely patterns of price pass-through if policies make platform workers more costly?  <img src="https://DannyQuah.github.io/Storage/2022.06-Platform-companies-platform-workers-Fig-1.png" alt="Platform companies, platform workers" />
 
 "<a href="https://DannyQuah.github.io/Storage/2022.04-Danny.Quah-Roles-Evolution-Demand-Supply-MAS-MRApr22_SF_C.pdf">The Roles of Central Banks --- Evolution, or Demand and Supply?</a>" (Apr 2022) // Trying to bring Kindleberger and Thucydides, or just demand and supply, to smooth out a narrative for central bank evolution, whether away from or remaining at a narrow Independence/Price Stability mandate. 
