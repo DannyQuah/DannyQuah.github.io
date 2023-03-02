@@ -1,13 +1,15 @@
 ---
 fileName: 2023-02-28-LSE-China-Development-Forum-2023.md
-# Last-edited: 2023.03.02.1644.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1716.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+  - jekyll-remote-theme
 Tags: >
   China, US, LSE, SheikhZayedTheatre
 # Created: 2023.03.01.1019.Wed -- Danny Quah (me@DannyQuah.com)
 
 layout: post
-output: github_document
 title: LSE China Development Forum 2023
 ---
 I participated in LSE's China Development Forum in the Sheikh Zayed Theatre (where over decades I'd previously taken part in many memorable events).  I spoke on Sino-British Relations in a Divided World. I made two observations, from which I drew one conclusion on possible ways forwards.  
