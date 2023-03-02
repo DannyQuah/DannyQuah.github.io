@@ -1,13 +1,12 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2023.03.02.1823.Thu -- Danny Quah (me@DannyQuah.com)
-Type: Publication
+# Last-edited: 2023.03.02.1839.Thu -- Danny Quah (me@DannyQuah.com)
+Type: Notes
 Tags: >
   github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
 
 output: github_document
-layout: post
 remote_theme: pages-themes/slate@v0.2.0
 plugins: 
   -  jekyll-remote-theme

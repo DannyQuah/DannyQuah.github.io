@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1836.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1841.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -27,12 +27,12 @@ ____
 ____
 **In-progress manuscripts** or things freshly out:  
 
-<a href="https://dannyquah.github.io/In-progress">In progress</a>
+<a href="https://dannyquah.github.io/In-progress.html">In progress</a>
 ____
 
 Soundbites on **longer-term strategic work arcs**:  
 
-<a href="https://dannyquah.github.io/Soundbites-strategic">Soundbites on longer-term strategic work arcs</a>
+<a href="https://dannyquah.github.io/Soundbites-strategic.html">Soundbites on longer-term strategic work arcs</a>
 
 <!---
    Invisible section // index.md

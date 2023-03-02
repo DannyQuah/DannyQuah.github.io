@@ -1,7 +1,7 @@
 ---
 fileName: 2023-02-28-LSE-China-Development-Forum-2023.md
-# Last-edited: 2023.03.02.1808.Thu -- Danny Quah (me@DannyQuah.com)
-Type: Publication
+# Last-edited: 2023.03.02.1840.Thu -- Danny Quah (me@DannyQuah.com)
+Type: Notes
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-remote-theme
@@ -9,7 +9,6 @@ Tags: >
   China, US, LSE, SheikhZayedTheatre
 # Created: 2023.03.01.1019.Wed -- Danny Quah (me@DannyQuah.com)
 
-layout: post
 title: LSE China Development Forum 2023
 ---
 ### LSE China Development Forum 2023  
