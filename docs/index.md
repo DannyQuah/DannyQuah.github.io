@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1553.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1656.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -18,6 +18,15 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 
 ____
 
+(List recent blog posts here)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+____
 **In-progress manuscripts** or things freshly out:  
 
 "<a href="https://DannyQuah.github.io/Storage/2022.10-Danny.Quah-Platform-Companies-Workers-Responses-LKYSPP.pdf">Platform Companies and Platform
