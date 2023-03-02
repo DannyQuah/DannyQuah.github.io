@@ -1,13 +1,11 @@
 ---
 fileName: Soundbites-strategic.md
-# Last-edited: 2023.03.02.1823.Thu -- Danny Quah (me@DannyQuah.com)
-Type: Publication
-Tags: >
-  github.io, github
+# Last-edited: 2023.03.02.1851.Thu -- Danny Quah (me@DannyQuah.com)
+Type: Notes
+Tags: github.io, github
 # Created: 2023.03.02.1820.Thu -- Danny Quah (me@DannyQuah.com)
 
-output: pdf_document
-layout: post
+output: github_document
 remote_theme: pages-themes/slate@v0.2.0
 plugins: 
   -  jekyll-remote-theme

@@ -1,9 +1,10 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1841.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1850.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
+description: Rapid-access collection of my work resources, with links auto-generated so I don't have to remember to update them
 title: index.md
 output: github_document
 ---
@@ -25,12 +26,11 @@ ____
 <a href="https://DannyQuah.github.io/Blog-posts.html">Running list of previous blog posts</a>
 
 ____
-**In-progress manuscripts** or things freshly out:  
 
-<a href="https://dannyquah.github.io/In-progress.html">In progress</a>
+<a href="https://DannyQuah.github.io/In-progress.html">In-progress manuscripts or freshly out</a>
+
+
 ____
-
-Soundbites on **longer-term strategic work arcs**:  
 
 <a href="https://dannyquah.github.io/Soundbites-strategic.html">Soundbites on longer-term strategic work arcs</a>
 
