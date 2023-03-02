@@ -1,14 +1,13 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1533.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1552.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
 title: index.md
 output: github_document
 ---
-
-<img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg" align=right width=100/>  This is not my website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss, focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
+<img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg" align=right width=100/>  This is not work-in-progress website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss, focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
 
 (For my TikTok videos or Insta snaps, you'll have to look elsewhere.)  
 
