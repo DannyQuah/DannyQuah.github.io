@@ -1,10 +1,10 @@
 ---
-fileName: <% tp.file.title %>.md
-# Last-edited: 2023.03.01.1019.Wed -- Danny Quah (me@DannyQuah.com)
+fileName: 2023-02-28-LSE-China-Development-Forum-2023.md
+# Last-edited: 2023.03.02.1631.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, LSE, SheikhZayedTheatre
-# Created: TIMESTAMP -- Danny Quah (me@DannyQuah.com)
+# Created: 2023.03.01.1019.Wed -- Danny Quah (me@DannyQuah.com)
 
 layout: post
 output: pdf_document
@@ -21,6 +21,6 @@ In the early 1970s the fiercely anti-communist Richard Nixon went to Beijing in 
 (The one where my first student advisee, from many oceans distant and nearly four decades past, shows up at a talk I gave in London and tells me my research interests used to be much more technical.)  
 
 <!---
-   Invisible section // <% tp.file.title %>.md
+   Invisible section // 2023-02-28-LSE-China-Development-Forum-2023.md
 -->
 
