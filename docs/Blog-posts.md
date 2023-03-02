@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.03.02.1739.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1747.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -8,6 +8,10 @@ Tags: Blog, github.io, github
 documentclass: extarticle
 fontsize: 14pt
 output: github_document
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+t
 title: Blog-posts
 ---
 **Running list of previous blog posts**  

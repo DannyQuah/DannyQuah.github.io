@@ -1,5 +1,5 @@
 # _config.yml
-# Last-edited: 2023.03.02.1718.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1747.Thu -- Danny Quah (me@DannyQuah.com)
 #
 # Created: Sat 2021.07.10.1242 -- Danny Quah (me@DannyQuah.com)
 #  theme: jekyll-theme-minimal
@@ -18,7 +18,7 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-remote-theme
-title: Danny Quah's github.io homepage
+title: DQ's github.io
 description: Rapid-access collection of my work resources, with links auto-generated so I don't have to remember to update them
 markdown: GFM
 url: https://DannyQuah.github.io/
