@@ -1,9 +1,9 @@
 # _config.yml
-# Last-edited: 2023.03.02.1549.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1554.Thu -- Danny Quah (me@DannyQuah.com)
 #
 # Created: Sat 2021.07.10.1242 -- Danny Quah (me@DannyQuah.com)
-# theme: tailwindtoolbox/Ghostwind
-theme: jekyll-theme-minimal
+theme: tailwindtoolbox/Ghostwind
+#  theme: jekyll-theme-minimal
 title: Danny Quah's github.io homepage
 description: Rapid-access collection of my work resources, with links auto-generated so I don't have to remember to update them
 markdown: GFM
