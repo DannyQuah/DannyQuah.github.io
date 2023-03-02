@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1827.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1836.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -20,19 +20,19 @@ ____
 
 **Last blog posts**  
 
-2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
+2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023.html">LSE China Development Forum 2023</a>  
 
 <a href="https://DannyQuah.github.io/Blog-posts.html">Running list of previous blog posts</a>
 
 ____
 **In-progress manuscripts** or things freshly out:  
 
-<a href="./In-progress">In progress</a>
+<a href="https://dannyquah.github.io/In-progress">In progress</a>
 ____
 
 Soundbites on **longer-term strategic work arcs**:  
 
-<a href="./Soundbites-strategic">Soundbites on longer-term strategic work arcs</a>
+<a href="https://dannyquah.github.io/Soundbites-strategic">Soundbites on longer-term strategic work arcs</a>
 
 <!---
    Invisible section // index.md
