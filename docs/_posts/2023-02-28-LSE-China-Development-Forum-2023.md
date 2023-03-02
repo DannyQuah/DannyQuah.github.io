@@ -1,6 +1,6 @@
 ---
 fileName: 2023-02-28-LSE-China-Development-Forum-2023.md
-# Last-edited: 2023.03.02.1716.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1724.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
@@ -12,7 +12,11 @@ Tags: >
 layout: post
 title: LSE China Development Forum 2023
 ---
-I participated in LSE's China Development Forum in the Sheikh Zayed Theatre (where over decades I'd previously taken part in many memorable events).  I spoke on Sino-British Relations in a Divided World. I made two observations, from which I drew one conclusion on possible ways forwards.  
+### LSE China Development Forum 2023  
+by Danny Quah  
+Tue 28 Feb 2023  
+
+I participated this past weekend in LSE's China Development Forum in the Sheikh Zayed Theatre (where over decades I'd previously taken part in many memorable events).  I spoke on Sino-British Relations in a Divided World. I made two observations, from which I drew one conclusion on possible ways forwards.  
 
 First, the great geopolitical reality of our time is Great Power Rivalry. The UK can seek to navigate that global landscape by continuing to view itself as punching above its weight and going it alone, going along with US rhetoric on the primacy of values in "the great twilight struggle of modernity", my paraphrasing of JFK and Hannah Arendt.  Or the UK can appreciate how Third Nations comprise the democratic majority of the world --- 80% of the world's population --- and therefore coming together with others on those issues all of us share --- (and that's not so hard to identify) national sovereignty, territorial integrity, a level playing field, multilateralism, openness to trade and exchange --- can be an impact multiplier for Third Nation agency and influence.  
 

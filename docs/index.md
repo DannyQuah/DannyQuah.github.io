@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1719.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1723.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -20,7 +20,7 @@ ____
 
 (List recent blog posts here)
 
-<a href="https://dannyquah.github.io.com/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
+2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
 
 
 
