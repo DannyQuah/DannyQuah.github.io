@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1723.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.02.1739.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -11,14 +11,13 @@ output: github_document
 
 (For my TikTok videos or Insta snaps, you'll have to look elsewhere.)  
 
-
 ____
 
 Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) // [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) // [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) // [Personal site](https://www.DannyQuah.com/) // <a rel="me" href="https://econtwitter.net/@DannyQuah">Mastodon</a>
 
 ____
 
-(List recent blog posts here)
+**Last blog posts // <a href="https://DannyQuah.github.io/Blog-posts.html">Running list of previous</a>**  
 
 2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
 
@@ -86,6 +85,10 @@ ____
 Who knew.  (These extractions are from previous different publications of mine. The sequence of "each workstream in 1 picture" result from my attempts to cross-validate on an independent corpus what I'm machine-learning about the world's emotions, language, and tone in narratives on inequality and social mobility).
 
 
+**Running list of blog posts**  
+
+
+2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
 
 <!---
    Invisible section // index.md
