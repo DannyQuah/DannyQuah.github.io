@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.02.1850.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.10.2310.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -19,9 +19,10 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 
 ____
 
-**Last blog posts**  
+**Latest blog posts**  
 
-2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023.html">LSE China Development Forum 2023</a>  
+2023.03.06 <a href="https://DannyQuah.github.io/2023/03/06/Neemrana-CSEP-other-Thucydides.html">Neemrana by CSEP, and that other Thucydides</a>  
+2023.02.28 <a href="https://DannyQuah.github.io/2023/02/28/LSE-China-Development-Forum-2023.html">LSE China Development Forum 2023</a>  
 
 <a href="https://DannyQuah.github.io/Blog-posts.html">Running list of previous blog posts</a>
 

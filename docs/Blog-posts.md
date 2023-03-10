@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.03.02.1824.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.10.2304.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,6 +13,7 @@ title: Blog posts
 ---
 **Running list of previous blog posts**  
 
+2023.03.06 <a href="https://dannyquah.github.io/2023/03/06/Neemrana-CSEP-other-Thucydides.html">Neemrana by CSEP, and that other Thucydides</a>  
 2023.02.28 <a href="https://dannyquah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
 
 
