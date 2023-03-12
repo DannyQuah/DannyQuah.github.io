@@ -1,9 +1,9 @@
 ---
 fileName: 2023-03-12-Oscars-Freedom-Speech-Donnie-Yen.md
-# Last-edited: 2023.03.12.1532.Sun -- Danny Quah (me@DannyQuah.com)
-Type: Event | Person | Notes | Publication | Log | Misc | Report
+# Last-edited: 2023.03.12.1553.Sun -- Danny Quah (me@DannyQuah.com)
+Type: Publication
 Tags: >
-  China, US, LKYSPP, NUS, Hardware, Software, Talk, Write, Finance
+  HongKong, YenDonnie, Oscars, FreedomOfSpeech
 # Created: 2023.03.12.1528.Sun -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
@@ -11,6 +11,8 @@ fontsize: 14pt
 output: pdf_document
 title: Donnie Yen and Freedom of Speech at the Oscars
 ---
+### Donnie Yen and Freedom of Speech at the Oscars  
+
 (I might liberally post my academic views on geopolitics or income inequality, but over my lifetime I have spent far too much cumulative time studying martial arts and the entertainment industry.  From long before Hollywood started to pay attention, Donnie Yen, Michelle Yeoh, and others were quietly transforming HK cinema martial arts.  Donnie Yen is a giant in his field for many reasons, both visible and otherwise.)  
 
 So the charge underlying this petition that seeks to exclude Donnie Yen from the Oscars is that in 2019 he made remarks that "violate the spirit of freedom of speech" and "denying the rights of the people of Hong Kong to fight for their freedom".  
