@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.12.1533.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.12.1541.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -21,9 +21,9 @@ ____
 
 **Latest blog posts**  
 
-2023.03.12 <a href="2023/03/12/Oscars-Freedom-of-Speech-Donnie-Yen.html">Donnie Yen and Freedom of Speech at the Oscars</a>  
-2023.03.06 <a href="https://DannyQuah.github.io/2023/03/06/Neemrana-CSEP-other-Thucydides.html">Neemrana by CSEP, and that other Thucydides</a>  
-2023.02.28 <a href="https://DannyQuah.github.io/2023/02/28/LSE-China-Development-Forum-2023.html">LSE China Development Forum 2023</a>  
+2023.03.12 <a href="2023/03/12/Oscars-Freedom-Speech-Donnie-Yen.html">Donnie Yen and Freedom of Speech at the Oscars</a>  
+2023.03.06 <a href="https://DannyQuah.github.io/2023/03/06/Neemrana-CSEP-other-Thucydides">Neemrana by CSEP, and that other Thucydides</a>  
+2023.02.28 <a href="https://DannyQuah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
 
 <a href="https://DannyQuah.github.io/Blog-posts.html">Running list of previous blog posts</a>
 
