@@ -1,11 +1,13 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.12.1541.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.17.0722.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
 description: Rapid-access collection of my work resources, with links auto-generated so I don't have to remember to update them
 title: index.md
+documentclass: extarticle
+fontsize: 14pt
 output: github_document
 ---
 <img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg" align=right width=100/>  
@@ -21,20 +23,20 @@ ____
 
 **Latest blog posts**  
 
-2023.03.12 <a href="2023/03/12/Oscars-Freedom-Speech-Donnie-Yen.html">Donnie Yen and Freedom of Speech at the Oscars</a>  
-2023.03.06 <a href="https://DannyQuah.github.io/2023/03/06/Neemrana-CSEP-other-Thucydides">Neemrana by CSEP, and that other Thucydides</a>  
-2023.02.28 <a href="https://DannyQuah.github.io/2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
+2023.03.16 <a href="2023/03/16/PWAC-battle-stories">PWAC battle stories</a>  
+2023.03.12 <a href="2023/03/12/Oscars-Freedom-Speech-Donnie-Yen">Donnie Yen and Freedom of Speech at the Oscars</a>  
+2023.03.06 <a href="2023/03/06/Neemrana-CSEP-other-Thucydides">Neemrana by CSEP, and that other Thucydides</a>  
 
-<a href="https://DannyQuah.github.io/Blog-posts.html">Running list of previous blog posts</a>
-
-____
-
-<a href="https://DannyQuah.github.io/In-progress.html">In-progress manuscripts or freshly out</a>
-
+<a href="Blog-posts.html">Running list of previous blog posts</a>
 
 ____
 
-<a href="https://dannyquah.github.io/Soundbites-strategic.html">Soundbites on longer-term strategic work arcs</a>
+<a href="In-progress.html">In-progress manuscripts or freshly out</a>
+
+
+____
+
+<a href="Soundbites-strategic.html">Soundbites on longer-term strategic work arcs</a>
 
 <!---
    Invisible section // index.md

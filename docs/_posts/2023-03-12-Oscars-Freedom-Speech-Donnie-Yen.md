@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-12-Oscars-Freedom-Speech-Donnie-Yen.md
-# Last-edited: 2023.03.12.1553.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.12.2235.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   HongKong, YenDonnie, Oscars, FreedomOfSpeech
@@ -25,8 +25,9 @@ The petition to remove him says the Oscar event with Yen in it will show "contem
 
 I am not actually seeing a lot of "freedom of speech".  Mostly Martin Niemoller.  
 
-https://www.nme.com/en_asia/news/film/petition-remove-donnie-yen-oscars-presenter-earns-thousands-signatures-3411149
-https://www.bbc.com/news/world-asia-china-64898077 
+https://www.nme.com/en_asia/news/film/petition-remove-donnie-yen-oscars-presenter-earns-thousands-signatures-3411149  
+
+https://www.bbc.com/news/world-asia-china-64898077  
 
 <!---
    Invisible section // 2023-03-12-Oscars-Freedom-Speech-Donnie-Yen.md
