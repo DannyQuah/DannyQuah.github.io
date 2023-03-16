@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-16-PWAC-battle-stories.md
-# Last-edited: 2023.03.17.0730.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.17.0735.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   PWAC, TanSeeLeng, GohSweeChen, KohPohKoon, NgCheeKern
@@ -17,16 +17,16 @@ Nineteen months ago Singapore Minister for Manpower Tan See Leng called to ask m
 
 This evening we got together and shared battle stories.  Good times.  
 
-<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-00.png" alt="PWAC battle stories wefie">  
+<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-00.jpg" alt="PWAC battle stories wefie">  
 
-<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-01.png" alt="PWAC battle stories group">  
+<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-01.jpg" alt="PWAC battle stories group">  
 
 <img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-02.png" alt="PWAC battle stories - in one picture">  
 
 https://mom.gov.sg/pwac-report  
 https://www.straitstimes.com/opinion/the-hard-truth-almost-everyone-may-be-a-platform-worker-in-the-future  
 https://www.nus.edu.sg/newshub/news/2023/2023-03/2023-03-02/HARD-st-2March-pB1%26B2.pdf  
-https://dannyquah.github.io/Storage/2022.10-Danny.Quah-Platform-Companies-Workers-Responses-LKYSPP.pdf  
+https://DannyQuah.github.io/Storage/2022.10-Danny.Quah-Platform-Companies-Workers-Responses-LKYSPP.pdf  
 
 
 
