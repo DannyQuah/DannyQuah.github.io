@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-16-PWAC-battle-stories.md
-# Last-edited: 2023.03.17.0721.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.17.0730.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   PWAC, TanSeeLeng, GohSweeChen, KohPohKoon, NgCheeKern
@@ -17,11 +17,11 @@ Nineteen months ago Singapore Minister for Manpower Tan See Leng called to ask m
 
 This evening we got together and shared battle stories.  Good times.  
 
-<img src="https://DannyQuah.github.io/docs/Storage/Posts/2023-03-16-PWAC-battle-stories-00.png" alt="PWAC battle stories wefie">  
+<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-00.png" alt="PWAC battle stories wefie">  
 
-<img src="https://DannyQuah.github.io/docs/Storage/Posts/2023-03-16-PWAC-battle-stories-01.png" alt="PWAC battle stories group">  
+<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-01.png" alt="PWAC battle stories group">  
 
-<img src="https://DannyQuah.github.io/docs/Storage/Posts/2023-03-16-PWAC-battle-stories-02.png" alt="PWAC battle stories - in one picture">  
+<img src="https://DannyQuah.github.io/Storage/Posts/2023-03-16-PWAC-battle-stories-02.png" alt="PWAC battle stories - in one picture">  
 
 https://mom.gov.sg/pwac-report  
 https://www.straitstimes.com/opinion/the-hard-truth-almost-everyone-may-be-a-platform-worker-in-the-future  
