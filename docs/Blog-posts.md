@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.03.17.0723.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.18.2156.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,6 +13,7 @@ title: Blog posts
 ---
 **Running list of previous blog posts**  
 
+2023.03.18 <a href="2023/03/18/Talking-about-Trust-Edelman-Report">Talking About Trust.  Edelman Trust Barometer report 2023</a>  
 2023.03.16 <a href="2023/03/16/PWAC-battle-stories">PWAC battle stories</a>  
 2023.03.12 <a href="2023/03/12/Oscars-Freedom-Speech-Donnie-Yen">Donnie Yen and Freedom of Speech at the Oscars</a>  
 2023.03.06 <a href="2023/03/06/Neemrana-CSEP-other-Thucydides">Neemrana by CSEP, and that other Thucydides</a>  

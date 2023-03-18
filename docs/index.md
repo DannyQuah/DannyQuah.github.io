@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.17.0722.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.18.2156.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -23,9 +23,11 @@ ____
 
 **Latest blog posts**  
 
+2023.03.18 <a href="2023/03/18/Talking-about-Trust-Edelman-Report">Talking About Trust.  Edelman Trust Barometer report 2023</a>  
 2023.03.16 <a href="2023/03/16/PWAC-battle-stories">PWAC battle stories</a>  
 2023.03.12 <a href="2023/03/12/Oscars-Freedom-Speech-Donnie-Yen">Donnie Yen and Freedom of Speech at the Oscars</a>  
-2023.03.06 <a href="2023/03/06/Neemrana-CSEP-other-Thucydides">Neemrana by CSEP, and that other Thucydides</a>  
+
+<a href="Blog-posts.html">(... more)</a>  
 
 <a href="Blog-posts.html">Running list of previous blog posts</a>
 
