@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-25-Weiming-Future-History.md
-# Last-edited: 2023.03.25.2342.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.25.2348.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, LKYSPP, Yale, LSE, CoxMichael, WestadArne
@@ -15,11 +15,10 @@ title: Weiming Future History
 
 A dozen years ago we three taught Summer School together in Beijing, and spent many evenings by Weiming Lake arguing, where --- among other things --- Arne and Mick would try to convince me that the world's shifting economic centre of gravity was going to prove more interesting to international relations scholars than to economists.  
 
-<img align=left width="45%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-00-2023.02.28.Tue-LSE-Mick.Cox.jpg" alt="With Mick Cox, LSE Marshall Hall, Tue 28 Feb 2023">  
+<img align=left width="49%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-00-2023.02.28.Tue-LSE-Mick.Cox.jpg" alt="With Mick Cox, LSE Marshall Hall, Tue 28 Feb 2023">
 
-
-<img align=right width="45%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-01-2023.03.24.1700.Fri-Arne.Westad-OTH.DO.jpg" alt="With Arne Westad, LKYSPP, Fri 24 Mar 2023">  
-<br>  
+<img align=right width="49%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-01-2023.03.24.1700.Fri-Arne.Westad-OTH.DO.jpg" alt="With Arne Westad, LKYSPP, Fri 24 Mar 2023">  
+<br />  
 
 
 (Since economic models (1) don't reason in terms of a three-dimensional planetary geography; (2) have East and West in them but could "without loss of generality" be re-labelled Regions A and B; and (3) don't make sense of phrasings like The American Century, there was no ready set of hypotheses against which my center of gravity calculations could gain traction. So that contention of relative interest became the first of many arguments I would lose to my two LSE former colleagues.)  
