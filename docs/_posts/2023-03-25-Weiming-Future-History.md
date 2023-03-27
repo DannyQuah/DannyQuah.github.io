@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-25-Weiming-Future-History.md
-# Last-edited: 2023.03.28.0019.Tue -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.28.0022.Tue -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, LKYSPP, Yale, LSE, CoxMichael, WestadArne
@@ -19,7 +19,6 @@ A dozen years ago we three taught Summer School together in Beijing, and spent m
 
 
 <img align=left width="49%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-00-2023.02.28.Tue-LSE-Mick.Cox.jpg" alt="With Mick Cox, LSE Marshall Hall, Tue 28 Feb 2023">
-
 <img align=right width="49%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-01-2023.03.24.1700.Fri-Arne.Westad-OTH.DO.jpg" alt="With Arne Westad, LKYSPP, Fri 24 Mar 2023">  
 <br />  
 
