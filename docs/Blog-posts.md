@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.03.25.2336.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.28.0008.Tue -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -19,6 +19,8 @@ title: Blog posts
 2023.03.12 <a href="2023/03/12/Oscars-Freedom-Speech-Donnie-Yen">Donnie Yen and Freedom of Speech at the Oscars</a>  
 2023.03.06 <a href="2023/03/06/Neemrana-CSEP-other-Thucydides">Neemrana by CSEP, and that other Thucydides</a>  
 2023.02.28 <a href="2023/02/28/LSE-China-Development-Forum-2023">LSE China Development Forum 2023</a>  
+
+And even earlier <a href="https://www.DannyQuah.com/writings/en">DQ-en blog</a>  
 
 
 <!---
