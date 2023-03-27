@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-25-Weiming-Future-History.md
-# Last-edited: 2023.03.28.0025.Tue -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.03.28.0028.Tue -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, LKYSPP, Yale, LSE, CoxMichael, WestadArne
@@ -15,9 +15,6 @@ title: Weiming Future History
 
 <img align=right width="30%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-03-2013.08.24-Beijing-PKU-Weiming-Lake.png" alt="Weiming Lake">
 A dozen years ago we three taught Summer School together in Beijing, and spent many evenings by Weiming Lake arguing, where --- among other things --- Arne and Mick would try to convince me that the world's shifting economic centre of gravity was going to prove more interesting to international relations scholars than to economists.  
-  
-  
-
 <img align=left width="49%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-00-2023.02.28.Tue-LSE-Mick.Cox.jpg" alt="With Mick Cox, LSE Marshall Hall, Tue 28 Feb 2023">
 <img align=right width="49%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-01-2023.03.24.1700.Fri-Arne.Westad-OTH.DO.jpg" alt="With Arne Westad, LKYSPP, Fri 24 Mar 2023">  
 
