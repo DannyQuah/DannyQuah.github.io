@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.04.01.1828.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.02.0628.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,6 +13,7 @@ title: Blog posts
 ---
 **Running list of previous blog posts**  
 
+2023.04.02 <a href="2023/04/02/Be-Competent-Be-Ethical">Be Competent. Be Ethical<a/>  
 2023.03.31 <a href="2023/03/31/How-Was-the-Change">How Was the Change</a>  
 2023.03.25 <a href="2023/03/25/Weiming-Future-History">Weiming Future History</a>  
 2023.03.18 <a href="2023/03/18/Talking-about-Trust-Edelman-Report">Talking About Trust.  Edelman Trust Barometer report 2023</a>  
