@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.03.31.1908.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.01.1849.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -10,8 +10,10 @@ documentclass: extarticle
 fontsize: 14pt
 output: github_document
 ---
-<img src="https://raw.githubusercontent.com/DannyQuah/Images/main/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg" align=right width=100/>  
-This is my work-in-progress website. It's a bare-bones collection of pages for rapid access, quick update, and reduced (git-control) fuss, focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
+
+<img align=right width=100 src="https://DannyQuah.github.io/Storage/2023.01.12.Thu-Asia-Society-0147-DQ-appeals.jpg" alt="DQ at Asia Society speech appeal">  
+
+This is my work-in-progress website. It's a bare-bones collection of pages for rapid access, quick update, and reduced fuss (via git control), focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
 
 (For my TikTok videos or Insta snaps, you'll have to look elsewhere.)  
 
@@ -27,9 +29,7 @@ ____
 2023.03.25 <a href="2023/03/25/Weiming-Future-History">Weiming Future History</a>  
 2023.03.18 <a href="2023/03/18/Talking-about-Trust-Edelman-Report">Talking About Trust.  Edelman Trust Barometer report 2023</a>  
 
-<a href="Blog-posts.html">(... more)</a>  
-
-<a href="Blog-posts.html">Running list of previous blog posts</a>
+<a href="Blog-posts.html">(... more) Running list of previous blog posts</a>
 
 ____
 
