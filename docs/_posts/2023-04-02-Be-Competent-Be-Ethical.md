@@ -1,38 +1,34 @@
 ---
-fileName: 2023-04-02-Be-Competent-Be-Ethical.md
-# Last-edited: 2023.04.02.0650.Sun -- Danny Quah (me@DannyQuah.com)
-Type: Publication
+fileName: 2023-03-31-How-Was-the-Change.md
+# Last-edited: 2023.04.02.0657.Sun -- Danny Quah (me@DannyQuah.com)
+Type: Report
 Tags: >
-  Trust,  Edelman,  Singapore
-# Created: 2023.04.02.0618.Sun -- Danny Quah (me@DannyQuah.com)
+  West, WECG, Academics, PenangMonthly, OoiKeeBeng
+# Created: 2023.03.31.1857.Fri -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: Be Competent. Be Ethical.
+title: How Was the Change
 ---
-### Be Competent.  Be Ethical.  
+### How Was the Change?  
 
 by  
-Danny Quah (Apr 2023)   
+Danny Quah (Mar 2023)  
 
-This report is from a few weeks past but recent scenes in other nations around the world keep bringing me back:  
+(Not something particularly uplifting or to take pride in but I figure if it helps anyone else out there think things through...)  
 
-"The Government remains the institution most trusted by people in Singapore with trust levels at a high, even as business leaders in many other countries command more trust than their political counterparts."  
+Q: "How has the change been from working in the West to being back here?"  
 
-Digging into the Edelman Trust Barometer survey from which this conclusion derives, a two-part formula emerges:  "Be competent.  Be ethical."  
+DQ: Well, you already know what I think about the shift in the world's economic center and where the greatest, most challenging questions lie.  But true, at a recent conference here in Singapore, a friend of mine from a top US economics department came up to me and said, "I see you've returned here now.  Taken the easy way out, right?  Decided you couldn't any more hack the intensity of intellectual work at the frontier?"  
 
-This seems simple enough.  Imagine if in all liberal democracies, elections were held only on the basis of these two qualities.  
+This made me think many things of course, among them, how so much of the West reckons, "Unless you're here with us in the center, you're off the map, and might as well be written off."  Geographical distance, however, is just one of many possible separations.  Perhaps even more acute a problem is when a researcher, with the best and noblest of scholarly intentions, decides to work on issues outside the conventional.  He could be developing cutting-edge tools to do so, the same way as when he was attacking other more familiar problems. But if outsiders don't see past the most obvious of differences, all they'll assume is someone no longer participating in the same domain that they are, and therefore must not any more be a central player.  
 
-Public policy institutions might then focus on genuine challenges and get back into the solutions business.  
+https://penangmonthly.com/article/20851/generating-knowledge-for-a-multipolar-world-ooi-kee-beng-in-conversation-with-danny-quah-part-2  
 
-https://www.channelnewsasia.com/singapore/edelman-trust-barometer-2023-government-business-polarisation-inequality-3345571  
+<img align=center width="95%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-31-How-Was-the-Change-00-Penang-Monthly-DQ-interview.png" alt="Penang Monthly - Generating Knowledge for a Multipolar World">  
 
-I unpack this a bit more in https://dannyquah.github.io/2023/03/18/Talking-about-Trust-Edelman-Report  
-
-
-<img align=center width="90%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-02-Be-Competent-Be-Ethical-00-2023.03.15-CNA-Edelman.png" alt="2023.03.15 CNA Edelman Trust Barometer">  
 
 <!---
-   Invisible section // 2023-04-02-Be-Competent-Be-Ethical.md
+   Invisible section // 2023-03-31-How-Was-the-Change.md
 -->
