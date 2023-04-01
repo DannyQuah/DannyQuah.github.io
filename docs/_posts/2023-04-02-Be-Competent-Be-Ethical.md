@@ -1,6 +1,6 @@
 ---
 fileName: 2023-04-02-Be-Competent-Be-Ethical.md
-# Last-edited: 2023.04.02.0713.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.02.0730.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   Trust,  Edelman,  Singapore
@@ -9,7 +9,8 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-timezone: Asia/Singapore
+future: true
+timezone: Asia/Hong_Kong
 title: Be Competent. Be Ethical.
 ---
 ### Be Competent.  Be Ethical.  
