@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.04.02.0633.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.02.1851.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -26,7 +26,7 @@ ____
 **Latest blog posts**  
 
 2023.04.02 <a href="2023/04/02/Be-Competent-Be-Ethical">Be Competent. Be Ethical</a>  
-2023.03.31 <a href="2023/03/31/How-Was-the-Change">How Was the Change</a>  
+2023.03.31 <a href="2023/03/31/How-Was-the-Change-from-Working-West">How Was the Change from Working in the West?</a>  
 2023.03.25 <a href="2023/03/25/Weiming-Future-History">Weiming Future History</a>  
 
 <a href="Blog-posts.html">(... more) Running list of previous blog posts</a>

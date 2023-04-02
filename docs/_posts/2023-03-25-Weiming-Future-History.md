@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-25-Weiming-Future-History.md
-# Last-edited: 2023.03.28.0044.Tue -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.02.1849.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, LKYSPP, Yale, LSE, CoxMichael, WestadArne
@@ -12,6 +12,10 @@ output: pdf_document
 title: Weiming Future History
 ---
 ### Weiming Future History  
+
+by  
+Danny Quah  
+Mar 2023  
 
 <img align=right width="30%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-03-2013.08.24-Beijing-PKU-Weiming-Lake.png" alt="Weiming Lake">  
 &nbsp;  

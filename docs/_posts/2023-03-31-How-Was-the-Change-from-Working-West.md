@@ -1,6 +1,6 @@
 ---
-fileName: 2023-03-31-How-Was-the-Change.md
-# Last-edited: 2023.04.02.0701.Sun -- Danny Quah (me@DannyQuah.com)
+fileName: 2023-03-31-How-Was-the-Change-from-Working-West.md
+# Last-edited: 2023.04.02.1849.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   West, WECG, Academics, PenangMonthly, OoiKeeBeng
@@ -9,9 +9,9 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: How Was the Change
+title: How Was the Change from Working in the West?
 ---
-### How Was the Change?  
+### How Was the Change from Working in the West?  
 
 by  
 Danny Quah  
@@ -31,5 +31,5 @@ https://penangmonthly.com/article/20851/generating-knowledge-for-a-multipolar-wo
 
 
 <!---
-   Invisible section // 2023-03-31-How-Was-the-Change.md
+   Invisible section // 2023-03-31-How-Was-the-Change-from-Working-West.md
 -->
