@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-12-Oscars-Freedom-Speech-Donnie-Yen.md
-# Last-edited: 2023.03.12.2235.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.03.0556.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   HongKong, YenDonnie, Oscars, FreedomOfSpeech
@@ -12,6 +12,10 @@ output: pdf_document
 title: Donnie Yen and Freedom of Speech at the Oscars
 ---
 ### Donnie Yen and Freedom of Speech at the Oscars  
+
+by  
+Danny Quah  
+Mar 2023  
 
 (I might liberally post my academic views on geopolitics or income inequality, but over my lifetime I have spent far too much cumulative time studying martial arts and the entertainment industry.  From long before Hollywood started to pay attention, Donnie Yen, Michelle Yeoh, and others were quietly transforming HK cinema martial arts.  Donnie Yen is a giant in his field for many reasons, both visible and otherwise.)  
 

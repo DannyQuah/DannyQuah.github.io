@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-18-Talking-about-Trust-Edelman-Report.md
-# Last-edited: 2023.03.25.2318.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.03.0600.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, Edelman, trust
@@ -12,6 +12,10 @@ output: pdf_document
 title: 2023-03-18-Talking-about-Trust-Edelman-Report
 ---
 ### Talking About Trust.  Edelman Trust Barometer report 2023  
+
+by  
+Danny Quah  
+Mar 2023  
 
 <img align=right width="50%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-18-Talking-about-Trust-Edelman-Report-00.png" alt="Edelman Trust Barometer event poster">  
 On Wednesday 15 March I got to take part in the Singapore launch of the Edelman Trust Barometer APAC report.  In the event all us panelists, given our diverse backgrounds, looked to and discussed different key findings in the report.  For me, central was this:  

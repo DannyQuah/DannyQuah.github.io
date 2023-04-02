@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-16-PWAC-battle-stories.md
-# Last-edited: 2023.03.17.0735.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.03.0558.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   PWAC, TanSeeLeng, GohSweeChen, KohPohKoon, NgCheeKern
@@ -12,6 +12,10 @@ output: pdf_document
 title: 2023-03-16-PWAC-battle-stories
 ---
 ### PWAC battle stories  
+
+by  
+Danny Quah  
+Mar 2023  
 
 Nineteen months ago Singapore Minister for Manpower Tan See Leng called to ask me to serve on the Advisory Committee for Platform Workers.  That work threw me into over a year and a half of engagement alongside the rest of the Committee and an awesome collection of dedicated public servants at the Ministry. We held what seemed like weekly meetings at Ministry. We put together over a dozen engagements and got in front of townhalls of hundreds of ordinary people and platform workers, and dozens of platform companies. We submitted a set of recommendations to the Government.  
 
