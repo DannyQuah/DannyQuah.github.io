@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.04.02.1905.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.02.1909.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -25,11 +25,12 @@ ____
 
 **Latest blog posts**  
 
-<img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-02-Be-Competent-Be-Ethical-00-2023.03.15-CNA-Edelman.png" alt="2023.03.15 CNA Edelman Trust Barometer">  2023.04.02 <a href="2023/04/02/Be-Competent-Be-Ethical">Be Competent. Be Ethical</a>  
+2023.04.02 <a href="2023/04/02/Be-Competent-Be-Ethical">Be Competent. Be Ethical</a>  <img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-02-Be-Competent-Be-Ethical-00-2023.03.15-CNA-Edelman.png" alt="2023.03.15 CNA Edelman Trust Barometer">  
 
-<img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-31-How-Was-the-Change-00-Penang-Monthly-DQ-interview.png" alt="Penang Monthly - Generating Knowledge for a Multipolar World">  2023.03.31 <a href="2023/03/31/How-Was-the-Change-from-Working-West">How Was the Change from Working in the West?</a>  
+2023.03.31 <a href="2023/03/31/How-Was-the-Change-from-Working-West">How Was the Change from Working in the West?</a>  
+<img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-31-How-Was-the-Change-00-Penang-Monthly-DQ-interview.png" alt="Penang Monthly - Generating Knowledge for a Multipolar World">  
 
-<img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-03-2013.08.24-Beijing-PKU-Weiming-Lake.png" alt="Weiming Lake">  2023.03.25 <a href="2023/03/25/Weiming-Future-History">Weiming Future History</a>  
+2023.03.25 <a href="2023/03/25/Weiming-Future-History">Weiming Future History</a>  <img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-03-2013.08.24-Beijing-PKU-Weiming-Lake.png" alt="Weiming Lake">  
 
 
 <a href="Blog-posts.html">(... more) Running list of previous blog posts</a>
