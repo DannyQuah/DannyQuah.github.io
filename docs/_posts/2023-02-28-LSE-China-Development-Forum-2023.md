@@ -1,6 +1,6 @@
 ---
 fileName: 2023-02-28-LSE-China-Development-Forum-2023.md
-# Last-edited: 2023.04.02.2135.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.02.2137.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
@@ -12,8 +12,9 @@ Tags: >
 title: LSE China Development Forum 2023
 ---
 ### LSE China Development Forum 2023  
-by Danny Quah  
-Tue 28 Feb 2023  
+by  
+Danny Quah  
+Feb 2023  
 
 I participated this past weekend in LSE's China Development Forum in the Sheikh Zayed Theatre (where over decades I'd previously taken part in many memorable events).  I spoke on Sino-British Relations in a Divided World. I made two observations, from which I drew one conclusion on possible ways forwards.  
 
