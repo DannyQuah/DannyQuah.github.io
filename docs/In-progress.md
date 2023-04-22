@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2023.03.02.1845.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.22.2256.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,12 +13,14 @@ title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
 
+"<a href="https://DannyQuah.github.io/Storage/2023.04-Danny.Quah-Shifting-Great-Powers.pdf">Shifting the Great Powers</a>" (Apr 2023) Great Power competition between China and the US affects more than just the world's two great powers.  Everyone is a stakeholder in geopolitical rivalry.  The prognosis, however, is not optimistic for lesser nations' being anything but passive observers, not least following Thucydides's observation on Great Powers doing what they will and the rest of us suffering what we must.  Nonetheless, both equilibrium reasoning and empirical evidence suggest that the positions of the Great Powers can be shifted through the influence of other states, i.e., that Great Powers' behaviours are elastic with respect to Third Nations' agency.  
+
 "<a href="https://DannyQuah.github.io/Storage/2022.10-Danny.Quah-Platform-Companies-Workers-Responses-LKYSPP.pdf">Platform Companies and Platform
-Workers: Price and Quantity Responses to Changing Cost</a>" (Oct 2022) What is a platform company, and how are platform workers not employees? In a gig economy what are likely patterns of price pass-through if policies make platform workers more costly?  <img src="https://DannyQuah.github.io/Storage/2022.06-Platform-companies-platform-workers-Fig-1.png" alt="Platform companies, platform workers" />
+Workers: Price and Quantity Responses to Changing Cost</a>" (Oct 2022) What is a platform company, and how are platform workers not employees? In a gig economy what are likely patterns of price pass-through if policies make platform workers more costly?  <img src="https://DannyQuah.github.io/Storage/2022.06-Platform-companies-platform-workers-Fig-1.png" alt="Platform companies, platform workers" />  
 
-"<a href="https://DannyQuah.github.io/Storage/2022.04-Danny.Quah-Roles-Evolution-Demand-Supply-MAS-MRApr22_SF_C.pdf">The Roles of Central Banks --- Evolution, or Demand and Supply?</a>" (Apr 2022) // Trying to bring Kindleberger and Thucydides, or just demand and supply, to smooth out a narrative for central bank evolution, whether away from or remaining at a narrow Independence/Price Stability mandate. 
+"<a href="https://DannyQuah.github.io/Storage/2022.04-Danny.Quah-Roles-Evolution-Demand-Supply-MAS-MRApr22_SF_C.pdf">The Roles of Central Banks --- Evolution, or Demand and Supply?</a>" (Apr 2022) // Trying to bring Kindleberger and Thucydides, or just demand and supply, to smooth out a narrative for central bank evolution, whether away from or remaining at a narrow Independence/Price Stability mandate.  
 
-"Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>.  The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.png" alt="Inequality is No Sufficient Statistic, in 1 graph" />
+"Inequality is No Sufficient Statistic" // Technical paper (not yet uploaded) // <a href="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-IEA-Ridge-DQ.pdf">2021.07 IEA RIDGE slides</a> // <a href="https://DannyQuah.github.io/Storage/2021.05-Inequality-No-Sufficient-Statistic-DQ.pdf">2021.05 Nontechnical treatment</a> // <a href="https://DannyQuah.github.io/Storage/2021.02.25-Inequality-st-25feb-pA20-Danny.Quah.pdf">2021.02 Straits Times Commentary - Inequality: A tale of three countries</a>.  The paper in 1 picture <img src="https://DannyQuah.github.io/Storage/2021.07.03-Inequality-No-Sufficient-Statistic-in-1-graph.png" alt="Inequality is No Sufficient Statistic, in 1 graph" />  
 
 ____
 

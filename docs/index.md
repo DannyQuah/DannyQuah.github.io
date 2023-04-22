@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.04.02.2109.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.22.2257.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -23,6 +23,14 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 
 ____
 
+<a href="In-progress.html">In-progress manuscripts or freshly out</a>
+
+____
+
+<a href="Soundbites-strategic.html">Soundbites on longer-term strategic work arcs</a>
+
+____
+
 **Latest blog posts**  
 
 |  <div style="width:400px"> </div>|  |
@@ -34,15 +42,6 @@ ____
 ____
 
 <a href="Blog-posts.html">(... more) Running list of previous blog posts</a>
-
-____
-
-<a href="In-progress.html">In-progress manuscripts or freshly out</a>
-
-
-____
-
-<a href="Soundbites-strategic.html">Soundbites on longer-term strategic work arcs</a>
 
 <!---
    Invisible section // index.md
