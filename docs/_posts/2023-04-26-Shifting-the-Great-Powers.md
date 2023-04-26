@@ -1,6 +1,6 @@
 ---
 fileName: 2023-04-26-Shifting-the-Great-Powers.md
-# Last-edited: 2023.04.26.2336.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.26.2345.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, ThirdNation
@@ -12,6 +12,10 @@ output: pdf_document
 title: 2023-04-26-Shifting-the-Great-Powers
 ---
 ### Shifting the Great Powers  
+
+by  
+Danny Quah  
+Apr 2023  
 
 *Great Power competition between China and the US affects more than just the world's two great powers.  Everyone is a stakeholder in geopolitical rivalry.  Conventional wisdom is not optimistic for lesser nations' being anything but passive observers, not least following Thucydides's observation on Great Powers doing what they will and the rest of us suffering what we must.  Nonetheless, both equilibrium reasoning and empirical evidence suggest that the positions of the Great Powers can be shifted through the influence of other states, i.e., that Great Powers' behaviours are elastic with respect to Third Nations' agency.*  
 
