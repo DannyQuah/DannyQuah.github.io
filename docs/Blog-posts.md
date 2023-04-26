@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.04.03.0600.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.26.2326.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -15,6 +15,7 @@ title: Blog posts
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2023.04.26 <a href="2023/04/26/Shifting-the-Great-Powers">Shifting the Great Powers</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-26-Shifting-the-Great-Powers-Mao-Nixon-22-Feb-1972.webp" alt="Mao Zedong welcoming US President Richard Nixon at his home in Beijing on 22 Feb 1972.  Nixon urged China to join the US in a 'long march together' on different roads to world peace. Photo: AFP">  
 | 2023.04.02 <a href="2023/04/02/Be-Competent-Be-Ethical">Be Competent. Be Ethical</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-02-Be-Competent-Be-Ethical-00-2023.03.15-CNA-Edelman.png" alt="2023.03.15 CNA Edelman Trust Barometer"> | 
 | 2023.03.31 <a href="2023/03/31/How-Was-the-Change-from-Working-West">How Was the Change from Working in the West?</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-31-How-Was-the-Change-00-Penang-Monthly-DQ-interview.png" alt="Penang Monthly - Generating Knowledge for a Multipolar World">|
 | 2023.03.25 <a href="2023/03/25/Weiming-Future-History">Weiming Future History</a>|<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-03-25-Weiming-Future-History-03-2013.08.24-Beijing-PKU-Weiming-Lake.png" alt="Weiming Lake"> |
