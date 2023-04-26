@@ -1,6 +1,6 @@
 ---
 fileName: 2023-04-26-Shifting-the-Great-Powers.md
-# Last-edited: 2023.04.26.2317.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.04.26.2336.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, ThirdNation
@@ -24,12 +24,12 @@ Soft power is of course long established as a leading mode of thinking on world 
 
 Finally, a less happy example from Thucydides's own time: the infamous Thucydides Trap of course had Sparta and Athens clash in the Pelopponesian War, resulting in Athens's defeat.  Shortly after, however, in response to unbenevolent Spartan hegemony, the city-states Thebes and Corinth ("the rest of us") waged military uprising against their former ally Sparta.  The great general Epaminondas led Thebes to a resounding victory at the Battle of Leuctra, crushing Spartan military dominance barely three decades after the Peloponnesian War, leaving the once-victorious hegemon isolated and permanently weakened.  (Thebes, in turn, would be burnt to the ground a mere four decades later by Alexander the Great.)  
 
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-26-Shifting-the-Great-Powers-Mao-Nixon-22-Feb-1972.webp" alt="Mao Zedong welcoming US President Richard Nixon at his home in Beijing on 22 Feb 1972.  Nixon urged China to join the US in a 'long march together' on different roads to world peace. Photo: AFP">  
 
 Quah, Danny. 2023.  "Shifting the Great Powers", Apr 2023  https://dannyquah.github.io/Storage/2023.04-Danny.Quah-Shifting-Great-Powers.pdf  
 
 Quah, Danny. 2023.  "Global intervention may be necessary to pull the US and China back from brink of disaster", SCMP (20 Apr) https://www.scmp.com/comment/opinion/article/3217452/global-intervention-may-be-necessary-pull-us-and-china-back-brink-disaster  
 
-<img align=right width="50%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-26-Shifting-the-Great-Powers-Mao-Nixon-22-Feb-1972.webp" alt="Mao Zedong welcoming US President Richard Nixon at his home in Beijing on 22 Feb 1972.  Nixon urged China to join the US in a 'long march together' on different roads to world peace. Photo: AFP">  
 
 
 <!---
