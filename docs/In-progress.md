@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2023.10.07.1811.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.07.1815.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,7 +13,7 @@ title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
 
-#Economics Global Order  
+# Economics Global Order  
 "<a href="https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf">Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria"</a>" (Oct 2023; joint with Shiro Armstrong)  
 This paper casts within a unified economic framework some key challenges for the global economic order: de-globalization; the rising impracticability of global cooperation; and the increasingly confrontational nature of Great Power competition.  In these, economics has been weaponised in the service of national interest.  This, however, need be no bad thing.  History shows that greater openness and freer trade can emerge when nations seek only to advance their own self-interests.  But the cases described in the paper provide mixed signals.  Following conventional thinking, we find these developments can be partly explained by a growing zero-sum perception to economic and political engagement.  But the zero-sum explanation is inadequate.  Self-serving nations, even when believing the world zero-sum, have under certain circumstances produced outcomes that have benefited all.  In other situations, however, perfectly-predicted losses have resulted on all sides.  Such lose-lose outcomes—epic fail equilibria—generalize the Prisoner’s Dilemma game but are strictly worse than zero-sum.  In our analysis, Third Nations—those not frontline in Great Power rivalry—can serve an essential role in averting epic fail outcomes.  The policy implication is that Third Nations need to provide platforms that will gently and unobtrusively nudge Great Powers away from epic-fail equilibria and towards inadvertent cooperation.  <img src="https://DannyQuah.github.io/Storage/Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-DS.png" alt="Global Economic Order - Demand, Supply" />    [<img src="https://DannyQuah.github.io/Storage/Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Global Economic Order - Demand, Supply" />](https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf)  
 
