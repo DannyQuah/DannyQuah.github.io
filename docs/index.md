@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.10.12.1450.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.15.1630.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -13,7 +13,7 @@ output: github_document
 
 <img align=right width=100 src="https://DannyQuah.github.io/Storage/2023.01.12.Thu-Asia-Society-0147-DQ-appeals.jpg" alt="DQ at Asia Society speech appeal">  
 
-This is my work-in-progress website. It's a bare-bones collection of pages for rapid access, quick update, and reduced fuss (via git control), focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
+This as originally my work-in-progress website, but it is now also the entry-point for my web presence, taking over what used to be at www.dannyquah.com.  It's a bare-bones collection of pages for rapid access, quick update, and reduced fuss (via git control), focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
 
 (For my TikTok videos or Insta snaps, you'll have to look elsewhere.)  
 
@@ -35,7 +35,8 @@ ____
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
-| 2023.10.12 <a href="2023/10/12/Geopolitics-Epic-Fail-Beyond-Zero-Sum">In Geopolitics the World is now Epic Fail, and that's Beyond Just Zero-Sum</a>  | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-10-12-Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Armstrong-Quah Tragedy Epic Fail Equilibria titlepage"> |  
+| 2023.10.12 <a href="2023/10/12/Geopolitics-Epic-Fail-Beyond-Zero-Sum">In Geopolitics the World is now Epic Fail, and that's Beyond Just Zero-Sum</a>  | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-10-12-Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Armstrong-Quah Tragedy Epic Fail Equilibria titlepage">
+[<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-DS.png" alt="Global Economic Order - Demand, Supply" />](https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf) |  
 | 2023.05.01 <a href="2023/05/01/Platform-Worker-Future">Is the Platform Worker the Future of Workers?</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-05-01-Platform-Worker-Future-00-ST.png" alt="The hard truth? Almost everyone may be a platform worker in the future. Straits Times"> |  
 | 2023.04.26 <a href="2023/04/26/Shifting-the-Great-Powers">Shifting the Great Powers</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-26-Shifting-the-Great-Powers-Mao-Nixon-22-Feb-1972.webp" alt="Mao Zedong welcoming US President Richard Nixon at his home in Beijing on 22 Feb 1972.  Nixon urged China to join the US in a 'long march together' on different roads to world peace. Photo: AFP"> |  
 
