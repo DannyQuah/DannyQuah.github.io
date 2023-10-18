@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.10.16.0352.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.18.1955.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -19,7 +19,7 @@ This as originally my work-in-progress website, but it is now also the entry-poi
 
 ____
 
-Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) // [CV-pdf](http://www.dannyquah.com/Quilled/Public-Info/CV-Danny.Quah.pdf) // [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) // [Personal site](https://www.DannyQuah.com/) // <a rel="me" href="https://econtwitter.net/@DannyQuah">Mastodon</a>
+Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ&hl=en) // [CV-pdf](https://dannyquah.github.io/Storage/CV-Danny.Quah.pdf) // [LKYSPP homepage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah) // [Personal site](https://www.DannyQuah.com/) // <a rel="me" href="https://econtwitter.net/@DannyQuah">Mastodon</a>
 
 ____
 
