@@ -1,6 +1,6 @@
 ---
 fileName: 2023-10-25-Semiconductor-Math.md
-# Last-edited: 2023.10.25.1833.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.25.1851.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, semiconductor
@@ -29,7 +29,7 @@ Suppose you were in charge of Planet Earth, and you know semiconductors are the 
 
 #Semiconductors #Sarcasm #OptimalProgram #SocialPlanningProgram
 
-<img align=left width="100%" src="https://DannyQuah.github.io/Storage/Posts/ world-globe-design_1048-12295.jpg" alt="Tech on Earth // World Globe Design - Image by kjpargeter on Freepik">
+<img align=left width="100%" src="https://DannyQuah.github.io/Storage/Posts/world-globe-design_1048-12295.jpg" alt="Tech on Earth // World Globe Design - Image by kjpargeter on Freepik">
 
 
 References:  

@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.10.25.1845.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.25.1852.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -36,7 +36,7 @@ ____
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
 | 2023.10.25 <a href="2023/10/25/Semiconductor-Math">Semiconductor Math</a>  | 
-<img align=left width="25%" src="https://DannyQuah.github.io/Storage/Posts/ world-globe-design_1048-12295.jpg" alt="Tech on Earth // World Globe Design - Image by kjpargeter on Freepik"> |  
+<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/world-globe-design_1048-12295.jpg" alt="Tech on Earth // World Globe Design - Image by kjpargeter on Freepik"> |  
 | 2023.10.12 <a href="2023/10/12/Geopolitics-Epic-Fail-Beyond-Zero-Sum">In Geopolitics the World is now Epic Fail, and that's Beyond Just Zero-Sum</a>  | [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-10-12-Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Armstrong-Quah Tragedy Epic Fail Equilibria titlepage">](https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf) [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-DS.png" alt="Global Economic Order - Demand, Supply" />](https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf) |  
 | 2023.05.01 <a href="2023/05/01/Platform-Worker-Future">Is the Platform Worker the Future of Workers?</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-05-01-Platform-Worker-Future-00-ST.png" alt="The hard truth? Almost everyone may be a platform worker in the future. Straits Times"> |  
 
