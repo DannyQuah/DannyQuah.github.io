@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2023.10.25.1903.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.25.1914.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -15,8 +15,7 @@ title: Blog posts
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
-| 2023.10.25 <a href="2023/10/25/Semiconductor-Math">Semiconductor Math</a>  | 
-<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/world-globe-design_1048-12295.jpg" alt="Tech on Earth. World Globe Design - Image by kjpargeter on Freepik"> |  
+| 2023.10.25 <a href="2023/10/25/Semiconductor-Math">Semiconductor Math</a>  | <img align=left width="10%" src="https://DannyQuah.github.io/Storage/Posts/world-globe-design_1048-12295.jpg" alt="Tech on Earth. World Globe Design - Image by kjpargeter on Freepik"> |  
 | 2023.10.12 <a href="2023/10/12/Geopolitics-Epic-Fail-Beyond-Zero-Sum">In Geopolitics the World is now Epic Fail, and that's Beyond Just Zero-Sum</a>  | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-10-12-Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Armstrong-Quah Tragedy Epic Fail Equilibria titlepage"> |  
 | 2023.05.01 <a href="2023/05/01/Platform-Worker-Future">Is the Platform Worker the Future of Workers?</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-05-01-Platform-Worker-Future-00-ST.png" alt="The hard truth? Almost everyone may be a platform worker in the future. Straits Times"> |  
 | 2023.04.26 <a href="2023/04/26/Shifting-the-Great-Powers">Shifting the Great Powers</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-04-26-Shifting-the-Great-Powers-Mao-Nixon-22-Feb-1972.webp" alt="Mao Zedong welcoming US President Richard Nixon at his home in Beijing on 22 Feb 1972.  Nixon urged China to join the US in a 'long march together' on different roads to world peace. Photo: AFP"> |  
