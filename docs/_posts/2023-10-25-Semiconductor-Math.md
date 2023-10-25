@@ -1,6 +1,6 @@
 ---
 fileName: 2023-10-25-Semiconductor-Math.md
-# Last-edited: 2023.10.25.1851.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.25.2056.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, semiconductor
@@ -26,6 +26,8 @@ Suppose you were in charge of Planet Earth, and you know semiconductors are the 
 3.  Go to where they have the most earthquakes on the planet and put a fifth of the world's chip manufacturing there.  
 4.  Is there a secretive rogue nation on Earth, whose policies are incomprehensible to everyone outside it but who has nuclear missiles? There.  Put 44% of the planet's memory chipmaking capacity right up against it.  
 5.  In an abundance of caution, however, safely place in the Netherlands 100% of world's extreme ultraviolet photolithography machines - the O-ring for painting by light today's cutting-edge chips.  
+
+Yes, each of the above occurs in reality.  Also, yes, all else equal, your calculations will surface exactly none of them in your solution for optimal geographical location.  
 
 #Semiconductors #Sarcasm #OptimalProgram #SocialPlanningProgram
 
