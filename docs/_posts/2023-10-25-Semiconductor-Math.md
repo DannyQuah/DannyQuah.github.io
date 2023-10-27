@@ -1,6 +1,6 @@
 ---
 fileName: 2023-10-25-Semiconductor-Math.md
-# Last-edited: 2023.10.25.2056.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2023.10.25.2059.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, semiconductor
@@ -29,7 +29,7 @@ Suppose you were in charge of Planet Earth, and you know semiconductors are the 
 
 Yes, each of the above occurs in reality.  Also, yes, all else equal, your calculations will surface exactly none of them in your solution for optimal geographical location.  
 
-#Semiconductors #Sarcasm #OptimalProgram #SocialPlanningProgram
+#semiconductors #sarcasm #OptimalProgram #SocialPlanningProgram
 
 <img align=left width="100%" src="https://DannyQuah.github.io/Storage/Posts/world-globe-design_1048-12295.jpg" alt="Tech on Earth // World Globe Design - Image by kjpargeter on Freepik">
 
