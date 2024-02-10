@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2023.10.25.1016.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.02.10.1821.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -12,6 +12,12 @@ plugins:
 title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
+
+<a name="small-nations-succeed">
+# Small Nations Succeed
+"<a href="https://dannyquah.github.io/Storage/2024.02-Danny.Quah-Small-Nations-Success.pdf">Why Small Nations Surprisingly Succeed:  Trade, Technology, and the Washington Consensus</a>" (Feb 2024)  
+
+[<img src="https://DannyQuah.github.io/Storage/2024.02-Danny.Quah-Small-Nations-Success-titlepage.png" alt = "Small Nations Succeed - Titlepage"/>](https://dannyquah.github.io/Storage/2024.02-Danny.Quah-Small-Nations-Success.pdf)
 
 <a name="economics-global-order"></a>
 # Economics Global Order  
