@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2023.10.25.1926.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.02.10.1826.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -23,7 +23,7 @@ Who am I? [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8A
 
 ____
 
-<a href="In-progress.html">In-progress manuscripts or freshly out</a> (Updated Oct 2023)  
+<a href="In-progress.html">In-progress manuscripts or freshly out</a> (Updated Feb 2024)  
 
 ____
 
