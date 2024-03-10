@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.02.10.1830.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.03.10.2344.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,6 +13,11 @@ title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
 
+<a name="multipolarity-multilateralism"></a>
+# New World Order of Multipolarity and Multilateralism  
+"<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf">Economic Principles for A New World Order of Multipolarity and Multilateralism</a>" (Mar 2024)
+
+[<img src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-titlepage.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf)
 
 <a name="small-nations-succeed"></a>
 # Small Nations Succeed  
