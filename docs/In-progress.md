@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.03.19.2149.Tue -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.03.19.2151.Tue -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -17,7 +17,7 @@ title: In-progress
 # Trade-Technology Relation in Small and Poor Economies  
 "<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf">'Export-led Growth':  The Trade-Technology Relation in Small and Poor Economies</a>" (Mar 2024)
 
-[<img src="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology-titlepage.png" alt = "Small and Poor Nation Insights - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf)
+[<img src="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology-titlepage.png" alt = "Trade-Technology in Small and Poor Economies - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf)
 
 
 <a name="multipolarity-multilateralism"></a>
