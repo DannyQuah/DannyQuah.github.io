@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.03.10.2344.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.03.19.2140.Tue -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -12,6 +12,13 @@ plugins:
 title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
+
+<a name="small-poor-trade-technology"></a>
+# Small and Poor Nation Insights for Trade and Technology  
+"<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf">'Export-led Growth':  Small and Poor Nation Insights for Trade and Technology</a>" (Mar 2024)
+
+[<img src="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology-titlepage.png" alt = "Small and Poor Nation Insights - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf)
+
 
 <a name="multipolarity-multilateralism"></a>
 # New World Order of Multipolarity and Multilateralism  
