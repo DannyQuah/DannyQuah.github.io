@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.03.19.2151.Tue -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.04.03.1844.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,18 +13,18 @@ title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
 
+<a name="multipolarity-multilateralism"></a>
+# New World Order of Multipolarity and Multilateralism  
+"<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf">Economic Principles for A New World Order of Multipolarity and Multilateralism</a>" (Apr 2024)
+
+[<img src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-titlepage.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf)
+
+
 <a name="small-poor-trade-technology"></a>
 # Trade-Technology Relation in Small and Poor Economies  
 "<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf">'Export-led Growth':  The Trade-Technology Relation in Small and Poor Economies</a>" (Mar 2024)
 
 [<img src="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology-titlepage.png" alt = "Trade-Technology in Small and Poor Economies - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf)
-
-
-<a name="multipolarity-multilateralism"></a>
-# New World Order of Multipolarity and Multilateralism  
-"<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf">Economic Principles for A New World Order of Multipolarity and Multilateralism</a>" (Mar 2024)
-
-[<img src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-titlepage.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf)
 
 <a name="small-nations-succeed"></a>
 # Small Nations Succeed  
