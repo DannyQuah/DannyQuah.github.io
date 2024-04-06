@@ -1,6 +1,6 @@
 ---
 fileName: 2024-04-06-World-Order-Multipolarity-Multilateralism.md
-# Last-edited: 2024.04.06.1630.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.04.06.1652.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   WorldOrder, multipolarity, multilateralism, EpicFail
@@ -21,7 +21,7 @@ Even as geopolitical rivalry and security concerns threaten to fracture the worl
 
 But can economics continue to reliably do that?  Economics itself has not changed:  the gains of comparative advantage, specialization, and offshoring remain strong, and economic integration continues to advance global well-being and prosperity.  
 
-But policymakers in nations don't, as a matter of course, act to promote global prosperity.  They, instead, seek to advance only their own individual national interests.  Sometimes, they don't even do that, but work to promote just the well-being of specific groups within their respective societies, whether that group comprises laid-off steel workers or vested-interest industrial lobbies.  Then individual nations see a side to economic integration that differs dramatically from that viewed by global observers or international public servants.  When IMF sees gains from trade, the newly unemployed or loss-making businesses see only prices moving against them.  That the global costs of economic fragmentation are large gain little traction for individually self-seeking nations.  
+But policymakers in nations don't, as a matter of course, act to promote global prosperity.  They, instead, seek to advance only their own individual nation's interests.  Sometimes, they don't even do that, but work to promote just the well-being of specific groups within their respective societies, whether that group comprises laid-off steel workers or vested-interest industrial lobbies.  Then individual nations see a side to economic integration that differs dramatically from that viewed by global observers or international public servants.  When IMF sees gains from trade, the newly unemployed or loss-making businesses see only prices moving against them.  That the global costs of economic fragmentation are large gain little traction with individually self-seeking nations.  
 
 In such a world, we need new mindsets for keeping together the international system.  Three guiding principles:  First, build mechanisms for inadvertent cooperation, requiring for success not explicit collaboration but just individual-nations advancing self-interest; second, separate out problem domains where only zero-sum outcomes are available from those where mutual gain is available, possibly by nudges; and third, provide space for constrained multilateralism---whether plurilateral, minilateral, or otherwise---that is open and inclusive, and that will allow full-blown multilateralism to re-emerge where possible.  
 
