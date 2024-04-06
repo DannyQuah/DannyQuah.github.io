@@ -4,7 +4,7 @@ fileName: 2023-10-25-Semiconductor-Math.md
 Type: Report
 Tags: >
   China, US, semiconductor
-# Created: <% tp.date.now("YYYY.MM.DD.HHmm.ddd") %> -- Danny Quah (me@DannyQuah.com)
+# Created: 2023.10.25.2059.Wed -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
 fontsize: 14pt
