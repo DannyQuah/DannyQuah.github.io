@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.04.09.1332.Tue -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.05.09.1037.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -13,6 +13,13 @@ title: In-progress
 ---
 **In-progress manuscripts** or things freshly out:  
 
+<a name="small-poor-trade-technology"></a>
+# Trade-Technology Relation in Small and Poor Economies  
+"<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf">'Export-led Growth':  The Trade-Technology Relation in Small and Poor Economies</a>" (May 2024)
+
+[<img src="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology-titlepage.png" alt = "Trade-Technology in Small and Poor Economies - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf)
+
+___
 <a name="multipolarity-multilateralism"></a>
 # New World Order of Multipolarity and Multilateralism  
 "<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf">Economic Principles for A New World Order of Multipolarity and Multilateralism</a>" (Apr 2024)
@@ -21,13 +28,6 @@ title: In-progress
 
 ___
 
-<a name="small-poor-trade-technology"></a>
-# Trade-Technology Relation in Small and Poor Economies  
-"<a href="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf">'Export-led Growth':  The Trade-Technology Relation in Small and Poor Economies</a>" (Mar 2024)
-
-[<img src="https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology-titlepage.png" alt = "Trade-Technology in Small and Poor Economies - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-Small-Poor-Trade-Technology.pdf)
-
-___
 
 <a name="small-nations-succeed"></a>
 # Small Nations Succeed  
