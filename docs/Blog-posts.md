@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2024.06.09.1946.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.06.09.2205.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -11,6 +11,8 @@ plugins:
   -  jekyll-remote-theme
 title: Blog posts
 ---
+[Site homepage](https://DannyQuah.github.io/)  
+
 **Running list of previous blog posts**  
 
 |  <div style="width:400px"> </div>|  |

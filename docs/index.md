@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2024.06.09.1946.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.06.09.2210.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -10,10 +10,11 @@ documentclass: extarticle
 fontsize: 14pt
 output: github_document
 ---
+[Site homepage](https://DannyQuah.github.io/)  
 
-<img align=right width=100 src="https://DannyQuah.github.io/Storage/2023.01.12.Thu-Asia-Society-0147-DQ-appeals.jpg" alt="DQ at Asia Society speech appeal">  
+<img align=right width=100 src="https://DannyQuah.github.io/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg" alt="DQ SAIF Globalisation 2024.02">  
 
-This as originally my work-in-progress website, but it is now also the entry-point for my web presence, taking over what used to be at www.dannyquah.com.  It's a bare-bones collection of pages for rapid access, quick update, and reduced fuss (via git control), focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
+This was originally my work-in-progress website, but it is now also the entry-point for my web presence, taking over what used to be at www.dannyquah.com.  It's a bare-bones collection of pages for rapid access, quick update, and reduced fuss (via git control), focusing on just my writings or lectures or R code.  Most of what appears below is auto-generated.  
 
 (For my TikTok videos or Insta snaps, you'll have to look elsewhere.)  
 

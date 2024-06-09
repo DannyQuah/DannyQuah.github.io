@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.05.09.1037.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.06.09.2205.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -11,6 +11,8 @@ plugins:
   -  jekyll-remote-theme
 title: In-progress
 ---
+[Site homepage](https://DannyQuah.github.io/)  
+
 **In-progress manuscripts** or things freshly out:  
 
 <a name="small-poor-trade-technology"></a>

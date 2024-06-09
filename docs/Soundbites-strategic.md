@@ -1,6 +1,6 @@
 ---
 fileName: Soundbites-strategic.md
-# Last-edited: 2023.03.02.1854.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.06.09.2210.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1820.Thu -- Danny Quah (me@DannyQuah.com)
@@ -11,6 +11,8 @@ plugins:
   -  jekyll-remote-theme
 title: Soundbites-strategic
 ---
+[Site homepage](https://DannyQuah.github.io/)  
+
 Soundbites on **longer-term strategic work arcs**:  
 
 1.  Is world order a linear hierarchy, or is an alternative geometry more appropriate?
