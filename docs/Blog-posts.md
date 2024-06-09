@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2024.04.06.1605.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.06.09.1941.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -15,6 +15,7 @@ title: Blog posts
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2024.06.09 <a href="2024/06/09/Small-State-Leadership-Bretton-Woods-80">Small State Leadership: Bretton Woods at 80"</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.05.27.0900.Mon-BW80-group-official.jpg" alt="Bretton Woods at 80 Group"/> <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.05.27.1230.Tue-BW80-DQ-panel-full-2.jpeg" alt="Bretton Woods at 80 - DQ Panel"/> <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.05.27.Mon-BW80-Hangzhou-Xihu-State-Guest-House.jpg" alt="Bretton Woods at 80 Hangzhou Xihu State Guest House"/> |
 | 2024.04.06 <a href="2024/04/06/World-Order-Multipolarity-Multilateralism">World Order with Multipolarity and Multilateralism</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-titlepage.png" alt="Danny Quah World Order Multipolarity Multilateralism"> [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-T1-Inadvertent-cooperation.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf) [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-T2-Zero-sum.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf) [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-T3-Epic-Fail.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf) |  
 | 2023.10.25 <a href="2023/10/25/Semiconductor-Math">Semiconductor Math</a>  | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/world-globe-design_1048-12295.jpg" alt="Tech on Earth. World Globe Design - Image by kjpargeter on Freepik"> |  
 | 2023.10.12 <a href="2023/10/12/Geopolitics-Epic-Fail-Beyond-Zero-Sum">In Geopolitics the World is now Epic Fail, and that's Beyond Just Zero-Sum</a>  | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-10-12-Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Armstrong-Quah Tragedy Epic Fail Equilibria titlepage"> |  
