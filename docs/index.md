@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2024.06.09.2210.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.07.03.1536.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -36,9 +36,9 @@ ____
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2024.07.03 <a href="2024/07/03/EV-Overcapacity">EV Overcapacity</a> |  |
 | 2024.06.09 <a href="2024/06/09/Small-State-Leadership-Bretton-Woods-80">Small State Leadership: Bretton Woods at 80</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.05.27.0900.Mon-BW80-group-official.jpg" alt="Bretton Woods at 80 Group"/> <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.05.27.1230.Tue-BW80-DQ-panel-full-2.jpeg" alt="Bretton Woods at 80 - DQ Panel"/> <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.05.27.Mon-BW80-Hangzhou-Xihu-State-Guest-House.jpg" alt="Bretton Woods at 80 Hangzhou Xihu State Guest House"/> |
 | 2024.04.06 <a href="2024/04/06/World-Order-Multipolarity-Multilateralism">World Order with Multipolarity and Multilateralism</a> | <img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-titlepage.png" alt="Danny Quah World Order Multipolarity Multilateralism"> [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-T1-Inadvertent-cooperation.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf) [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-T2-Zero-sum.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf) [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism-T3-Epic-Fail.png" alt = "New World Order - Titlepage"/>](https://dannyquah.github.io/Storage/2024.03-Danny.Quah-New-World-Order-Multipolarity-Multilateralism.pdf) |  
-| 2023.10.12 <a href="2023/10/12/Geopolitics-Epic-Fail-Beyond-Zero-Sum">In Geopolitics the World is now Epic Fail, and that's Beyond Just Zero-Sum</a>  | [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Posts/2023-10-12-Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-Titlepage.png" alt="Armstrong-Quah Tragedy Epic Fail Equilibria titlepage">](https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf) [<img align=left width="15%" src="https://DannyQuah.github.io/Storage/Armstrong-S-Quah-D-2023-Economics-Global-Economic-Order-DS.png" alt="Global Economic Order - Demand, Supply" />](https://dannyquah.github.io/Storage/2023-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order.pdf) |  
 
 ____
 
