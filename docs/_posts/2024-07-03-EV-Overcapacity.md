@@ -1,6 +1,6 @@
 ---
 fileName: 2024-07-03-EV-Overcapacity.md
-# Last-edited: 2024.07.04.0818.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.07.04.0844.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   EV, overcapacity
@@ -17,7 +17,7 @@ by
 Danny Quah  
 July 2024  
 
-Every nation is right to seek to ensure a level playing field. All economies, whether they're the EU, the US, China, or everyone else, have legitimate concerns that trade occur on terms benefiting both sides of the exchange.
+Every nation is right to seek to ensure a level playing field. Every nation is right to make sure its industries and communities thrive, good jobs are available for its workers, and its economic future is secure, according to the accepted rules of the international system.  All economies, whether they're the EU, the US, China, or everyone else, have legitimate concerns that trade occur on terms benefiting both sides of the exchange.
 
 However, it is an unclear narrative that is emerging from the US and the EU on China's overcapacity making for unfair trade.  Be that as it may, as a consequence of that thinking applied to strategic sectors such as new energy (electric vehicles or EVs; electric batteries; solar panels), Biden has quadrupled to 100% US tariffs on China-made EVs.  
 
