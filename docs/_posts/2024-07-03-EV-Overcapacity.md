@@ -1,6 +1,6 @@
 ---
 fileName: 2024-07-03-EV-Overcapacity.md
-# Last-edited: 2024.07.04.0844.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.07.05.0553.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   EV, overcapacity
@@ -52,6 +52,8 @@ Finally, what economists might describe as general equilibrium thinking rather t
 "新加坡学者：美国将自身的经济混乱与政治议题混为一谈" https://xinwen.bjd.com.cn/content/s667d8bb2e4b07e497a97382e.html (Beijing Daily, Fri 28 Jun 2024)  
 
 Atlantic Council. 2024.  "Europe is gearing up to hit Chinese EVs with new tariffs. Here’s why", New Atlanticist (June 12) https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react/europe-is-gearing-up-to-hit-chinese-evs-with-new-tariffs-heres-why/  
+
+Frankel, Jeffrey. 2024.  "It Doesn't Make Sense:  Why US Tariffs on Chinese Cleantech Risk the Green Transition", The Guardian (26 Jun) https://www.theguardian.com/business/article/2024/jun/26/it-doesnt-make-sense-why-us-tariffs-on-chinese-cleantech-risk-the-green-transition  
 
 Quah, Danny.  2024.  "'Export-led Growth':  The Trade-Technology Relation in Small and Poor Economies", LKYSPP Working Paper (May)  https://dannyquah.github.io/In-progress.html#small-poor-trade-technology
 
