@@ -1,6 +1,6 @@
 ---
 fileName: 2024-07-03-EV-Overcapacity.md
-# Last-edited: 2024.07.04.0116.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.07.04.0818.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   EV, overcapacity
@@ -43,7 +43,7 @@ Finally, is China flooding Western markets with clean-energy products?  China's 
 
 China is hardly flooding the world with loss-making EVs.  
 
-Finally, what economists might describe as general equilibrium thinking rather than partial equilibrium analysis:  While rightly looking out for their own industries and businesses, everyone needs to think a little also about the good of our planet.  Simply put, the world needs clean cheap energy.  To gain any reasonable measure of control over their own destiny, emerging economies will need massive sustained bursts of energy.  Poor countries cannot afford costly technologies to replace fossil fuels and, as a result, unless things change, the Global South will be responsible for most of the world's impending carbon emissions.  These countries are not agitating about clean-energy overcapacity: for the 70% of humanity that lives there, for a long while still, there is no state of the world where are too many EVs, too much electric battery storage, and too many solar panels.  
+Finally, what economists might describe as general equilibrium thinking rather than partial equilibrium analysis:  While rightly looking out for their own industries and businesses, everyone needs to think a little also about the good of our planet.  Simply put, the world needs clean cheap energy.  To gain any reasonable measure of control over their own destiny, emerging economies will need massive sustained bursts of energy.  Poor countries cannot afford costly technologies to replace fossil fuels and, as a result, unless things change, the Global South will be responsible for most of the world's impending carbon emissions.  These countries are not agitating about clean-energy overcapacity: for the 70% of humanity that lives there, for a long while still, there is no state of the world where there are too many EVs, too much electric battery storage, and too many solar panels.  
 
 
 
