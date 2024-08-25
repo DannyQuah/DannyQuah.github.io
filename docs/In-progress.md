@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.08.25.2147.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.08.25.2156.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -17,7 +17,7 @@ title: In-progress
 
 <a name="correlated-trade-geopolitics"></a>
 # Correlated Trade and Geopolitics Driving a Fractured World Order
-"<a href="https://dannyquah.github.io/Storage/Quah-D-2024.08-Correlated-Trade-Geopolitics-Fractured-Order.pdf">Correlated Trade and Geopolitics Driving a Fractured World Order</a>" (Aug 2024)
+"<a href="https://dannyquah.github.io/Storage/2024.08-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order.pdf">Correlated Trade and Geopolitics Driving a Fractured World Order</a>" (Aug 2024)
 
 [<img src="https://dannyquah.github.io/Storage/2024.08-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-titlepage.png" alt = "Correlated Trade Geopolitics Driving a Fractured World Order - Titlepage"/>](https://dannyquah.github.io/Storage/Quah-D-2024.08-Correlated-Trade-Geopolitics-Fractured-Order.pdf)
 
