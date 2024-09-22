@@ -1,6 +1,6 @@
 ---
 fileName: 2024-09-23-America-as-No-2.md
-# Last-edited: 2024.09.23.0041.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.09.23.0745.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   ChinaUS, America, ThirdNations, Thucydides, Realism
@@ -23,7 +23,7 @@ We spend so much time asking what America wants, what China wants, we forget tha
 
 It is not unique to us, of course, to lose sight of this simple arithmetic.  While the world fully understands how economics needs to take care of the weak and vulnerable in society, when it comes to geopolitics, everyone lapses into fundamentalist Thucydides-Realism, "The Great Powers do what they will; the rest of us suffer what we must".  The Great Powers, after all, are the ones with the bombs.  
 
-But since the end of WW2 the world has also devoted considerable effort to building a system of benevolent hegemony with heavy overlays of multilateralism.  We have all tasted what it means to trade and engage in a multilateral rules-based system, founded on the consent of the governed and shaped by the organized opinion of humanity.  
+But since the end of WW2 the world has also devoted considerable effort to building a system of benevolent hegemony with heavy overlays of multilateralism.  We have all tasted what it means to trade and engage in a multilateral rules-based system, to paraphrase Woodrow Wilson, founded on the consent of the governed and shaped by the organized opinion of humanity.  
 
 Sensible world leaders know this to be the formula for peace and prosperity.  Even if outright collaboration is made impossible by sharp ideological differences, inadvertent cooperation already gets us a long way.  
 
