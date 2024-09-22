@@ -1,6 +1,6 @@
 ---
 fileName: 2024-09-23-America-as-No-2.md
-# Last-edited: 2024.09.22.2353.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.09.23.0041.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   ChinaUS, America, ThirdNations, Thucydides, Realism
@@ -28,6 +28,8 @@ But since the end of WW2 the world has also devoted considerable effort to build
 Sensible world leaders know this to be the formula for peace and prosperity.  Even if outright collaboration is made impossible by sharp ideological differences, inadvertent cooperation already gets us a long way.  
 
 Foreign Policy published as a letter to the next US President an essay of mine, taking this Third Nation perspective.  The essay describes three concrete steps that, it seems to me, would go a long way on that vision, and without America giving up anything actually substantive.  ([Gift link](https://foreignpolicy.com/2024/09/04/danny-quah-singapore-letter-us-president/?utm_content=gifting&tpcc=gifting_article&gifting_article=ZGFubnktcXVhaC1zaW5nYXBvcmUtbGV0dGVyLXVzLXByZXNpZGVudA==&pid=PNILoiIJgqmxsxl), free to read.)  A [Chinese translation](https://mp.weixin.qq.com/s/C34PGL4Su6jCfJ0Nvjkl-Q) appeared a few days later on Weixin.  
+
+Do you know what will happen to the American people's way of life and the US system of government if the US becomes No. 2?  Nothing.  Absolutely nothing.  
 
 [<img src="https://DannyQuah.github.io/Storage/2024.09.06.2305.Fri-Foreign.Policy.Magazine-FB-Plight-unfortunate-weak-vulnerable.png" alt="Foreign Policy Magazine cover"/>](https://DannyQuah.github.io/Storage/2024.09.06.2305.Fri-Foreign.Policy.Magazine-FB-Plight-unfortunate-weak-vulnerable.png)
 
