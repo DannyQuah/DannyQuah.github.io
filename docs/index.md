@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2024.09.23.0006.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.10.19.2051.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -36,6 +36,7 @@ ____
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2024.10.19 <a href="2024/10/19/Bretton-Woods-from-UNCTAD">Bretton Woods from UNCTAD</a> |  |
 | 2024.09.23 <a href="2024/09/23/America-as-No-2">America as No. 2</a> |  |
 | 2024.08.31 <a href="2024/08/31/Not-Inequality-Or-Trade-Deficit-Its-Price">"It's not quantity, inequality, or the trade deficit.  It's price."</a> |  |
 | 2024.07.03 <a href="2024/07/03/EV-Overcapacity">EV Overcapacity</a> |  |
