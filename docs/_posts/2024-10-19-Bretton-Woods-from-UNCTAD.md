@@ -1,6 +1,6 @@
 ---
 fileName: 2024-10-19-Bretton-Woods-from-UNCTAD.md
-# Last-edited: 2024.10.19.2055.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.10.19.2104.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   BrettonWoods, UNCTAD, multilateralism, Geneva
@@ -31,7 +31,7 @@ We should be working to make a good system work, not mobilizing to tear it down.
 
 https://unctad.org/podcast/bretton-woods-80-why-global-financial-system-needs-big-changes-boost-sustainable  
 
-[![Watch video](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/tree/main/docs/Storage/2024.10.18.Fri-LKYSPP-DQ-Bretton-Woods-at-80.png)](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/tree/main/docs/Storage/2024.10.18.Fri-LKYSPP-DQ-Bretton-Woods-at-80.mpg)
+[![Watch video](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/Storage/2024.10.18.Fri-LKYSPP-DQ-Bretton-Woods-at-80.png)](https://raw.githubusercontent.com/DannyQuah/DannyQuah.github.io/Storage/2024.10.18.Fri-LKYSPP-DQ-Bretton-Woods-at-80.mpg) 
 
 <!---
    Invisible section // 2024-10-19-Bretton-Woods-from-UNCTAD.md
