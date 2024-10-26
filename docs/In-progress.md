@@ -1,6 +1,6 @@
 ---
 fileName: In-progress.md
-# Last-edited: 2024.08.25.2157.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.10.26.2213.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: github.io, github
 # Created: 2023.03.02.1816.Thu -- Danny Quah (me@DannyQuah.com)
@@ -14,6 +14,15 @@ title: In-progress
 [Site homepage](https://DannyQuah.github.io/)  
 
 **In-progress manuscripts** or things freshly out:  
+
+<a name="China-rise-international-order"></a>
+# China's Rise and the International Economic Order
+"<a href="https://dannyquah.github.io/Storage/2024.10-Danny.Quah-Chinas-Rise-International-Economic-Order.pdf">China's Rise and the International Economic Order: The China Shock at the End of History</a>" (Oct 2024)
+
+[<img src="https://dannyquah.github.io/Storage/2024.10-Danny.Quah-Chinas-Rise-International-Economic-Order-titlepage.png" alt = "China's Rise and the International Economic Order: The China Shock at the End of History - Titlepage" />](https://dannyquah.github.io/Storage/2024.10-Danny.Quah-Chinas-Rise-International-Economic-Order.pdf)
+
+
+___
 
 <a name="correlated-trade-geopolitics"></a>
 # Correlated Trade and Geopolitics Driving a Fractured World Order
