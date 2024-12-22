@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.2044.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.2049.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -31,7 +31,7 @@ The second shock is the US's renegotiation of the traditional understanding of w
 
 <figure>
 <img align=right width="100%" src="https://DannyQuah.github.io/Storage/2023.09-Chin-Skinner-Yoo-US-National-Security-Strategies-Fig-1.png" alt="Chin, Skinner, Yoo 2023 - Fig 1">
-<figcaption>Fig. 1 in John Chin, Kiron Skinner, and Clay Yoo. 2023, "Understanding National Security Strategies Through Time", <sl>Texas National Security Review</sl> (Fall)</figcaption>
+<figcaption>Fig. 1 in John Chin, Kiron Skinner, and Clay Yoo. 2023, "Understanding National Security Strategies Through Time", <em>Texas National Security Review</em> (Fall)</figcaption>
 </figure>
 
 No longer.  America's preferred tools of engagement now include unilateral actions, nationalistic  economic statecraft, and constant complaint about others taking advantage of it.  
@@ -40,7 +40,7 @@ No longer.  America's preferred tools of engagement now include unilateral actio
 
 I am not suggesting any equivalence between the China Shock and the US Shock.  But from the perspective of Third Nations, whether in the Indo-Pacific or elsewhere, both these disturbances disrupt, and no amount of wishful thinking will make either go away.  
 
-The point is not to approve or disapprove of either or both of these shocks.  The point instead is to ask, In a 2-shock Indo-Pacific, what is the smartest thing now for the rest of us to do?  
+The point is not to approve or disapprove of either or both of these shocks.  The point instead is to ask, In a 2-shock Indo-Pacific order, what is the smartest thing now for the rest of us to do?  
 
 An instance of 1-shock thinking:  
 
