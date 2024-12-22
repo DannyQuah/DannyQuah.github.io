@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.23.0543.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.23.0547.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -21,7 +21,7 @@ A "China-Shock" model has been, not inappropriately, a dominant framework that m
 
 <figure>
 <img align=right width="100%" src="https://DannyQuah.github.io/Storage/2024.08-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-import-prices-US-figure.png" alt="Quah 2024 - US Import and Domestic Prices, Fig. 1">
-<figcaption>Fig. 1 in Danny Quah. 2024, "Correlated Trade and Geopolitics Driving a Fractured World Order", <em>LKYSPP Working Paper</em></figcaption>
+<figcaption>Fig. 1 in Danny Quah. 2024, "Correlated Trade and Geopolitics Driving a Fractured World Order", <em>LKYSPP Working Paper</em> (Aug)</figcaption>
 </figure>
 
 But what if there is another shock, equally profound, to the international order?  This is the US Shock, not observable from within the US, but felt everywhere else in the world.  
