@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.2052.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.2106.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -19,7 +19,9 @@ Dec 2024
 
 A "China-Shock" model has been, not inappropriately, a dominant framework that many observers use to understand recent geopolitical developments in Southeast Asia and the Indo-Pacific region.  The rise of China is profound and real.  The China Shock on economic performance throughout the world is genuine, and has both positive and negative effects.  The rise of China has unsettled many views of the international order, not least in Southeast Asia over which America has long practiced benevolent but incomplete Great Power hegemony.  
 
-This model begins with ASEAN imagined to practice a version of region-centered, rules-based multilateralism.  This delivered security, peace and stability, and economic prosperity, with the entire structure undergirded by a form of benevolent but incomplete Great Power hegemony.  The one shock is that a rising, revisionist, other Great Power has disrupted the equilibrium.  The policy questions that emerge include: How do we find our way back?  Do we work to restrict the agency and influence of the revisionist disruptor?  Do we support and seek to strengthen the incumbent benevolent hegemon?
+But what if there is another shock, equally profound, to the international order?  
+
+The standard model has an ASEAN imagined to practice a version of region-centered, rules-based multilateralism.  This delivered security, peace and stability, and economic prosperity, with the entire structure undergirded by a form of benevolent but incomplete Great Power hegemony.  The one shock is that a rising, revisionist, other Great Power has disrupted the equilibrium.  The policy questions that emerge include: How do we find our way back?  Do we work to restrict the agency and influence of the revisionist disruptor?  Do we support and seek to strengthen the incumbent benevolent hegemon?
 
 This shock - China's rise - has a dynamic effect whose range includes different possibilities:  
 
