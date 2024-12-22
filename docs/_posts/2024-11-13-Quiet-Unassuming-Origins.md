@@ -1,6 +1,6 @@
 ---
 fileName: 2024-11-13-Quiet-Unassuming-Origins.md
-# Last-edited: 2024.12.22.1621.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.2052.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   EV, WanGang
@@ -12,6 +12,10 @@ output: pdf_document
 title: 2024-11-13-Quiet-Unassuming-Origins
 ---
 ### The Quiet Unassuming Origins of China's EV Industry
+
+by  
+Danny Quah  
+Nov 2024  
 
 In 2000 Wan Gang was still working at Audi in Germany when he presented to China's State Council the idea that clean fuel would provide critical impetus for new car technologies.  He was invited to return to China to head up EV and NEV projects.   
 
