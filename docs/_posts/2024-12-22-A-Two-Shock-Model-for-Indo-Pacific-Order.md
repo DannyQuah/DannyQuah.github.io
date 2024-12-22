@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.2106.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.2114.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -21,6 +21,11 @@ A "China-Shock" model has been, not inappropriately, a dominant framework that m
 
 But what if there is another shock, equally profound, to the international order?  
 
+<figure>
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2023.09-Chin-Skinner-Yoo-US-National-Security-Strategies-Fig-1.png" alt="Chin, Skinner, Yoo 2023 - Fig 1">
+<figcaption>Fig. 1 in John Chin, Kiron Skinner, and Clay Yoo. 2023, "Understanding National Security Strategies Through Time", <em>Texas National Security Review</em> (Fall)</figcaption>
+</figure>
+
 The standard model has an ASEAN imagined to practice a version of region-centered, rules-based multilateralism.  This delivered security, peace and stability, and economic prosperity, with the entire structure undergirded by a form of benevolent but incomplete Great Power hegemony.  The one shock is that a rising, revisionist, other Great Power has disrupted the equilibrium.  The policy questions that emerge include: How do we find our way back?  Do we work to restrict the agency and influence of the revisionist disruptor?  Do we support and seek to strengthen the incumbent benevolent hegemon?
 
 This shock - China's rise - has a dynamic effect whose range includes different possibilities:  
@@ -34,11 +39,6 @@ Many observers have, thus, conjectured possibilities for how world order might a
 However, as taught us by econometric studies of business cycles, the policy response is almost always inappropriate and ineffective if the wrong assumptions are made about the number and source of shocks to the system.  What if geopolitical developments are driven not by just a single large shock but instead two?  
 
 The second shock is the US's renegotiation of the traditional understanding of world order, one that had been open, rules-based, and multilateral. Once, America's leadership worked according to a liberal theory of history that hypothesized three links of a chain: economic enlargement (globalization) drives economic development; economic development spurs democracy (modernization theory); democracy engenders peace (democratic peace theory):  Clinton bet his presidency on globalization. So too, even as Obama's Presidency pivoted towards Asia to better deal with China, the Obama administration continued to emphasise America's multilateral leadership, emphasising non-military vectors of power.  As long ago as the 1980s, Reagan's foreign policy held nations to responsibly bearing the brunt of their economic shortcomings:  in the Cold War, America beat out the Soviet Union on a level playing field of economic competition enforced by multilateral rules.  
-
-<figure>
-<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2023.09-Chin-Skinner-Yoo-US-National-Security-Strategies-Fig-1.png" alt="Chin, Skinner, Yoo 2023 - Fig 1">
-<figcaption>Fig. 1 in John Chin, Kiron Skinner, and Clay Yoo. 2023, "Understanding National Security Strategies Through Time", <em>Texas National Security Review</em> (Fall)</figcaption>
-</figure>
 
 No longer.  America's preferred tools of engagement now include unilateral actions, nationalistic  economic statecraft, and constant complaint about others taking advantage of it.  
 
