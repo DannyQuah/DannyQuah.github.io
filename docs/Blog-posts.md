@@ -1,6 +1,6 @@
 ---
 fileName: Blog-posts.md
-# Last-edited: 2024.11.13.1855.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.1855.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Notes
 Tags: Blog, github.io, github
 # Created: 2023.03.02.1734.Thu -- Danny Quah (me@DannyQuah.com)
@@ -17,6 +17,7 @@ title: Blog posts
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2024.12.22 <a href="2024/12/22/A-Two-Shock-Model-for-Indo-Pacific-Order">A Two-Shock Model for Indo-Pacific Geopolitical Order</a> |  |
 | 2024.11.13 <a href="2024/11/13/Quiet-Unassuming-Origins">The Quiet Unassuming Origins of China's EV Industry</a> |  |
 | 2024.10.19 <a href="2024/10/19/Bretton-Woods-from-UNCTAD">Bretton Woods from UNCTAD</a> |  |
 | 2024.09.23 <a href="2024/09/23/America-as-No-2">America as No. 2</a> |  |

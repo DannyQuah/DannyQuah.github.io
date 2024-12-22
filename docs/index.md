@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2024.11.13.1857.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.1856.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -36,6 +36,7 @@ ____
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2024.12.22 <a href="2024/12/22/A-Two-Shock-Model-for-Indo-Pacific-Order">A Two-Shock Model for Indo-Pacific Geopolitical Order</a> |  |
 | 2024.11.13 <a href="2024/11/13/Quiet-Unassuming-Origins">The Quiet Unassuming Origins of China's EV Industry</a> |  |
 | 2024.10.19 <a href="2024/10/19/Bretton-Woods-from-UNCTAD">Bretton Woods from UNCTAD</a> |  |
 | 2024.09.23 <a href="2024/09/23/America-as-No-2">America as No. 2</a> |  |
