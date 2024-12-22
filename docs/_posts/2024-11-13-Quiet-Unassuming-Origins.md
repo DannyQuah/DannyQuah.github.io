@@ -1,9 +1,9 @@
 ---
 fileName: 2024-11-13-Quiet-Unassuming-Origins.md
-# Last-edited: 2024.11.13.1902.Wed -- Danny Quah (me@DannyQuah.com)
-Type: Event | Person | Notes | Publication | Log | Misc | Report
+# Last-edited: 2024.12.22.1621.Sun -- Danny Quah (me@DannyQuah.com)
+Type: Publication
 Tags: >
-  LKYSPP, Hardware, Software, Finance
+  EV, WanGang
 # Created: 2024.11.13.1831.Wed -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
@@ -14,7 +14,6 @@ title: 2024-11-13-Quiet-Unassuming-Origins
 ### The Quiet Unassuming Origins of China's EV Industry
 
 In 2000 Wan Gang was still working at Audi in Germany when he presented to China's State Council the idea that clean fuel would provide critical impetus for new car technologies.  He was invited to return to China to head up EV and NEV projects.   
-
 
 That same year, 2000, Time Magazine had written "China cannot grow into an industrial giant in the 21st century.  Its population is too large and its gross domestic product is too small."  As Graham Allison described the then conventional understanding, "with a per capita income at roughly the same level as Guyana and the Philippines, most Chinese did not have enough money to buy advanced technological products - let alone the resources to invent them."<img align=right width="50%" src="https://DannyQuah.github.io/Storage/2024.11.09.Sat-Tsinghua-SPPM-Wan.Gang-DQ-collage.jpg" alt="Tsinghua SPPM GAB, Wan Gang, John Thornton collage">  
 
