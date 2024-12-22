@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.2037.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.2041.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -30,13 +30,13 @@ However, as taught us by econometric studies of business cycles, the policy resp
 The second shock is the US's renegotiation of the traditional understanding of world order, one that had been open, rules-based, and multilateral. Once, America's leadership worked according to a liberal theory of history that hypothesized three links of a chain: economic enlargement (globalization) drives economic development; economic development spurs democracy (modernization theory); democracy engenders peace (democratic peace theory):  Clinton bet his presidency on globalization. So too, even as Obama's Presidency pivoted towards Asia to better deal with China, the Obama administration continued to emphasise America's multilateral leadership, emphasising non-military vectors of power.  As long ago as the 1980s, Reagan's foreign policy held nations to responsibly bearing the brunt of their economic shortcomings:  in the Cold War, America beat out the Soviet Union on a level playing field of economic competition enforced by multilateral rules.  
 
 <figure>
-<img align=right width="65%" src="https://DannyQuah.github.io/Storage/2023.09-Chin-Skinner-Yoo-US-National-Security-Strategies-Fig-1.png" alt="Chin, Skinner, Yoo 2023 - Fig 1">
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2023.09-Chin-Skinner-Yoo-US-National-Security-Strategies-Fig-1.png" alt="Chin, Skinner, Yoo 2023 - Fig 1">
 <figcaption>Fig. 1 in Chin, Skinner, Yoo. 2023, "Understanding National Security Strategies Through Time", *Texas National Security Review* (Fall)</figcaption>
 </figure>
 
 No longer.  America's preferred tools of engagement now include unilateral actions, nationalistic  economic statecraft, and constant complaint about others taking advantage of it.  
 
-<img align=left width="45%" src="https://DannyQuah.github.io/Storage/2024.11.25.Mon-London-Indo-Pacific-Conference-2024-Agenda-p1.png" alt="London Indo-Pacific Conference 2024 agenda">  
+<img align=right width="45%" src="https://DannyQuah.github.io/Storage/2024.11.25.Mon-London-Indo-Pacific-Conference-2024-Agenda-p1.png" alt="London Indo-Pacific Conference 2024 agenda">  
 
 I am not suggesting any equivalence between the China Shock and the US Shock.  But from the perspective of Third Nations, whether in the Indo-Pacific or elsewhere, both these disturbances disrupt, and no amount of wishful thinking will make either go away.  
 
