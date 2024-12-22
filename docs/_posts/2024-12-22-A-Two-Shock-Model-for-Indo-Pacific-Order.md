@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.2125.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.23.0543.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -18,6 +18,11 @@ Danny Quah
 Dec 2024  
 
 A "China-Shock" model has been, not inappropriately, a dominant framework that many observers use to understand recent geopolitical developments in Southeast Asia and the Indo-Pacific region.  The rise of China is profound and real.  The China Shock on economic performance throughout the world is genuine, and has both positive and negative effects.  The rise of China has unsettled many views of the international order, not least in Southeast Asia over which America has long practiced benevolent but incomplete Great Power hegemony.  
+
+<figure>
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2024.08-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-import-prices-US-figure.png" alt="Quah 2024 - US Import and Domestic Prices, Fig. 1">
+<figcaption>Fig. 1 in Danny Quah. 2024, "Correlated Trade and Geopolitics Driving a Fractured World Order", <em>LKYSPP Working Paper</em></figcaption>
+</figure>
 
 But what if there is another shock, equally profound, to the international order?  This is the US Shock, not observable from within the US, but felt everywhere else in the world.  
 
@@ -48,7 +53,11 @@ I am not suggesting any equivalence between the China Shock and the US Shock.  B
 
 The point is not to approve or disapprove of either or both of these shocks.  The point instead is to ask, In a 2-shock Indo-Pacific order, what is the smartest thing now for the rest of us to do?  
 
-An instance of 1-shock thinking:  
+Instances of 1-shock thinking:  
+
+Autor, David,  Dorn, David, and Hanson, Gordon.  2016. "The China Shock:  Learning from Labour-Market Adjustment to Large Changes in Trade", *Annual Reviews in Economics* (Oct), vol. 8, pp. 205-40  https://doi.org//10.1146/annurev-economics-080315-015041  
+
+Quah, Danny.  2024.  "Correlated Trade and Geopolitics Driving a Fractured World Order" LKYSPP Working Paper (Aug)  https://dannyquah.github.io/In-progress.html#correlated-trade-geopolitics  
 
 Quah, Danny. 2024.  "China's Rise and the International Economic Order:  The China Shock at the End of History", LKYSPP Working Paper (Oct) https://dannyquah.github.io/In-progress.html#China-rise-international-order
 
