@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.2114.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.2122.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -19,7 +19,7 @@ Dec 2024
 
 A "China-Shock" model has been, not inappropriately, a dominant framework that many observers use to understand recent geopolitical developments in Southeast Asia and the Indo-Pacific region.  The rise of China is profound and real.  The China Shock on economic performance throughout the world is genuine, and has both positive and negative effects.  The rise of China has unsettled many views of the international order, not least in Southeast Asia over which America has long practiced benevolent but incomplete Great Power hegemony.  
 
-But what if there is another shock, equally profound, to the international order?  
+But what if there is another shock, equally profound, to the international order?  This is the US Shock, not observable from within the US, but felt everywhere else in the world.  
 
 <figure>
 <img align=right width="100%" src="https://DannyQuah.github.io/Storage/2023.09-Chin-Skinner-Yoo-US-National-Security-Strategies-Fig-1.png" alt="Chin, Skinner, Yoo 2023 - Fig 1">
