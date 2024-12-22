@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.22.1906.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2024.12.22.1913.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -37,12 +37,11 @@ I am not suggesting any equivalence between the China Shock and the US Shock.  B
 
 The point is not to approve or disapprove of either or both of these shocks.  The point instead is to ask, In a 2-shock Indo-Pacific, what is the smartest thing now for the rest of us to do?  
 
-
-An instance of old 1-shock thinking:  
+Instances of 1-shock thinking, old and new:  
 
 Quah, Danny. 2024.  "China's Rise and the International Economic Order:  The China Shock at the End of History", LKYSPP Working Paper (Oct) https://dannyquah.github.io/In-progress.html#China-rise-international-order
 
-<img align=left width="45%" src="https://DannyQuah.github.io/Storage/2024.11.25.Mon-London-Indo-Pacific-Conference-2024-Agenda-p1.png" alt="London Indo-Pacific Conference 2024 agenda">  <img align=right width="45%" src="https://DannyQuah.github.io/Storage/2024.11.24.Sun-Indo-Pacific-IISS-AU-IN-SG-collage-0.jpg" alt="London Indo-Pacific Conference 2024 collage">  
+<img align=left width="45%" src="https://DannyQuah.github.io/Storage/2024.11.25.Mon-London-Indo-Pacific-Conference-2024-Agenda-p1.png" alt="London Indo-Pacific Conference 2024 agenda">  
 
 
 
