@@ -1,6 +1,6 @@
 ---
 fileName: 2025-01-25-Vacuum-Multilateralism-Economic-Development.md
-# Last-edited: 2025.01.25.1603.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.01.25.1604.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   multilateralism, development
@@ -30,6 +30,7 @@ Recognizing this means that multilateralism, or its lack, is not just a problem 
 
 <img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.01.22.Wed-Gill-Kose-developing-new-playbook-Voice-square.jpg" alt="Gill and Kose, Why developing economies need a new playbook">
 
+  
 
 Gill, I., and Kose,A. 2025.  "Why developing economies need a new playbook", World Bank (Jan) https://blogs.worldbank.org/en/voices/why-developing-economies-need-a-new-playbook
 
