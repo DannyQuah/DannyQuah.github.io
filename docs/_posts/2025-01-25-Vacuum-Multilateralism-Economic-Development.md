@@ -1,6 +1,6 @@
 ---
 fileName: 2025-01-25-Vacuum-Multilateralism-Economic-Development.md
-# Last-edited: 2025.01.25.2141.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.02.17.2150.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   multilateralism, development

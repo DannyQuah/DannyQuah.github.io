@@ -1,6 +1,6 @@
 ---
 fileName: index.md
-# Last-edited: 2025.01.25.1549.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.02.17.2159.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: Software, github.io, github
 # Created: Thu 2021.07.01.1212 -- Danny Quah (me@DannyQuah.com)
@@ -36,6 +36,7 @@ ____
 
 |  <div style="width:400px"> </div>|  |
 | :-- | :-- |
+| 2025.02.17 <a href="2025/02/17/Geopolitics-Economics-Guns-Butter">Geopolitics is an Amplifier Platform for Economics</a> |  |
 | 2025.01.25 <a href="2025/01/25/Vacuum-Multilateralism-Economic-Development">Economic Development Doesn't Happen in a Vacuum</a> |  |
 | 2024.12.22 <a href="2024/12/22/A-Two-Shock-Model-for-Indo-Pacific-Order">A Two-Shock Model for Indo-Pacific Geopolitical Order</a> |  |
 | 2024.11.13 <a href="2024/11/13/Quiet-Unassuming-Origins">The Quiet Unassuming Origins of China's EV Industry</a> |  |
