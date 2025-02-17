@@ -1,6 +1,6 @@
 ---
 fileName: 2025-02-17-Geopolitics-Economics-Guns-Butter.md
-# Last-edited: 2025.02.17.2156.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.02.17.2204.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, economics, comparativeAdvantage
@@ -23,8 +23,6 @@ Richard Baldwin has posted on LinkedIn another truly excellent item describing t
 In the hands of others less skillful than Richard, the analysis would come across as saying, Geopolitics is simply whatever is bad economics. It's possibly justified, but still bad economics.  
 
 I have a slightly different take on geopolitics and economics. This is that in fact there is no tradeoff between geopolitics and economics, and instead almost always they work together. However, depending on circumstances, their working together either drives in the direction of improved economic performance or against it.  
-
-<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.01-Danny.Quah-Correlating-Economic-National-Security.titlepage.png" alt="Correlating Economic and National Security">
 
 During the Cold War (and a little bit thereafter) America wanted open markets and free trade because the Soviets wanted the opposite.  America wanted to show the world that Soviet thinking would lead everyone to an unhappy place.  At about the same time, Milton Friedman began to argue that the freedom to trade was essentially the same as political freedom: You cannot have one without the other.  All America's big ideas on geopolitics and economics, therefore, were coherent, and globalisation emerged.
 
