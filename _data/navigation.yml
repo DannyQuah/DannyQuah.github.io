@@ -14,20 +14,23 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Working Papers"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
-    
+
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  # - title: "Guide"
+  #   url: /markdown/
