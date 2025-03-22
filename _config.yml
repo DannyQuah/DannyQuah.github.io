@@ -291,7 +291,9 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
+# DQ 2025.03.22.1155.Sat, from https://jekyllrb.com/docs/permalinks/#global
+permalink: pretty
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
