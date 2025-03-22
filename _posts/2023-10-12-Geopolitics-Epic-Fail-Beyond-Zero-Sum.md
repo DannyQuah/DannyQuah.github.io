@@ -1,6 +1,6 @@
 ---
 fileName: 2023-10-12-Geopolitics-Epic-Fail-Beyond-Zero-Sum.md
-# Last-edited: 2023.10.12.1448.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1257.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, ZeroSum, EpicFail, ThirdNations, geopolitics
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2023-10-12-Geopolitics-Epic-Fail-Beyond-Zero-Sum
+title: In Geopolitics, the World is now Epic Fail, and that's Beyond Just Zero-Sum  
 ---
 ### In Geopolitics, the World is now Epic Fail, and that's Beyond Just Zero-Sum  
 

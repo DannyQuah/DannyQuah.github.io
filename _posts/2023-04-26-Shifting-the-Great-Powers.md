@@ -1,6 +1,6 @@
 ---
 fileName: 2023-04-26-Shifting-the-Great-Powers.md
-# Last-edited: 2023.04.27.2205.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1258.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, ThirdNation
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2023-04-26-Shifting-the-Great-Powers
+title: Shifting the Great Powers  
 ---
 ### Shifting the Great Powers  
 

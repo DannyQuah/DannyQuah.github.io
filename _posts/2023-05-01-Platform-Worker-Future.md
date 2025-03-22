@@ -1,6 +1,6 @@
 ---
 fileName: 2023-05-01-Platform-Worker-Future.md
-# Last-edited: 2023.05.01.2329.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1258.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   globalization, PlatformWorker, GigEconomy
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2023-05-01-Platform-Worker-Future  
+title: Is the Platform Worker the Future of Workers?  
 ---
 ### Is the Platform Worker the Future of Workers?  
 

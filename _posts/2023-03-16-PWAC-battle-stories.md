@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-16-PWAC-battle-stories.md
-# Last-edited: 2023.04.03.0558.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1259.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   PWAC, TanSeeLeng, GohSweeChen, KohPohKoon, NgCheeKern
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2023-03-16-PWAC-battle-stories
+title: PWAC battle stories  
 ---
 ### PWAC battle stories  
 

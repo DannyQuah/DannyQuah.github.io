@@ -1,6 +1,6 @@
 ---
 fileName: 2023-10-25-Semiconductor-Math.md
-# Last-edited: 2023.10.25.2059.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1257.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   China, US, semiconductor
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2023-10-25-Semiconductor-Math
+title: Semiconductor Math  
 ---
 ### Semiconductor Math  
 

@@ -1,6 +1,6 @@
 ---
 fileName: 2023-03-18-Talking-about-Trust-Edelman-Report.md
-# Last-edited: 2023.04.03.0600.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1259.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   China, US, Edelman, trust
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2023-03-18-Talking-about-Trust-Edelman-Report
+title: Talking About Trust.  Edelman Trust Barometer report 2023  
 ---
 ### Talking About Trust.  Edelman Trust Barometer report 2023  
 
