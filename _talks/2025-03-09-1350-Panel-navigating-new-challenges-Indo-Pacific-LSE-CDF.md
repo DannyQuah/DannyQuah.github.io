@@ -1,6 +1,6 @@
 ---
 title: "Trump 2.0: Navigating New Trade and Security Challenges in the Indo-Pacific Region"
-# Last-edited: 2025.03.22.2152.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.2220.Sat -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.03.22.2114.Sat -- Danny Quah (me@DannyQuah.com)
@@ -11,11 +11,10 @@ location: "London, England, UK"
 fileName: 2025-03-09-1350-Panel-navigating-new-challenges-Indo-Pacific-LSE-CDF.md
 ---
 Sun 09 Mar 2025 1350h  
-LSE China Develpment Forum  
+LSE China Development Forum  
 Panel --- Trump 2.0: Navigating New Trade and Security Challenges in the Indo-Pacific Region
-
-Moderator: John Minnich  
-Panel:  Jie Yu, David Lubin, Danny Quah, Dennis Wilder  
+Panelists ---  Jie Yu, David Lubin, Danny Quah, Dennis Wilder  
+Moderator --- John Minnich  
 
 I made three points in my opening statement.
 1.  While his transactionalist instincts might be strong---which Asians love and keep repeating to themselves---Trump can also appear oblivious and ignorant of previous transactions and deals, some of which he himself arranged and were, indeed, good deals.  Give examples.

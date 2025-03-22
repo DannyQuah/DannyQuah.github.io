@@ -1,6 +1,6 @@
 ---
-title: "Cooperation without Collaboration in Great Power Rivalry - Doing the Right Thing Even if It's for the Wrong Reason"
-# Last-edited: 2025.03.22.2125.Sat -- Danny Quah (me@DannyQuah.com)
+title: "Cooperation without Collaboration in Great Power Rivalry --- Doing the Right Thing Even if It's for the Wrong Reason"
+# Last-edited: 2025.03.22.2201.Sat -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.03.22.2115.Sat -- Danny Quah (me@DannyQuah.com)
@@ -12,8 +12,7 @@ fileName: 2025-03-09-1045-Keynote-Cooperation-without-Collaboration-LSE-CDF.md
 ---
 Sun 09 Mar 2025 1045h  
 LSE China Development Forum  
-
-Keynote:  "Cooperation without Collaboration in Great Power Rivalry:  Doing The Right Thing Even If It's For The Wrong Reason"  
+Keynote --- "Cooperation without Collaboration in Great Power Rivalry:  Doing The Right Thing Even If It's For The Wrong Reason"  
 
 The world sees urgent need to address ever more pressing global challenges.  These challenges threaten to permanently undermine international resilience --- climate and environmental crises; impending risk of pandemic; cross-national management of AI and other disruptive technology; faltering international economic system, global energy transition, territorial and resource wars.  These problems affect all of us. To address them, it advantages each of us individually to work together to help everyone at one and the same time. More than just helping ourselves, when working together whatever each of us does see multiplier impact when we work together.  
 
