@@ -1,6 +1,6 @@
 ---
 title: "Trump 2.0: Navigating New Trade and Security Challenges in the Indo-Pacific Region"
-# Last-edited: 2025.03.22.2220.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.2228.Sat -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.03.22.2114.Sat -- Danny Quah (me@DannyQuah.com)
@@ -12,7 +12,7 @@ fileName: 2025-03-09-1350-Panel-navigating-new-challenges-Indo-Pacific-LSE-CDF.m
 ---
 Sun 09 Mar 2025 1350h  
 LSE China Development Forum  
-Panel --- Trump 2.0: Navigating New Trade and Security Challenges in the Indo-Pacific Region
+Panel --- Trump 2.0: Navigating New Trade and Security Challenges in the Indo-Pacific Region  
 Panelists ---  Jie Yu, David Lubin, Danny Quah, Dennis Wilder  
 Moderator --- John Minnich  
 

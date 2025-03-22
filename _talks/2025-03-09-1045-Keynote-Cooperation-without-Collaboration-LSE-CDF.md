@@ -1,6 +1,6 @@
 ---
 title: "Cooperation without Collaboration in Great Power Rivalry --- Doing the Right Thing Even if It's for the Wrong Reason"
-# Last-edited: 2025.03.22.2201.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.2235.Sat -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.03.22.2115.Sat -- Danny Quah (me@DannyQuah.com)
@@ -20,13 +20,13 @@ That's cooperation.
 
 Over the last seven decades humanity's default approach, indeed the logically sensible response, to any such comparable call has been indeed to seek global cooperation.  Working together in that way could be made relatively automatic given an international system of rules-based order and multilateralism.  
 
-That multileral rules-based order is daily under attack.  For those of us who had been studying this for a while a large part of the concern had been how the rise of new Great Powers, ones charged with revisionism and who would remake world order in their undemocratic, "might makes right" image.  However, as events have unfolded more recently, the large shock to the multilateral, rules-based order has instead come unexpectedly from established Great Power nations that many of us thought were the defenders of that system against new Great Power revisionism.  
+That multilateral rules-based order is daily under attack.  For those of us who had been studying this for a while a large part of the concern had been how the rise of new Great Powers, ones charged with revisionism and who would remake world order in their undemocratic, "might makes right" image.  However, as events have unfolded more recently, the large shock to the multilateral, rules-based order has instead come unexpectedly from established Great Power nations that many of us thought were the defenders of that system against new Great Power revisionism.  
 
 There is likely good reason for this unexpected switch in correlatedness between geopolitical disruption and national identity.  Multilateralism is good for everyone, but has costs that are unevenly distributed.  If the earlier supporters of multilateralism find the cost-benefit ratio no longer favorable, who are the rest of us to fault that economic calculation?  We might ask only that you not unsettle the system for the rest of us, but feel free to quietly withdraw.  But, alternatively of course, you could also feel others have been taking advantage of you (because the costs of multilateralism and the rules-based order are unevenly distributed), so it's time for you to extract rough justice.  You could feel that your shock to the system is only right following on what some of my economist colleagues called the China Shock, where trade under the old world order ended up "stealing your jobs, dismantling your industry, turning into ghost towns what were once thriving American middle-class communities".  At an extreme, it might be that you feel that multilateralism has produced a multipolarity that is enabling the rise of a hostile hegemonic power gaining ascendancy in the Indo-Pacific region, an ascent that will eventually restrict US prospects and freedom of actions.  
 
 Once, some might have connected this fragmenting of the international system to what John F. Kennedy referred to as the long twilight struggle" between democracy and freedom, on the one hand, and totalitarianism and tyranny on the other.  Fewer and fewer ply this Cold War line now, it seems to me.  
 
-But for whatever reason, the probability grows ever smaller that the international commuity can actually come together in explicit collaboration to cooperate on addressing the global challenges humanity faces.  
+But for whatever reason, the probability grows ever smaller that the international community can actually come together in explicit collaboration to cooperate on addressing the global challenges humanity faces.  
 
 My discipline of economics, however, does not look at failure of goodwill and explicit collaboration, and think that cooperation is automatically then impossible.  Indeed, 250 years ago, Adam Smith had written, "It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest."  
 
