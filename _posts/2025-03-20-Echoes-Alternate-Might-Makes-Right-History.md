@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-20-Echoes-Alternate-Might-Makes-Right-History.md
-# Last-edited: 2025.03.21.0935.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1205.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   TrumpDonald, ChurchillWinston, realism
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-03-20-Echoes-Alternate-Might-Makes-Right-History
+title: Echoes of an Alternate "Might Makes Right" History of Betrayal
 ---
 ### Echoes of an Alternate "Might Makes Right" History of Betrayal
 

@@ -1,6 +1,6 @@
 ---
 fileName: 2025-02-17-Geopolitics-Economics-Guns-Butter.md
-# Last-edited: 2025.02.17.2204.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1206.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, economics, comparativeAdvantage
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-02-17-Geopolitics-Economics-Guns-Butter
+title: Geopolitics is an amplifier platform for economics.  But the tradeoff between them is a false promise.
 ---
 ### Geopolitics is an amplifier platform for economics.  But the tradeoff between them is a false promise.
 
