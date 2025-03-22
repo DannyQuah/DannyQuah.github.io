@@ -11,14 +11,11 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Portfolio"
+  - title: "Working Papers"
     url: /portfolio/
 
   # - title: "Talks"
   #   url: /talks/    
-
-  # - title: "Working Papers"
-  #   url: /working-papers/    
 
   # - title: "Teaching"
   #   url: /teaching/    
