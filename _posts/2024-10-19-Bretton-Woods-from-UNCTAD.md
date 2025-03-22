@@ -1,6 +1,6 @@
 ---
 fileName: 2024-10-19-Bretton-Woods-from-UNCTAD.md
-# Last-edited: 2024.10.19.2208.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1227.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   BrettonWoods, UNCTAD, multilateralism, Geneva
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-10-19-Bretton-Woods-from-UNCTAD
+title: Bretton Woods from UNCTAD  
 ---
 ### Bretton Woods from UNCTAD  
 

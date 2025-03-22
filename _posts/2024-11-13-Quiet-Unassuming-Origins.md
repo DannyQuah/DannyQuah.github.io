@@ -1,6 +1,6 @@
 ---
 fileName: 2024-11-13-Quiet-Unassuming-Origins.md
-# Last-edited: 2024.12.22.2052.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1227.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   EV, WanGang
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-11-13-Quiet-Unassuming-Origins
+title: The Quiet Unassuming Origins of China's EV Industry
 ---
 ### The Quiet Unassuming Origins of China's EV Industry
 

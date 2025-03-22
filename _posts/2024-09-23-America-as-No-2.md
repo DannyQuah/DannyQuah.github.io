@@ -1,6 +1,6 @@
 ---
 fileName: 2024-09-23-America-as-No-2.md
-# Last-edited: 2024.09.23.0745.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1227.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   ChinaUS, America, ThirdNations, Thucydides, Realism
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-09-23-America-as-No-2
+title: America as no. 2
 ---
 ### America as no. 2
 

@@ -1,6 +1,6 @@
 ---
 fileName: 2024-06-09-Small-State-Leadership-Bretton-Woods-80.md
-# Last-edited: 2024.06.09.1933.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1229.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   WorldOrder, SmallState, BrettonWoods
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-06-09-Small-State-Leadership-Bretton-Woods-80
+title: "Small State Leadership:  Bretton Woods at 80"  
 ---
 ### Small State Leadership:  Bretton Woods at 80  
 

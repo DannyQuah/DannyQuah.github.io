@@ -1,6 +1,6 @@
 ---
 fileName: 2025-01-25-Vacuum-Multilateralism-Economic-Development.md
-# Last-edited: 2025.02.17.2150.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1226.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   multilateralism, development
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-01-25-Vacuum-Multilateralism-Economic-Development
+title: Economic development doesn't happen in a vacuum of multilateralism
 ---
 ### Economic development doesn't happen in a vacuum of multilateralism
 

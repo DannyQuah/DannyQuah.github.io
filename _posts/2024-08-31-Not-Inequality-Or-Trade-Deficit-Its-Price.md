@@ -1,6 +1,6 @@
 ---
 fileName: 2024-08-31-Not-Inequality-Or-Trade-Deficit-Its-Price.md
-# Last-edited: 2024.08.31.2203.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1227.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   ChinaShock, price, inequality, tradedeficit
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-08-31-Not-Inequality-Or-Trade-Deficit-Its-Price
+title: "It's not quantity, inequality, or the trade deficit.  It's price."
 ---
 ### "It's not quantity, inequality, or the trade deficit.  It's price."
 

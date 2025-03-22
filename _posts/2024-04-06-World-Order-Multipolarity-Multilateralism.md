@@ -1,6 +1,6 @@
 ---
 fileName: 2024-04-06-World-Order-Multipolarity-Multilateralism.md
-# Last-edited: 2024.04.06.1652.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1229.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   WorldOrder, multipolarity, multilateralism, EpicFail
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-04-06-World-Order-Multipolarity-Multilateralism
+title: World Order with Multipolarity and Multilateralism  
 ---
 ### World Order with Multipolarity and Multilateralism  
 

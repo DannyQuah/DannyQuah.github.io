@@ -1,6 +1,6 @@
 ---
 fileName: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
-# Last-edited: 2024.12.23.0959.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.22.1226.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   IndoPacific
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2024-12-22-A-Two-Shock-Model-for-Indo-Pacific-Order.md
+title: A Two-Shock Model for Indo-Pacific Geopolitical Order  
 ---
 ### A Two-Shock Model for Indo-Pacific Geopolitical Order  
 
