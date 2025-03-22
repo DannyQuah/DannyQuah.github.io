@@ -12,16 +12,16 @@ main:
   #   url: /publications/
 
   - title: "Working Papers"
-    url: /portfolio/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
+    url: /working-papers/
 
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Talks"
+    url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
 
   # - title: "CV"
   #   url: /cv/
