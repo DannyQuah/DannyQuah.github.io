@@ -15,7 +15,8 @@ main:
   # - title: "Working Papers"
     # url: /working-papers/
 
-  - title: "Portfolio"
+  # - title: "Portfolio"
+  - title: "Working Papers"
     url: /portfolio/
 
   - title: "Blog Posts"
