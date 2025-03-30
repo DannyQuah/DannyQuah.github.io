@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-30-Boao-Forum-Tragedy-Multilateralism-Global-South-Modernization.md
-# Last-edited: 2025.03.30.1919.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.30.1926.Sun -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   multilateralism, GlobalSouth, BoaoForum
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-03-30-Boao-Forum-Tragedy-Multilateralism-Global-South-Modernization
+title: "Boao Forum:  The Tragedy of Multilateralism for the Global South"
 ---
 ### Boao Forum:  The Tragedy of Multilateralism for the Global South
 
