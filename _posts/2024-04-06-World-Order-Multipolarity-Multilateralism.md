@@ -1,6 +1,6 @@
 ---
 fileName: 2024-04-06-World-Order-Multipolarity-Multilateralism.md
-# Last-edited: 2025.03.22.1229.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.31.0918.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Report
 Tags: >
   WorldOrder, multipolarity, multilateralism, EpicFail
@@ -25,7 +25,7 @@ But policymakers in nations don't, as a matter of course, act to promote global 
 
 In such a world, we need new mindsets for keeping together the international system.  Three guiding principles:  First, build mechanisms for inadvertent cooperation, requiring for success not explicit collaboration but just individual-nations advancing self-interest; second, separate out problem domains where only zero-sum outcomes are available from those where mutual gain is available, possibly by nudges; and third, provide space for constrained multilateralism---whether plurilateral, minilateral, or otherwise---that is open and inclusive, and that will allow full-blown multilateralism to re-emerge where possible.  
 
-Quah, Danny.  2024.  "Economic Principles for A New World Order of Multipolarity and Multilateralism", LKYSPP Working Paper (April) https://dannyquah.github.io/In-progress.html#multipolarity-multilateralism  
+Quah, Danny.  2024.  "[Economic Principles for A New World Order of Multipolarity and Multilateralism](https://dannyquah.github.io/In-progress.html#multipolarity-multilateralism)", LKYSPP Working Paper (April) 
 
 #EpicFail #fragmentation #InadvertentCooperation #minilateralism #plurilateralism #ZeroSum
 
