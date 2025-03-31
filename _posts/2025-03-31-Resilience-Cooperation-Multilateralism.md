@@ -1,9 +1,9 @@
 ---
 fileName: 2025-03-31-Resilience-Cooperation-Multilateralism.md
-# Last-edited: 2025.03.31.0920.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.31.0956.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
-  multilateralism, IMF
+  resilience, cooperation, multilateralism, IMF
 # Created: 2025.03.31.0837.Mon -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
@@ -17,7 +17,7 @@ by
 Danny Quah  
 Mar 2025  
 
-How can the global economy and its institutions build international resilience through global cooperation?  This article specifically considers how multilateralism holds both promise and challenge.  Given the parlous state of the international system, however, modalities other than just multilateralism will be needed.  The article describes three such possible ways ahead.  
+How can the global economy and its institutions build international resilience through global cooperation?  This article considers how multilateralism holds both promise and challenge.  Given the parlous state of the international system, however, modalities other than just multilateralism will be needed.  The article describes three such possible ways ahead.  
 
 (The key ideas here were presented at IMF's High-Level Forum "Asia and the IMF:  Resilience through Cooperation" in Tokyo, Wed 05 Mar 2025.  I thank Kenneth Kang, Jun Ma, Mari Pangestu, Ceyla Pazarbasioglu, and other participants at the event for their comments and suggestions.)
 
