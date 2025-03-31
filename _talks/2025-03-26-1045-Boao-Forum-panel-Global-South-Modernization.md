@@ -1,6 +1,6 @@
 ---
-title: "Global South.  Moving Towards Modernization"
-# Last-edited: 2025.03.30.1927.Sun -- Danny Quah (me@DannyQuah.com)
+title: "Global South:  Moving Towards Modernization"
+# Last-edited: 2025.03.31.1501.Mon -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.03.30.1846.Sun -- Danny Quah (me@DannyQuah.com)
@@ -12,7 +12,7 @@ fileName: 2025-03-26-1045-Boao-Forum-panel-Global-South-Modernization.md
 ---
 Wed 26 Mar 2025 1045h  
 Boao Forum  
-Panel --- Global South.  Moving Towards Modernization  
+Panel --- Global South:  Moving Towards Modernization  
 Panelists --- Gloria Macapagal Arroyo, Aravind Valery, Kirill Babaev, Huang Yiping, Danny Quah, Xiaojun Grace Wang, Zheng Yongnian  
 Moderator --- Volkan Bozkır, President of the 75th session of the United Nations General Assembly
 

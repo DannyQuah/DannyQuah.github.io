@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-31-Resilience-Cooperation-Multilateralism.md
-# Last-edited: 2025.03.31.1127.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.31.1202.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   resilience, cooperation, multilateralism, IMF
@@ -64,6 +64,12 @@ Recognising economic reasons---not just geopolitics---to be among the ultimate c
 Finally, a third misconception:  "Whatever happens to multilateralism, global fragmentation will be too costly, and hence policymakers will back away from decoupling."  This is a fallacy of composition.  However high the aggregate cost of global fragmentation, that cost is not what is perceived at the individual level.  For many, the lived experience of global integration is more in sympathy with the narrative of the China Shock than with win-win welfare gains from comparative advantage.  
 
 To understand this, remember that if trade does anything, it changes relative prices.  When relative prices change, there will always be someone in the domestic economy who sees that change as prices falling on what they sell.  Regardless of the eloquence with which economists and policymakers laud open trade producing an efficient allocation of resources, such reasoning gains no traction with those workers and firms who see relative price move against them.  For such agents---who have every incentive to be vocal and pivotal in the political system, democratic or otherwise---global fragmentation is a gain, not a cost.  This is the case even if in the aggregate, net loss is by far the dominant feature of fragmentation. That those agents' losses could, in principle, be more than compensated is irrelevant, as no one ever actually steps forward to make good on that compensation to them.  Global fragmentation, therefore, will not be held in check by the argument that its aggregate cost is high: politically pivotal workers and businesses see gains and losses that don't align with what happens in the aggregate.  
+
+Along similar lines, the COVID pandemic raised the question of how far the world economy might need to retreat from its efficient allocation of global production and supply chains in order to achieve resilience.  If global production networks and supply chains were strained to razor-thin efficiency, then a retreat to *some* global fragmentation might be appropriate as a tradeoff, at the margin, for improved global resilience.  
+
+The global pandemic thus produced a shift in global preferences.  But so too do other changes: concern over national security could rise, perhaps even endogenously through the so-called security dilemma, where one nation increases its aggressiveness in response to other nations' doing so, and in a vicious cycle these actions accumulate, each building on the other.  
+
+With such shifts in global preferences, the world should indeed, rationally, slide along the tradeoff frontier between erstwhile economic efficiency and other considerations such as resilience and security.  How much quantitatively it should do so, however, is not addressed by simply saying that the cost of global fragmentation is lowered world economic output.  
 
 
 **But if multilateralism is failing, then what?**
