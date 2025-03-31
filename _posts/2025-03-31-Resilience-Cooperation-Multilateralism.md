@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-31-Resilience-Cooperation-Multilateralism.md
-# Last-edited: 2025.03.31.0916.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.31.0920.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   multilateralism, IMF
@@ -9,7 +9,7 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-03-31-Resilience-Cooperation-Multilateralism
+title: "Resilience through cooperation:  With or without multilateral consensus"
 ---
 ### Resilience through cooperation:  With or without multilateral consensus  
 
