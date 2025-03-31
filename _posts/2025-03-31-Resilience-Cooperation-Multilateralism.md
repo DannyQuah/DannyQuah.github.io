@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-31-Resilience-Cooperation-Multilateralism.md
-# Last-edited: 2025.03.31.1044.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.31.1127.Mon -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   resilience, cooperation, multilateralism, IMF
@@ -19,7 +19,7 @@ Mar 2025
 
 How can the global economy and its institutions build international resilience through global cooperation?  This article considers how multilateralism holds both promise and challenge.  Given the parlous state of the international system, however, modalities other than just multilateralism will be needed.  The article describes three such possible ways ahead.  
 
-(The key ideas here were presented at IMF's High-Level Forum "Asia and the IMF:  Resilience through Cooperation" in Tokyo, Wed 05 Mar 2025.  I thank Kenneth Kang, Jun Ma, Mari Pangestu, Ceyla Pazarbasioglu, and other participants at the event for their comments and suggestions.)
+(The key ideas here were presented at IMF's High-Level Forum "Asia and the IMF:  Resilience through Cooperation" in Tokyo, Wed 05 Mar 2025.  I thank Chatib Basri, Kenneth Kang, Jun Ma, Takehiko Nakao, Mari Pangestu, Ceyla Pazarbasioglu, Krishnan Srinivasan, and other participants at the event for their comments and suggestions.)  
 
 
 ____
@@ -49,7 +49,7 @@ But if the ultimate objective is resilience through cooperation, multilateralism
 
 **Risks and Misconceptions**
 
-A first misconception: "Geopolitical rivalry is the cause of fraying in the multilateral system."  While geopolitical competition doesn't help, it is also not the principal cause of multilateralism weakening.  Instead, multilateralism is fraying because it is an expensive global public good, whose aggregate benefits are considerable but whose costs are unevenly distributed.  Free-riding in providing public goods is a well-understood cause for the breakdown of cooperation even when all participants agree on objectives.  Geopolitical rivalry, uncertainty, disagreement, or yet other similar obstacles don't figure in that failure.  
+A first misconception: "Geopolitical rivalry is the cause of fraying in the multilateral system."  While geopolitical competition doesn't help, it is also not the principal cause of multilateralism weakening.  Instead, multilateralism is fraying because it is an expensive global public good, whose aggregate benefits are considerable but whose costs are unevenly distributed.  Free-riding in providing public goods is a well-understood cause for the breakdown of cooperation even when all participants agree on objectives.  Preferences being aligned does not guarantee cooperation.  With free-riding there is, in fact, failure even with consensus:  Geopolitical rivalry, uncertainty, disagreement, or yet other similar external obstacles don't figure here as consensus does not assure cooperation, even without additional complications.  
 
 A second misconception flows from the first: "The breakdown of multilateralism comes with a global decoupling into separate camps or spheres of influence, each led by one of the Great Power adversaries locked in geopolitical rivalry."  In this view, partitioning of the global economy leads indeed to economic inefficiencies.  IMF estimates that perhaps 7-12% of world GDP might be lost due to such global fragmentation.  This is a Cold War kind of scenario, analogizing from the decades-long confrontation between the US and the Soviet Union after the Second World War.  The Cold War also featured Kennedy-esque narratives of the "long twilight struggle" between democracy and freedom, on the one hand, against totalitarianism and tyranny on the other.  That was a time when the Great Powers carried deep, irreconcilable conflicts with each other, when everyday Americans thought the other side was out to destroy the American way of life and their entire system of government.  
 
