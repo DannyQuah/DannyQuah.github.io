@@ -1,6 +1,6 @@
 ---
 title: "NIF Tokyo:  How Can Asia Thrive Amidst Global Economic Disruption and Power Shifts?"
-# Last-edited: 2025.03.31.1531.Mon -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.03.31.1558.Mon -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.03.31.1456.Mon -- Danny Quah (me@DannyQuah.com)
@@ -16,9 +16,9 @@ Panel --- How Can Asia Thrive Amidst Global Economic Disruption and Power Shifts
 Panelists --- Keita Nishiyama, Jin Yamaguchi, Danny Quah  
 Moderator --- Hisao Tonedachi  
 
-I said that when we ask how Asia can continue in peace and prosperity, any useful answer has to have at least two parts: one, economics; the other, geopolitics.  The Asia we are concerned about is often asked, Will we take sides in Great Power rivalry?  The implication is, we are small states (compared to Great Powers, even Middle Powers are not much different from small states).  But we, the Third Nations, also constitue 80% of humanity.  The question then is, Will we continue to be price-takers in the game of geopolitics?  Given that, is the optimum strategy at best to be, as used to be said, a poisoned shrimp?  Or can we exercise appropriate agency?  
+I said that when we ask how Asia can continue in peace and prosperity, any useful answer has to have at least two parts: one, economics; the other, geopolitics.  The Asia we are concerned about is often asked, Will we take sides in Great Power rivalry?  The implication is, we are small states (from the perspective of Great Powers, Middle Powers are not much different from small states).  But we, the Third Nations, also constitute 80% of humanity.  The question then is, Will we continue to be price-takers in the game of geopolitics?  And if we follow that approach, does the optimum strategy allow us to be a poisoned shrimp at best?  Or, instead, can we exercise sufficient agency to improve our respective positions?  
 
-I said there were three points to consider.  
+There are three points to consider:  
 
 ONE // **Understand the source of global disruption**.  We used to be told that the rise of China gave rise to a "China Shock".  However that might continue, we also certainly live now in a world of the "America Shock".  Disturbances to our economies everywhere---whether in jobs, industry, or livelihoods---do not come from only China.  America's outsized presence economically is one of which we are are now all painfully aware.  Wolf-warrior diplomacy and cross-border bullying behaviour?  Revisionist attacks on the rules-based order?  American diplomats used to come by Southeast Asia to warn us about these.  Now it is America that practices wolf-warrior diplomacy and revisionism in the rules-based order.  
 
