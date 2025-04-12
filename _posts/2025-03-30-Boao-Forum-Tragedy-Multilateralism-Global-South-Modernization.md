@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-30-Boao-Forum-Tragedy-Multilateralism-Global-South-Modernization.md
-# Last-edited: 2025.04.02.1709.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.02.1719.Wed -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   multilateralism, GlobalSouth, BoaoForum
@@ -21,7 +21,7 @@ At Boao Forum 2025, I spoke on a panel on Modernization of the Global South.
 
 I made three points on how, as small economies (whether in population or in spending power or both), members of the Global South now see the pathway to modernization being pulled out from under them.  
 
-ONE // When you are a small economy, you reckon you develop by focusing on improving the health of your people, giving your people skills, housing your people, improving your nation's infrastructure.  This is the "tablets, teachers, textbooks, and trains" route to modernization.  It is difficult to see how any economy could consider itself developed if it hadn't done these things.  All these policies raise your production capacity.  They expand your supply side.  It's how economies---ranging from Singapore through China---have developed.  
+ONE // When you are a small economy, you reckon you develop by focusing on improving the health of your people, giving your people skills, housing your people, improving your nation's infrastructure.  This is the "tablets, teachers, textbooks, and trains" route to modernization.  It is difficult to see how any economy could consider itself developed if it hadn't done these things.  All these policies raise your production capacity.  They expand your supply side.  It's how economies---ranging in size and circumstances all the way from Singapore through China---have developed successfully.  
 
 Such supply-side strategy, however, can only be a necessary, not sufficient factor for economic development and modernization.  But for the last seventy years it was enough because the other side---the demand side---always took what you supplied. Global demand was elastic.  An increase in the supply side without matching demand does not create jobs; it just causes unemployment.  But with the coming together of demand and supply, you also realized you gain more than proportionally through strength in groups, the larger the better.
 
