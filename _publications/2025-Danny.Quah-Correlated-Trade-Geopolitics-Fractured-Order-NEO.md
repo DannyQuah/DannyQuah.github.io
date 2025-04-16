@@ -1,0 +1,20 @@
+---
+title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
+# Last-edited: 2025.04.16.1011.Wed -- Danny Quah (me@DannyQuah.com)
+collection: publications
+category: manuscripts
+permalink: /publications/2025-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO
+excerpt: 'This article argues that geopolitics and trade align; they don't work in opposition'
+date: 2025
+venue: 'Ch. 5 in Ing, Lili Yan and Rodrik, Dani (eds) <i>The New Global Economic Order</i>'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Quah, Danny. (2025). &quot;Correlated Trade and Geopolitics Driving a Fractured World Order.&quot; <i>The New Global Economic Order</i>.'
+---
+Quah, Danny. 2025. "Correlated Trade and Geopolitics Driving a Fractured World Order", Ch. 5 in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  
+
+[<img src="https://DannyQuah.github.io/Storage/2025-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-titlepage.png" alt = "Correlated Trade Geopolitics Driving a Fractured World Order - Titlepage"/>](https://DannyQuah.github.io/Storage/2025-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order.pdf)
+
+<!---
+   Invisible section // Quah-D-2025-Correlated-Trade-Geopolitics-Fractured-Order-NEO.md
+-->

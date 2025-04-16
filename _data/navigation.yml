@@ -9,8 +9,8 @@
 # DQ 2025.03.30.2128.Sun -- add working-papers stanza
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Working Papers"
     # url: /working-papers/
