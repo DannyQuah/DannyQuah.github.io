@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# Last-edited: 2025.04.16.1749.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.17.1830.Thu -- Danny Quah (me@DannyQuah.com)
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -233,9 +233,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  # working-papers:
-    # output: true
-    # permalink: /:collection/:path/
+  working-papers:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -295,14 +295,14 @@ defaults:
       author_profile: true
       share: true
   # _working-papers
-  # - scope:
-      # path: ""
-      # type: working-papers
-    # values:
-      # layout: single
-      # author_profile: true
-      # share: true
-      # comment: true
+  - scope:
+      path: ""
+      type: working-papers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS

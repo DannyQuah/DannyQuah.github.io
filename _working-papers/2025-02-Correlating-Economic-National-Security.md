@@ -1,11 +1,11 @@
 ---
 title: "Correlating Economic and National Security Under Intensifying Great Power Rivalry"
-# Last-edited: 2025.04.17.1816.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.17.1827.Thu -- Danny Quah (me@DannyQuah.com)
 # collection: theCollection
 type: "Working Paper"
 # Created: 2025.03.22.1530.Sat -- Danny Quah (me@DannyQuah.com)
 # date: 2025-03-22
-permalink: /working-papers/
+permalink: /working-papers/2025-02-Correlating-Economic-National-Security/
 # venue: "theVenue"
 # location: "theLocation"
 fileName: 2025-02-Correlating-Economic-National-Security.md
