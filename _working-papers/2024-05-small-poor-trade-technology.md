@@ -1,11 +1,11 @@
 ---
 title: "Trade-Technology Relation in Small and Poor Economies"
-# Last-edited: 2025.03.22.1918.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.17.1852.Thu -- Danny Quah (me@DannyQuah.com)
 # collection: theColletion
 type: "Working Paper"
 # Created: 2025.03.22.1853.Sat -- Danny Quah (me@DannyQuah.com)
 # date: 2025-03-22
-# permalink: /portfolio/
+permalink: /working-papers/
 # venue: "theVenue"
 # location: "theLocation"
 fileName: 2024-05-small-poor-trade-technology.md

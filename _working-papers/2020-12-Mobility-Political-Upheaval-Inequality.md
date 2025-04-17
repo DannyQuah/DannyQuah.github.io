@@ -1,11 +1,11 @@
 ---
 title: "Mobility and Political Upheaval in an Age of Inequality"
-# Last-edited: 2025.04.12.2130.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.17.1846.Thu -- Danny Quah (me@DannyQuah.com)
 # collection: theCollection
 type: "Working Paper"
 # Created: 2025.03.22.1530.Sat -- Danny Quah (me@DannyQuah.com)
 # date: 2025-03-22
-# permalink: /portfolio/
+permalink: /working-papers/
 # venue: "theVenue"
 # location: "theLocation"
 fileName: 2020-12-Mobility-Political-Upheaval-Inequality.md
