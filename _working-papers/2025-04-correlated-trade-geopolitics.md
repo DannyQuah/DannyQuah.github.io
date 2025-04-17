@@ -1,11 +1,11 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.04.17.2221.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.17.2230.Thu -- Danny Quah (me@DannyQuah.com)
 # collection: theCollection
 type: "Working Paper"
 # Created: 2025.03.22.1728.Sat -- Danny Quah (me@DannyQuah.com)
 # date: 2025-03-22
-permalink: /working-papers/2024-08-correlated-trade-geopolitics/
+permalink: /working-papers/2025-04-correlated-trade-geopolitics/
 # venue: "theVenue"
 # location: "theLocation"
 citation: 'Quah, Danny. 2025. &quot;Correlated Trade and Geopolitics Driving a Fractured World Order.&quot; LKYSPP Working Paper (Apr)'
