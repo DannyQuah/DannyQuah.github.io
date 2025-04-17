@@ -1,6 +1,6 @@
 ---
 title: "Why Small Nations Surprisingly Succeed"
-# Last-edited: 2025.04.17.1859.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.17.2217.Thu -- Danny Quah (me@DannyQuah.com)
 # collection: theCollection
 type: "Working Paper"
 # Created: 2025.03.22.2056.Sat -- Danny Quah (me@DannyQuah.com)
@@ -8,7 +8,7 @@ type: "Working Paper"
 permalink: /working-papers/2024-02-small-nations-succeed/
 # venue: "theVenue"
 # location: "theLocation"
-fileName: 2024-02-small-nations-succeed.md
+citation: 'Quah, Danny. 2025. &quot;Trade, Technology, and the Washington Consensus.&quot; LKYSPP Working Paper (Mar)'
 ---
 "<a href="https://DannyQuah.github.io/Storage/2024.02-Danny.Quah-Small-Nations-Success.pdf">Why Small Nations Surprisingly Succeed:  Trade, Technology, and the Washington Consensus</a>" (Mar 2025, frozen pre-print. [Published](https://DannyQuah.github.io/publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC))  
 
