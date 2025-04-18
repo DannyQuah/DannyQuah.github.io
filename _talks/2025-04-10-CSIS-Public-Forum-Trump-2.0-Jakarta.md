@@ -1,6 +1,6 @@
 ---
 title: "CSIS Public Forum on Regional Response to Trump 2.0"
-# Last-edited: 2025.04.18.1355.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.18.1652.Fri -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.04.18.1323.Fri -- Danny Quah (me@DannyQuah.com)
@@ -11,15 +11,15 @@ location: "Jakarta, Indonesia"
 fileName: 2025-04-10-CSIS-Public-Forum-Trump-2.0-Jakarta.md
 ---
 Thu 10 Apr 2025 1400h  
-CSIS Public Forum on Regional Response to Trump 2.0
-Speaker --- Dyah Roro Esti.  Vice Minister of Trade, Republic of Indonesia
-Panel --- Regional Response to Trump 2.0
+CSIS Public Forum on Regional Response to Trump 2.0  
+Speaker --- Dyah Roro Esti.  Vice Minister of Trade, Republic of Indonesia  
+Panel --- Regional Response to Trump 2.0  
 Panelists --- Shiro Armstrong, Mari Pangestu, Danny Quah, Sinta Sirait  
-Moderator --- Yose Rizal Damuri
+Moderator --- Yose Rizal Damuri  
 
 I began by describing my understanding on the logic driving those such as Singapore Prime Minister Lawrence Wong, who had, just recently, described his government's assessment of US tariffs on specific businesses and industries.  At the same time, however, the Prime Minister made clear the deeper concerns regarding the broader consequences for world order and the global economy.  
 
-I made three points.  
+I then made three points.  
 
 First, everyone is vulnerable.  Whether or not all America's trade actions or its security recalibration are ultimately rolled back, the "Liberation Day 2025" actions show that your nation can have the US act against you.  It doesn't matter if you have zero tariffs on US imports, have the US run a trade surplus against you, are a democracy, are not the People's Republic of China, have outstanding security and economic treaties with the US (perhaps even signed by President Trump), or be in a centuries-old special relationship with America.  
 
@@ -33,7 +33,7 @@ Obviously, we shouldn't lash out in retaliation.  But then neither should we acq
 
 Now more than ever is it important to look to opportunities for inadvertent cooperation.  We don't have to agree and we don't have to sign up to explicitly collaborate.  We simply have to ensure the other guy does the right thing, even if it's for the wrong reason.  
 
-
+![CSIS Public Forum 2025.04.10.Thu](http://DannyQuah.github.io/Storage/2025.04.10.Thu-CSIS-Public-Forum-Jakarta.jpg)
 
 <!---
    Invisible section // 2025-04-10-CSIS-Public-Forum-Trump-2.0-Jakarta.md

@@ -1,6 +1,6 @@
 ---
-title: New World Order of Multipolarity and Multilateralism"
-# Last-edited: 2025.04.17.2219.Thu -- Danny Quah (me@DannyQuah.com)
+title: "Economic Principles for a New World Order of Multipolarity and Multilateralism"
+# Last-edited: 2025.04.18.1637.Fri -- Danny Quah (me@DannyQuah.com)
 # collection: theColletion
 type: "Working Paper"
 # Created: 2025.03.22.1913.Sat -- Danny Quah (me@DannyQuah.com)
