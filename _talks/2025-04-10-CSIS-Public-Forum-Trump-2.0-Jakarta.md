@@ -1,6 +1,6 @@
 ---
 title: "CSIS Public Forum on Regional Response to Trump 2.0"
-# Last-edited: 2025.04.18.1742.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.04.19.1141.Sat -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.04.18.1323.Fri -- Danny Quah (me@DannyQuah.com)
@@ -19,11 +19,11 @@ Moderator --- Yose Rizal Damuri
 Venue --- Centre for Strategic and International Studies, Indonesia  
 Location --- Jakarta, Indonesia  
 
-I began by describing my understanding on the logic driving those such as Singapore Prime Minister Lawrence Wong.  He had recently described his government's assessment of US tariffs on specific businesses and industries.  The same time he did that, however, PM Wong also made clear deeper concerns for world order and the global economy.  
+I began by describing my understanding on the logic driving those such as Singapore Prime Minister Lawrence Wong.  He recently described his government's assessment of US tariffs on specific businesses and industries.  As he did that, however, PM Wong also made clear [deeper concerns](https://www.youtube.com/watch?v=pTO5pi-FIGs) for world order and the global economy.  
 
 I then made three points.  
 
-First, everyone is vulnerable.  Regardless whether America's trade actions or its security recalibration are ultimately rolled back, "Liberation Day 2025" shows that, whoever you are, your nation can have the US act against you.  It doesn't matter if you have zero tariffs on US imports, allow the US to be running a trade surplus against you, are a democracy, are not the People's Republic of China, have outstanding security and economic treaties with the US (perhaps even signed by President Trump), or be in a centuries-old special relationship with America.  
+First, everyone is vulnerable.  Regardless whether America's trade actions or its security recalibration are ultimately rolled back, "[Liberation Day 2025](https://edition.cnn.com/2025/04/02/economy/key-takeaways-from-trumps-liberation-day-tariffs/index.html)" shows that, whoever you are, your nation can have the US act against you.  It doesn't matter if you have zero tariffs on US imports, allow the US to be running a trade surplus against you, are a democracy, are not the People's Republic of China, have outstanding security and economic treaties with the US (perhaps even signed by President Trump), or be in a centuries-old special relationship with America.  
 
 Second, more important is the fraying of our multilateral rules-based system, not the idiosyncratic randomness of day to day individual pronouncements.  The brutally large fact of the matter is that the US is actively undermining the rules-based multilateral system it built.  This is after a decade of warning all the rest of us of the dangers of China threatening to become a revisionist disruptor of the international system.  
 
