@@ -1,6 +1,6 @@
 ---
-fileName: 2025-05-01-Dealing-with-a-Two-Shock-World.md
-# Last-edited: 2025.05.01.1141.Thu -- Danny Quah (me@DannyQuah.com)
+fileName: 2025-05-01-Dealing-with-a-Two-Shock-International-System.md
+# Last-edited: 2025.05.01.1144.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, shock, ChinaShock, AmericaShock, supply, demand,
@@ -10,9 +10,9 @@ Tags: >
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-05-01-Dealing-with-a-Two-Shock-World
+title: "Dealing with a Two-Shock International System"
 ---
-###  Dealing with a Two-Shock World  
+###  Dealing with a Two-Shock International System
 
 by  
 Danny Quah  
@@ -61,6 +61,6 @@ The world no longer has a truly global multilateral system because the original 
 
 
 <!---
-   Invisible section // 2025-05-01-Dealing-with-a-Two-Shock-World.md
+   Invisible section // 2025-05-01-Dealing-with-a-Two-Shock-International-System.md
 -->
 
