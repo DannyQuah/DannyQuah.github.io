@@ -1,6 +1,6 @@
 ---
 fileName: 2025-05-01-Dealing-with-a-Two-Shock-World.md
-# Last-edited: 2025.05.01.1134.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.01.1141.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, shock, ChinaShock, AmericaShock, supply, demand,
@@ -58,7 +58,6 @@ The world no longer has a truly global multilateral system because the original 
 
 [![Channel News Asia. 2025.  Southeast Asia's Manufacturers (Apr)](http://DannyQuah.github.io/Storage/2025.04-CNA-When-Titans-Clash-SEAsia-manufacturers.jpg)](https://www.youtube.com/watch?v=JWTyMCdK1zo)
 
-![<img src="http://DannyQuah.github.io/Storage/2025.04-CNA-When-Titans-Clash-SEAsia-manufacturers.jpg" width="300" />](https://www.youtube.com/watch?v=JWTyMCdK1zo)
 
 
 <!---
