@@ -1,6 +1,6 @@
 ---
 fileName: 2025-05-01-Dealing-with-a-Two-Shock-International-System.md
-# Last-edited: 2025.05.01.1432.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.01.1532.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, shock, ChinaShock, AmericaShock, supply, demand,
@@ -18,7 +18,7 @@ by
 Danny Quah  
 May 2025  
 
-If we've grown used to the China Shock---"a tsunami of Chinese manufactures that compete ferociously with our own"---let's also call the continuing turmoil from the Trump Administration what it is: the America Shock.  
+If we've grown used to the China Shock---"a tsunami of Chinese manufactures that compete ferociously with our own"---let's also call the Trump Administration's continuing turmoil what it is: the America Shock.  
 
 The China Shock is a supply shock.  This throws up a tsunami of high-quality, low-priced products against which manufacturers in the rest of the world see considerable competitive challenge.  
 
@@ -32,7 +32,7 @@ A supply shock that brings to bear added competitive pressure is not something a
 
 Think about what America tells the rest of the world when we face those same competitive pressures, not least from America's companies.  Almost all economic thinking argues that economies having to deal with added competition work harder, innovate more, figure out ways to improve their way of doing things, raise productivity, and increase efficiency.  This is what business schools teach their students to go out and practice. Choosing not to keep up means Schumpeterian creative destruction.  A supply shock endures.  In the long run, a supply shock is good for everyone when they have dealt constructively with it.  
 
-This isn't painless, but it's how the world has worked for now several millennia.  It is not for us to approve or disapprove.  Most of all, this is not a question of fairness. The question is, What is the smartest thing to do in response?  It does not matter how that supply curve shifted, how it was that added competitive pressure came about.  No one who asks if the playing field is truly level ever succeeds in re-tilting that playing field.  The way to deal with competition is not to complain but to innovate.  
+This isn't painless, but it's how the world has worked for millennia.  It is not for us to approve or disapprove.  Most of all, this is not a question of fairness. The question is, What is the smartest thing to do in response?  It does not matter how that supply curve shifted, how it was that added competitive pressure came about.  No one who asks if the playing field is truly level ever succeeds in re-tilting that playing field.  The way to deal with competition is not to complain but to innovate.  
 
 America's renewed protectionism is not just against China but against everyone who the Trump administration sees having trade relations with the US and is economically successful and so somehow must have cheated.  (Yes, we're looking at you, Heard Island and McDonald Islands).  This is a demand shock.  It is not only China but all the rest of the world that no longer sees, at the margin, strong, elastic demand for what it produces.  
 
