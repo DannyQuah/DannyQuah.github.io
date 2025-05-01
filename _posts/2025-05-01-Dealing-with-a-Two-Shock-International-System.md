@@ -1,6 +1,6 @@
 ---
 fileName: 2025-05-01-Dealing-with-a-Two-Shock-International-System.md
-# Last-edited: 2025.05.01.1144.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.01.1154.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, shock, ChinaShock, AmericaShock, supply, demand,
@@ -18,11 +18,11 @@ by
 Danny Quah  
 May 2025  
 
-If we've grown used to the China Shock---"a tsunami of Chinese manufactures that compete ferociously with our own"---let's also call the continuing turmoil from the Trump Administration what it is: an America Shock.  
+If we've grown used to the China Shock---"a tsunami of Chinese manufactures that compete ferociously with our own"---let's also call the continuing turmoil from the Trump Administration what it is: the America Shock.  
 
 The China Shock is a supply shock.  This throws up a tsunami of high-quality, low-priced products against which manufacturers in the rest of the world see considerable competitive challenge.  
 
-The America Shock is a demand shock.  This puts up trade baerriers so that companies, not just Chinese ones but all the rest of the world, face ever greater obstacles selling what they produce.  
+The America Shock is a demand shock.  This puts up trade barriers so that companies the world over, not just Chinese ones, face ever greater obstacles selling what they produce.  
 
 For the 80% of humanity who lives in neither China nor the US, it is not for us, just as when we confront all other shocks, to approve or disapprove.  It is to ask, What is the smartest thing to do in a two-shock world?  
 
