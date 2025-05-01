@@ -1,6 +1,6 @@
 ---
 fileName: 2025-05-01-Dealing-with-a-Two-Shock-World.md
-# Last-edited: 2025.05.01.1113.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.01.1116.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, shock, ChinaShock, AmericaShock, supply, demand,
@@ -56,7 +56,7 @@ You can't depend on what you cannot have.  You can't just sit on the inventory o
 
 The world no longer has a truly global multilateral system because the original architect has withdrawn.  That demand shock and marketplace destruction will almost surely continue.  But the world can at least look to new variants in pathfinder multilateralism, keeping the best of the earlier system and building out new structures that work, if only for specific coalitions of states.  
 
-[<img src=http://DannyQuah.github.io/Storage/2025.04-CNA-When-Titans-Clash-SEAsia-manufacturers.jpg width="200" />](https://www.youtube.com/watch?v=JWTyMCdK1zo)  
+![<img src="http://DannyQuah.github.io/Storage/2025.04-CNA-When-Titans-Clash-SEAsia-manufacturers.jpg" width="200" />](https://www.youtube.com/watch?v=JWTyMCdK1zo)  
 Channel News Asia. 2025.  Southeast Asia's Manufacturers (Apr)
 
 <!---
