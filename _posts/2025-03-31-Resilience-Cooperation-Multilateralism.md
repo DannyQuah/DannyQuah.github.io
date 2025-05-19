@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-31-Resilience-Cooperation-Multilateralism.md
-# Last-edited: 2025.04.16.0615.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.08.1340.Thu -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   resilience, cooperation, multilateralism, IMF
@@ -17,7 +17,7 @@ by
 Danny Quah  
 Mar 2025  
 
-How can the global economy and its institutions build international resilience through global cooperation?  This article considers how multilateralism holds both promise and challenge.  Given the parlous state of the international system, however, modalities other than just multilateralism will be needed.  The article describes three such possible ways ahead.  
+How can the global economy and its institutions build international resilience through global cooperation?  This article looks at both promise and challenge in multilateralism.  Given the parlous state of the international system, modalities other than pure multilateralism will be needed.  The article describes three possible ways ahead.  
 
 (The key ideas here were presented at IMF's High-Level Forum "Asia and the IMF:  Resilience through Cooperation" in Tokyo, Wed 05 Mar 2025.  I thank Chatib Basri, Kenneth Kang, Jun Ma, Takehiko Nakao, Mari Pangestu, Ceyla Pazarbasioglu, Krishnan Srinivasan, and other participants at the event for their comments and suggestions.)  
 
@@ -84,7 +84,7 @@ This belief draws from the fact that providing global public goods is costly.  I
 
 But global public goods provision has two relevant dimensions to it:  One, affordability; the other, incentive.  Sure, Middle Powers find provision more affordable than would small states, and thus Middle Powers are more willing to bear the cost.  However, if it is diminishing incentive (the increasingly unfavorable cost-benefit ratio) that is degrading Great Power support for the multilateral system, that diminishing incentive operates at least as powerfully on Middle Powers as it does on Great Powers.  Middle Powers will be just as bad as Great Powers in upholding multilateralism, when push comes to shove.  
 
-Any enduring solution to the challenge of resilience in the international system needs to have more than just Great or Middle-Power leadership.  Small states need to be an integral part of the solution.  Or, more precisely, any enduring solution will need to focus on incentive compatibility.  It will need to discard the idea that size matters, but instead focus on all nations participating co-equally and everyone gaining.  
+Any enduring solution to the challenge of resilience in the international system needs to have more than just Great or Middle-Power leadership.  Small states need to be an integral part of the solution.  Or, more precisely, any enduring solution will need to focus on incentive compatibility.  It will need to discard the idea that size matters, but instead focus on all nations participating appropriately and everyone gaining in ways that align with their motivations.  
 
 Three distinct pathways suggest themselves.  **First, seek inadvertent cooperation**.  Cooperation is, of course, a natural corollary when states are in agreement and can set down explicit articles of collaboration.  Inadvertent cooperation, conversely, is when cooperation emerges even when states disagree.  Inadvertent cooperation, therefore, is about doing the right thing even if for the wrong reason.  While this might at first sound impossible, it is not that different from Adam Smith's description of how "it is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."  If your nation feels another is unfairly and illegally subsidizing the production of new energy vehicles, then subsidize your own as well, instead of sanctioning or placing tariffs on your adversary.  Subsidizing your own national industry gets back at the other nation, but in the process both nations end up providing the Global South and yourselves a greater supply of clean energy devices that will help address the global climate crisis.  This achieves a good outcome even if everyone is acting for the wrong reason.  
 
