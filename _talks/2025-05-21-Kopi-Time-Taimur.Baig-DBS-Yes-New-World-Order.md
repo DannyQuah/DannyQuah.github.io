@@ -1,6 +1,6 @@
 ---
 title: "Kopi Time with Taimur Baig -- Episode 153"
-# Last-edited: 2025.05.22.0026.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.22.0041.Thu -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.05.21.1608.Wed -- Danny Quah (me@DannyQuah.com)
@@ -10,8 +10,8 @@ venue: "Kopi Time with Taimur Baig DBS -- Episode 153"
 location: "Singapore"
 fileName: 2025-05-21-Kopi-Time-Taimur.Baig-DBS-Yes-New-World-Order.md
 ---
-Wed 21 May 2025
-Yes, A New World Order, Fractured or Otherwise  
+Wed 21 May 2025  
+Three Ironies in Fracturing World Order
 Speaker --- Danny Quah  
 Moderator --- Taimur Baig  
 Venue --- Kopi Time with Taimur Baig DBS.  Episode 153  
