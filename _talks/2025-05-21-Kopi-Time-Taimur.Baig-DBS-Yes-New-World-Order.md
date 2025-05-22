@@ -1,6 +1,6 @@
 ---
 title: "Kopi Time with Taimur Baig -- Episode 153"
-# Last-edited: 2025.05.22.0007.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.22.0026.Thu -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.05.21.1608.Wed -- Danny Quah (me@DannyQuah.com)
@@ -21,9 +21,9 @@ I don't think the current US administration has a plan for the international sys
 
 Almost everyone outside that Administration agrees world order is under stress.  They all say, nodding heads in agreement, this is because the international system's principal architect and chief sponsor no longer wishes to serve that supporting function  Indeed, the opposite: the hegemon is not just no longer sponsoring the system, it is actively pulling at the threads.  
 
-Previous warnings had always been that the newly-emerging powers (the Global South), dissatisifed with the international system, would in due course play the revisionist card.  They would seek to remake the system in their own image.  This was because the rules of the game had been written in such a way as to disadvantage those rising powers.  The irony, however, is that the most significant disruption to world order today comes instead from its original architect, the same agent who had written the rules of the game in order to benefit itself.  The further irony is that the revisionist reasoning is the same, namely that the international system has been disadvantageous to its disruptor.  
+Previous warnings had always been that the newly-emerging powers (the Global South), dissatisifed with the international system, would in due course play the revisionist card.  They would seek to remake the system in their own image.  This was because the rules of the game had been written in such a way as to disadvantage those rising powers.  
 
-The crucial difference, however, is much less remarked on.  The revisionist emerging powers, in the common narrative, had a plan for how their new world order would look.  My hypothesis is that, in contrast, today's revisionist power has no plan for its preferred new world order - at least not to any degree resembling that envisioned by previous US administrations, all the way back from Eisenhower, past Clinton, and up through Obama.  
+But three ironies follow:  First, the most significant disruption to world order today comes, not from the newly-emerging powers, but instead from the international system's original architect, the same agent who had written the rules of the game in order to benefit itself.  Second, the revisionist reasoning is the same, namely that the international system has been disadvantageous to the complainer.  Finally, while the newly-emerging power revisionists came with a plan for their preferred new world order---at least in the conventional narrative---today's disruptor seems to have no plan, at least not to any degree resembling those envisioned by previous US administrations, all the way from Eisenhower, past Clinton, and through Obama.  
 
 To test this hypothesis, a body of evidence needs to be assembled.  But the first item of that evidence is already visible, and it is this:  First day, Trump 1.0 tore up TPP.  Then Japan and others decided to build CPTPP, excluding the US but based on much the same principles.  Following that, however, at no time has Trump and his enduring associates said a single significant word about CPTPP.  If the ideas in TPP were so awful and objectionable, why has CPTPP never been worth even mentioning?  Contrast this relative quiet with America's very public reactions to AIIB's founding and Japan's proposals for an Asian Monetary Fund.  
 
