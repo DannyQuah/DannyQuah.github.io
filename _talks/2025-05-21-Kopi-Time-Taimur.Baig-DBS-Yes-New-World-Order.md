@@ -1,6 +1,6 @@
 ---
 title: "Kopi Time with Taimur Baig -- Episode 153"
-# Last-edited: 2025.05.21.2149.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.22.0007.Thu -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.05.21.1608.Wed -- Danny Quah (me@DannyQuah.com)
@@ -25,7 +25,7 @@ Previous warnings had always been that the newly-emerging powers (the Global Sou
 
 The crucial difference, however, is much less remarked on.  The revisionist emerging powers, in the common narrative, had a plan for how their new world order would look.  My hypothesis is that, in contrast, today's revisionist power has no plan for its preferred new world order - at least not to any degree resembling that envisioned by previous US administrations, all the way back from Eisenhower, past Clinton, and up through Obama.  
 
-To test this hypothesis, a body of evidence needs to be assembled.  But the first item of that evidence is already visible, and it is this:  First day, Trump 1.0 tore up TPP.  Then Japan and others decided to build CPTPP, excluding the US but based on much the same principles.  Following that, however, at no time has Trump and his enduring associates said a single word about CPTPP.  If the ideas in TPP were so awful and objectionable, why has CPTPP never been worth even mentioning?  
+To test this hypothesis, a body of evidence needs to be assembled.  But the first item of that evidence is already visible, and it is this:  First day, Trump 1.0 tore up TPP.  Then Japan and others decided to build CPTPP, excluding the US but based on much the same principles.  Following that, however, at no time has Trump and his enduring associates said a single significant word about CPTPP.  If the ideas in TPP were so awful and objectionable, why has CPTPP never been worth even mentioning?  Contrast this relative quiet with America's very public reactions to AIIB's founding and Japan's proposals for an Asian Monetary Fund.  
 
 The answer is that the mood in America concerns itself a great deal about America, but hardly at all about principles, ideas, or what else goes on in the rest of the world.  The current administration, and America more generally for the next decades, care a lot about the things that lap up on America's shores.  But anything beyond that is invisible to them.  Today, the US administration is greatly concerned about China's manufacturing prowess.  It does not want more exports that will continue to inflict China Shock on America's workers, industries, and middle-class communities.  It wants to trade with China and others, but on its own terms applied bilaterally: America will remain what it thinks of as a trading nation.  But conditional on that, the US does not care if those Chinese exports go to some nation in Africa or the rest of Asia.  America is shrewd enough, however, about chain-washing: China's exports elsewhere shouldn't be re-exported and end up in America.  That would then be something that laps up on America's shores, and America will be strict about that.  But apart from that, whatever.
 
