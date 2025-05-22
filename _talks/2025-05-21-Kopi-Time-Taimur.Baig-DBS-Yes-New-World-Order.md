@@ -1,6 +1,6 @@
 ---
 title: "Kopi Time with Taimur Baig -- Episode 153"
-# Last-edited: 2025.05.22.0041.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.05.22.0746.Thu -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.05.21.1608.Wed -- Danny Quah (me@DannyQuah.com)
@@ -32,6 +32,8 @@ The answer is that the mood in America concerns itself a great deal about Americ
 While America warned us about revisionist powers such as China seeking to disrupt and then remake world order in their own image, today it is America disrupting the international system.  But America doesn't have a plug-in replacement for the rules-based multilateral world order.  It only wants to edit that international system, and then actually only those parts that touch it.  
 
 Today US imports are about 11% of what the world exports in total.  That import demand won't necessarily go away altogether, but it could well diminish.  That reduction will be painful, both for the rest of the world and for Americans. But a shock of that magnitude is not going to shatter world order in the longer run.  
+
+America's focus on itself leaves space for the rest of the world to build what system works for us.  Sure, it'd be better to have America in our world, but face this hard truth: If America doesn't want to be with us, we keep calm and carry on.  
 
 The two pieces of writing that Taimur and I discussed, that helps support what I say:  
 
