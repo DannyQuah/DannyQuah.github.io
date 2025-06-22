@@ -1,6 +1,6 @@
 ---
 title: "Good and Bad Industrial Policy Lessons for the Asia-Pacific in a Changing Global Order"
-# Last-edited: 2025.06.22.1814.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.06.22.1900.Sun -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.06.19.1946.Thu -- Danny Quah (me@DannyQuah.com)
@@ -42,7 +42,7 @@ For decades, Asia-Pacific's industrial policy, in its optimal form, was focused 
 
 Here are three specific points I made in my intervention at the Conference:  
 
-ONE // Not all interventions are industrial policy interventions.  Some interventions are just bad policy.  
+ONE // Not all interventions are industrial policy interventions.  Some interventions are just bad policy interventions.  
 
 Monetary policy---the setting of interest rates---is not industrial policy.  Tax policy that takes the form of a general consumption tax or income tax is not industrial policy: it doesn't tilt the landscape of industrial activity, but affects them all the same way.  By the same token, distortionary tax benefits that reward one industry or another do represent industrial policy.  
 
@@ -58,7 +58,7 @@ There is an obvious distinction in that when industrial policy is costly, Great 
 
 There might be important lessons for small Asia Pacific states in our seeing how the Gret Powers are doing it.  But our taking on board those lessons will make us all collectively poorer.  
 
-THREE // Empirical evidence shows heightened industrial policy activity everywhere.  That does not mean economists should endorse industrial policy.  
+THREE // Empirical evidence shows heightened industrial policy activity everywhere.  Some of that activity is very good and worthwhile.  Others are very bad.
 
 Heroic scientific work by economists Juhasz, Lane, and Rodrik, and Cherif and Hasanov, have been eye-opening on the increase in industrial policy worldwide.  More than ever is there urgency for science to keep track of the misuse of industrial policy.  As with all policy, there are good reasons for undertaking policy action, and there are bad reasons.  In the Asia-Pacific region we watch for when corruption in industrial policy destroys value, exacerbates inequality, and entrenches elites.  In advanced economies and Great Powers, their scientists need to understand better when economic statecraft is appropriate and when it is not, and not take as given that simply uttering the words "national security" or "contain China" alongside a mention of "industrial policy" immediately implies an appropriate call to action.  
 
