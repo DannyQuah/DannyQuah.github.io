@@ -1,6 +1,6 @@
 ---
-title: "Industrial Policy Lessons for Asia-Pacific"
-# Last-edited: 2025.06.22.1802.Sun -- Danny Quah (me@DannyQuah.com)
+title: "Good and Bad Industrial Policy Lessons for the Asia-Pacific in a Changing Global Order"
+# Last-edited: 2025.06.22.1814.Sun -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.06.19.1946.Thu -- Danny Quah (me@DannyQuah.com)
@@ -18,9 +18,11 @@ Moderator --- Chad Bown
 Venue --- C. Fred Bergsten Conference Center  
 Location --- Peterson Institute for International Economics, Washington DC  
 
+<img src="https://DannyQuah.github.io/Storage/2025.06.05.1700.Thu-PAFTAD-Lessons-Policy-Asia-Pacific-panel-poster.jpg" width="50%" alt="Industrial Policy for Asia and the Pacific">
+
 ###  Good and Bad Industrial Policy Lessons for the Asia-Pacific in a Changing Global Order  
 
-(The below isn't exactly what I said, but certainly what I intended, although - in the moment itself - ended up much more long-winded and roundabout.)  
+(The below isn't exactly what I said, but much more what I intended. As usual, in the moment, I ended up too long-winded and roundabout.)  
 
 One of the more powerful wake-up calls from policymakers for economists recently was this: "Advocating industrial policy was once considered embarrassing---now it should be considered something close to obvious."  
 
@@ -59,8 +61,6 @@ There might be important lessons for small Asia Pacific states in our seeing how
 THREE // Empirical evidence shows heightened industrial policy activity everywhere.  That does not mean economists should endorse industrial policy.  
 
 Heroic scientific work by economists Juhasz, Lane, and Rodrik, and Cherif and Hasanov, have been eye-opening on the increase in industrial policy worldwide.  More than ever is there urgency for science to keep track of the misuse of industrial policy.  As with all policy, there are good reasons for undertaking policy action, and there are bad reasons.  In the Asia-Pacific region we watch for when corruption in industrial policy destroys value, exacerbates inequality, and entrenches elites.  In advanced economies and Great Powers, their scientists need to understand better when economic statecraft is appropriate and when it is not, and not take as given that simply uttering the words "national security" or "contain China" alongside a mention of "industrial policy" immediately implies an appropriate call to action.  
-
-<img src="https://DannyQuah.github.io/Storage/2025.06.05.1700.Thu-PAFTAD-Lessons-Policy-Asia-Pacific-panel-poster.jpg" width="50%" alt="Industrial Policy for Asia and the Pacific">
 
 <!---
    Invisible section // 2026-06-05-PAFTAD-Lessons-Industrial-Policy-Asia-Pacific-PIIE.md
