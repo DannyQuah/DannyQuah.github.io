@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah's website"
-# Last-edited: 2025.04.16.2006.Wed -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.06.22.1755.Sun -- Danny Quah (me@DannyQuah.com)
 author_profile: true
 permalink: /
 # Created: 2025.03.21.1500.Fri -- Danny Quah (me@DannyQuah.com)
@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Li Ka Shing Professor in Economics and Dean at the Lee Kuan Yew School of Public Policy, NUS.  I work on geopolitics and world order from an economics perspective.  I also do research on income inequality, growth, and development.  
+I am Li Ka Shing Professor in Economics at the Lee Kuan Yew School of Public Policy, NUS.  I work on geopolitics and world order from an economics perspective.  I also do research on income inequality, growth, and development.  
 
 In my work on world order, I analyze the supply and demand of international systems, contrasting the goals of the Great Powers and the needs of the global community.  I seek to help shape economic and geopolitical discourse through academic research, public commentary, and as a member of various international advisory committees.  
 
