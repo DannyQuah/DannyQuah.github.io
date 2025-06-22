@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# Last-edited: 2025.04.17.1830.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.06.22.1806.Sun -- Danny Quah (me@DannyQuah.com)
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -27,7 +27,7 @@ author:
   avatar           : "2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg"
   name             : "Danny Quah"
   pronouns         : # example: "she/her"  
-  bio              : "Li Ka Shing Professor in Economics and Dean"
+  bio              : "Li Ka Shing Professor in Economics"
   location         : "Singapore"
   employer         : "Lee Kuan Yew School of Public Policy, NUS"
   uri              : # URL
