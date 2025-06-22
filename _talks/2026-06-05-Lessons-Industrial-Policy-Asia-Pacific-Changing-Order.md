@@ -1,6 +1,6 @@
 ---
 title: "Good and Bad Industrial Policy Lessons for the Asia-Pacific in a Changing Global Order"
-# Last-edited: 2025.06.22.1907.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.06.22.1912.Sun -- Danny Quah (me@DannyQuah.com)
 collection: talks
 type: "Talk"
 # Created: 2025.06.19.1946.Thu -- Danny Quah (me@DannyQuah.com)
@@ -24,9 +24,9 @@ Location --- Peterson Institute for International Economics, Washington DC
 
 (The below isn't exactly what I said, but much more what I intended. As usual, in the moment, I ended up too long-winded and roundabout.)  
 
-One of the more powerful wake-up calls from policymakers for economists recently was this: "Advocating industrial policy was once considered embarrassing---now it should be considered something close to obvious."  
+One of the more powerful wake-up calls from policymakers for economists recently is this: "Advocating industrial policy was once considered embarrassing---now it should be considered something close to obvious."  
 
-Along with the best thinkers on the subject, I agree that, simply as a matter of doing science, industrial policy has, to a large part despite some powerful exceptions, peculiarly remained for too long at a level of just debating whether it should be done at all.  Asymmetrically, on all other kinds of economic policies, we have long gotten past that basic stage to, instead, analyzing how to run well different policies.  
+Along with the best thinkers on the subject, I agree that, simply as a matter of doing science, industrial policy has, despite some powerful exceptions, peculiarly remained for too long at a level of just debating whether it should be done at all.  Asymmetrically, on all other kinds of economic policies, we have long gotten past that basic stage to, instead, analyzing how to run well different policies.  
 
 This does not justify, however, swinging to the opposite extreme: that anything goes, once tagged industrial policy.  I cannot be the first to notice how, suddenly, all kinds of real-world policy interventions seek legitimacy simply by calling themselves industrial policy.  Trigger words (in some parts of the world, "national security" or "China") look to assume a mantle of resonance by marrying these ideas: "We are designing the 21st-century industrial policy needed to counter the market failure that is China."  
 
