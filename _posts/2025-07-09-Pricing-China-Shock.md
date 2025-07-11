@@ -1,6 +1,6 @@
 ---
 fileName: 2025-07-11-Pricing-China-Shock.md
-# Last-edited: 2025.07.11.1600.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.07.11.1612.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   US, China, trade, ChinaShock, BalassaSamuelson, industrialPolicy
@@ -26,7 +26,7 @@ Today, US narrative is that trade is unfair and unbalanced, and harms American b
 The typical objection to this is that protectionism creates inefficiency, even if industrial policy might well do the right thing.  I argue here that beyond just inefficiency, such policies have the unintended consequence of immiserising the very industry being protected.
 
 <figure>
-<img align=right width="100%" src="https://DannyQuah.github.io/Storage/Posts/ChatGPT-China-Shock-2025.07.png"alt="ChatGPT - The China Shock">
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/Posts/ChatGPT-China-Shock-2025.07.png" alt="ChatGPT - The China Shock">
 <figcaption>Chat GPT - The China Shock</figcaption>
 </figure>
 
@@ -69,17 +69,15 @@ Pricing the China Shock---rather than just looking the size and direction of imp
 
 **References**  
 
-Kennedy, Scott and Mazzocco, Ilaria. 2022. "The China Shock: Reevaluating the Debate," Big Data China, Center for Strategic and International Studies, October 14, 2022, last modified 11 Apr, 2024  
-https://bigdatachina.csis.org/the-china-shock-reevaluating-the-debate/  
+Kennedy, Scott and Mazzocco, Ilaria. 2022. "The China Shock: Reevaluating the Debate," Big Data China, Center for Strategic and International Studies, October 14, 2022, last modified 11 Apr, 2024  [https://bigdatachina.csis.org/the-china-shock-reevaluating-the-debate/](https://bigdatachina.csis.org/the-china-shock-reevaluating-the-debate/)  
 
 
-Quah, Danny.  2024.  "Why Small Nations Unexpectedly Succeed:  Trade, Technology, and the Washington Consensus", LKYSPP Working Paper, Mar
-[[https://DannyQuah.github.io/working-papers/2024-02-small-nations-succeed/]]
+Quah, Danny.  2024.  "Why Small Nations Unexpectedly Succeed:  Trade, Technology, and the Washington Consensus", LKYSPP Working Paper, Mar [https://DannyQuah.github.io/working-papers/2024-02-small-nations-succeed/](https://DannyQuah.github.io/working-papers/2024-02-small-nations-succeed/)
 
 Quah, Danny. 2025. "Correlated Trade and Geopolitics Driving a Fractured World Order", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  
-[[https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/]]  
+[https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/](https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/)  
 
-Quah, Danny. 2025.  "Response to Ricardo Hausmann by Danny Quah: The Trade-Technology Relation in Small and Poor Economies", in Besley, Tim, Bucelli, Irene, and Velasco, Andres (eds.) *The London Consensus: Economic Principles for the 21st Century*, London: LSE Press, pp. 181-193  [[https://DannyQuah.github.io/publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC]]
+Quah, Danny. 2025.  "Response to Ricardo Hausmann by Danny Quah: The Trade-Technology Relation in Small and Poor Economies", in Besley, Tim, Bucelli, Irene, and Velasco, Andres (eds.) *The London Consensus: Economic Principles for the 21st Century*, London: LSE Press, pp. 181-193  [https://DannyQuah.github.io/publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC](https://DannyQuah.github.io/publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC)  
 
 
 <!---
