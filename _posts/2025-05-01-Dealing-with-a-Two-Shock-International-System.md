@@ -1,6 +1,6 @@
 ---
 fileName: 2025-05-01-Dealing-with-a-Two-Shock-International-System.md
-# Last-edited: 2025.05.01.1532.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.07.08.1742.Tue -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   geopolitics, shock, ChinaShock, AmericaShock, supply, demand,
@@ -26,7 +26,7 @@ The America Shock is a demand shock.  This puts up trade barriers so that compan
 
 For the 80% of humanity who lives in neither China nor the US, it is not for us, just as when we confront all other shocks, to approve or disapprove.  It is to ask, What is the smartest thing to do in a two-shock world?  
 
-![GiA LKYSPP. 205. Trump's Tariffs, Global Strategy](http://DannyQuah.github.io/Storage/2025.04.10.Thu-Trumps-Trade-Wars-GiA-LKYSPP.png)
+![GiA LKYSPP. 2025. Trump's Tariffs, Global Strategy](http://DannyQuah.github.io/Storage/2025.04.10.Thu-Trumps-Trade-Wars-GiA-LKYSPP.png)
 
 A supply shock that brings to bear added competitive pressure is not something anyone relishes in the short term.  Significant parts of America's narrative on the China Shock is one of China's "stealing our jobs, hollowing out our industries, turning into ghost towns what were once thriving American middle-class communities." It is not just America that sees this threat.  America's reaction has been to push back against the China Shock.   For the rest of us, that won't be geostrategically optimal.  
 
