@@ -1,6 +1,6 @@
 ---
 fileName: 2025-07-11-Pricing-China-Shock.md
-# Last-edited: 2025.07.11.1612.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.07.11.1717.Fri -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   US, China, trade, ChinaShock, BalassaSamuelson, industrialPolicy
@@ -36,7 +36,7 @@ Two mechanisms matter:
 
 The implication of the trade-price effect is that even when trade is fair and balanced, and comparative advantage theory applies to make for win-win outcomes, there can still be political opposition against trade.  The implication of the non-tradeable price effect is that protectionism directed at specific sectors---because of an industrial policy approach, say---does not, in actuality, protect those sectors.
 
-The trade-price effect might seem, at first, unsual, but it is just a generalization of a different idea, now considered conventional. In economic aanlysis comparative advantage can coexist with trade increasing inequality.   A rise in inequality can engender escalation in populist activity and political opposition to trade.  
+The trade-price effect might seem, at first, unusual, but it is just a generalization of a different idea, now considered conventional. In economic analysis comparative advantage can coexist with trade increasing inequality.   A rise in inequality can engender escalation in populist activity and political opposition to trade.  
 
 Connecting this with the trade-price effect, observe that while there might be variety in the different possible mechanisms underlying political opposition to trade, one simple unifying idea connects them all.  This is that trade changes relative prices.  And, when relative prices change, someone somewhere in the economy is disadvantaged.
 
@@ -49,7 +49,7 @@ When prices happen to move against the poor, this is a rise in inequality.  Thus
 
 The Figure shows perhaps the largest of such price disruptions over an extended period of time.  The data graphed are timeseries, over 2003-2024, of price indexes important for assessing US trade.  The three rising graphs are, respectively, the US Consumer Price Index and the price indexes for imports from Canada and Mexico.  Over the last quarter century, US consumer prices have risen 65%; Canadian import prices by 68%; Mexico import prices, 49%.  Thus, Canadian imports have kept pace with US consumer prices, while Mexican imports have become marginally cheaper.  
 
-It is the fourth line in the Figure that is most critical:  this is the price index for imports from China.  Its graph shows, in essence, zero change for the entire last quarter of a century.  Even as Chinese exports to the US have transitioned from primarily low-tech manufacturs and plastic toys to high-quality frontier technologies, they have remained as cheap for the US consumer today as they were over two decades ago.  
+It is the fourth line in the Figure that is most critical:  this is the price index for imports from China.  Its graph shows, in essence, zero change for the entire last quarter of a century.  Even as Chinese exports to the US have transitioned from primarily low-tech manufactures and plastic toys to high-quality frontier technologies, they have remained as cheap for the US consumer today as they were over two decades ago.  
 
 However, those same features in the graph show also the intense competition faced by US businesses and workers in those industries for which these exports substitute.  Why would US consumers buy goods whose prices have risen by 70% over others that are comparable or of even better quality?  
 
@@ -74,8 +74,7 @@ Kennedy, Scott and Mazzocco, Ilaria. 2022. "The China Shock: Reevaluating the De
 
 Quah, Danny.  2024.  "Why Small Nations Unexpectedly Succeed:  Trade, Technology, and the Washington Consensus", LKYSPP Working Paper, Mar [https://DannyQuah.github.io/working-papers/2024-02-small-nations-succeed/](https://DannyQuah.github.io/working-papers/2024-02-small-nations-succeed/)
 
-Quah, Danny. 2025. "Correlated Trade and Geopolitics Driving a Fractured World Order", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  
-[https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/](https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/)  
+Quah, Danny. 2025. "Correlated Trade and Geopolitics Driving a Fractured World Order", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  [https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/](https://DannyQuah.github.io/publications/2025-04-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO/)  
 
 Quah, Danny. 2025.  "Response to Ricardo Hausmann by Danny Quah: The Trade-Technology Relation in Small and Poor Economies", in Besley, Tim, Bucelli, Irene, and Velasco, Andres (eds.) *The London Consensus: Economic Principles for the 21st Century*, London: LSE Press, pp. 181-193  [https://DannyQuah.github.io/publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC](https://DannyQuah.github.io/publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC)  
 
