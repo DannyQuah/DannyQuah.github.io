@@ -1,6 +1,6 @@
 ---
 fileName: 2025-07-11-Pricing-China-Shock.md
-# Last-edited: 2025.07.11.1717.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.07.12.1846.Sat -- Danny Quah (me@DannyQuah.com)
 Type: Publication
 Tags: >
   US, China, trade, ChinaShock, BalassaSamuelson, industrialPolicy
@@ -17,7 +17,7 @@ by
 Danny Quah  
 Jul 2025  
 
-Synopsis: The China Shock can be measured in terms of import flows or, alternatively, as a price effect. Adopting the latter perspective, i.e., pricing the China Shock, helps explain, through a wage-price mechanism, why attempting to protect specific sectors ends up, in reality, penalizing those same sectors.  
+Synopsis: The China Shock can be measured in terms of import flows or, alternatively, as a price effect. Adopting the latter perspective, i.e., pricing the China Shock, helps explain, through a wage-price mechanism, why industrial policy attempting to protect specific sectors ends up, in reality, penalizing those same sectors.  
 
 ____
 
@@ -26,8 +26,8 @@ Today, US narrative is that trade is unfair and unbalanced, and harms American b
 The typical objection to this is that protectionism creates inefficiency, even if industrial policy might well do the right thing.  I argue here that beyond just inefficiency, such policies have the unintended consequence of immiserising the very industry being protected.
 
 <figure>
-<img align=right width="100%" src="https://DannyQuah.github.io/Storage/Posts/ChatGPT-China-Shock-2025.07.png" alt="ChatGPT - The China Shock">
-<figcaption>Chat GPT - The China Shock</figcaption>
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/Posts/ChatGPT-China-Shock-jobs-flow-2025.07.png" alt="ChatGPT - The China Shock.  Jobs flow">
+<figcaption>Chat GPT - The China Shock.  Jobs flow</figcaption>
 </figure>
 
 Two mechanisms matter:
