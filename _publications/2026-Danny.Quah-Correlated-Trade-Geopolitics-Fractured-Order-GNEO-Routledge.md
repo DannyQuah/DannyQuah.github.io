@@ -1,6 +1,6 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.07.24.0647.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.07.24.0706.Thu -- Danny Quah (me@DannyQuah.com)
 collection: publications
 category: bookChapters
 permalink: /publications/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledgge/
@@ -11,12 +11,11 @@ paperurl: 'https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-
 citation: 'Quah, Danny. 2026. &quot;Correlated Trade and Geopolitics Driving a Fractured World Order.&quot; Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) <i>The New Global Economic Order</i>, Routledge.'
 ---
 [<img src="https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge-titlepage.png" alt = "Correlated Trade Geopolitics Driving a Fractured World Order - titlepage"/>](https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge.pdf)
-
-https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah  (Open Access from July 2025)  
+[Published](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah) (Open Access from July 2025)  //  [Local PDF](https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge.pdf)
 
 Ing, L.Y., and Rodrik, D. (Eds.). (2026). The New Global Economic Order (1st ed.). Routledge. https://doi.org/10.4324/9781003571384
-https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003571384/new-global-economic-order-lili-yan-ing-dani-rodrik   (Open Access from July 2025)  
-https://www.routledge.com/The-New-Global-Economic-Order/Ing-Rodrik/p/book/9781032945538 (Hardcopy USD39.95, shipping 2026)  
+[Published](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003571384/new-global-economic-order-lili-yan-ing-dani-rodrik) (Open Access from July 2025)  
+[Hardcopy](https://www.routledge.com/The-New-Global-Economic-Order/Ing-Rodrik/p/book/9781032945538) (USD39.95, shipping 2026)  
 
 
 
