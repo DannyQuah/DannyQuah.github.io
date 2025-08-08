@@ -1,6 +1,6 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.07.25.0607.Fri -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.08.08.1752.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapters
 permalink: /publications/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge/
