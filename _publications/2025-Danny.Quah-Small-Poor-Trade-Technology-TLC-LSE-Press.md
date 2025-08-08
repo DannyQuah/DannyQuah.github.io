@@ -2,9 +2,9 @@
 title: "Export-Led Growth: The Trade-Technology Relation in Small and Poor Economies"
 collection: publications
 category: bookChapters
-permalink: /publications/2025-03-Danny.Quah-Small-Poor-Trade-Technology-TLC/
+permalink: /publications/2025-Danny.Quah-Small-Poor-Trade-Technology-TLC-LSE-Press/
 excerpt: 'This paper analyses the impact of trade and technology on aggregate economic performance where poor nations are cheap.  The most successful economies are extraordinarily rich without having to be unusually complex.'
-date: 2025-03-31
+date: 2025-08-08
 venue: 'Besley, Tim, Bucelli, Irene, and Velasco, Andres (eds.) <i>The London Consensus:  Economic Principles for the 21st Century</i>'
 paperurl: 'https://DannyQuah.github.io/Storage/2025-Danny.Quah-Small-Poor-Trade-Technology-TLC-LSE-Press.pdf'
 citation: 'Quah, Danny. 2025. &quot;Response to Ricardo Hausmann by Danny Quah: The Trade-Technology Relation in Small and Poor Economies&quot;, in Besley, Tim, Bucelli, Irene, and Velasco, Andres (eds.) <i>The London Consensus: Economic Principles for the 21st Century</i>.'
