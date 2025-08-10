@@ -1,10 +1,13 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.08.08.1752.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.08.09.1126.Sat -- Danny Quah ( dq @ hpt-2023-07 )
 collection: publications
 category: bookChapters
+# category: articles
+# category: commentaries
+# Created: 2025.08.08.1701.Fri -- Danny Quah ( me @ DannyQuah.com )
 permalink: /publications/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge/
-excerpt: 'This article argues that in a fracturing world order, paradoxically, geopolitics and trade align.  It is, thus, a fallacy that geopolitics and economics provide a balance through working in opposition in a fragmenting global economy.'
+excerpt: 'This paper argues that in a fracturing world order, paradoxically, geopolitics and trade align.  It is, thus, a fallacy that geopolitics and economics provide a balance through working in opposition in a fragmenting global economy.'
 date: 2025-07-24
 venue: 'Ing, Lili Yan and Rodrik, Dani (eds) <i>The New Global Economic Order</i>, Routledge'
 paperurl: 'https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah'

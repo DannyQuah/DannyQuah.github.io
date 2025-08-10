@@ -1,7 +1,9 @@
 ---
 title: "Export-Led Growth: The Trade-Technology Relation in Small and Poor Economies"
+# Last-edited: 2025.08.09.1125.Sat -- Danny Quah ( dq @ hpt-2023-07 )
 collection: publications
 category: bookChapters
+# Created: 2025.08.08.1701.Fri -- Danny Quah ( me @ DannyQuah.com )
 permalink: /publications/2025-Danny.Quah-Small-Poor-Trade-Technology-TLC-LSE-Press/
 excerpt: 'This paper analyses the impact of trade and technology on aggregate economic performance where poor nations are cheap.  The most successful economies are extraordinarily rich without having to be unusually complex.'
 date: 2025-08-08
