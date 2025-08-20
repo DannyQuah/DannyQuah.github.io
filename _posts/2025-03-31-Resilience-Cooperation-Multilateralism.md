@@ -1,6 +1,6 @@
 ---
 fileName: 2025-03-31-Resilience-Cooperation-Multilateralism.md
-# Last-edited: 2025.05.08.1340.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.08.14.1535.Thu -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags: >
   resilience, cooperation, multilateralism, IMF
@@ -38,7 +38,7 @@ But even without a general theorem, the possibility for multilateralism achievin
 
 Even if multilateralism as imagined above need not achieve cooperation exactly, most observers likely think it has some shot at coming close.  The challenge today, however, is not a question of how close multilateralism gets to delivering full cooperation.  Instead, the challenge is the opposite.  Multilateralism is fraying, and so the pathway from disorder to multilateralism to global cooperation grows ever less feasible.  Multilateralism is a global public good, its maintenance is expensive, and the cost of that support is unevenly distributed.  As the global economy continues to change, so too the balance between costs and benefits evolves differently for different nations.  
 
-Seven decades ago the US found great advantage to supporting a multilateral international economic system.  The Cold War against the Soviet Union had America's adversary opposing free markets and open trade.  On this margin the US gained geoplitically from taking the contrary position, thus adding to the direct economic benefit that the US already drew from the multilateral international economic system.  The US had no close competitor in that system thus a great fraction of the system's gains accrued significantly to the US itself.  For the US, both geopolitics and economics aligned in multilateralism.  
+Eight decades ago the US found great advantage to supporting a multilateral international economic system.  The Cold War against the Soviet Union had America's adversary opposing free markets and open trade.  On this margin the US gained geopolitically from taking the contrary position, thus adding to the direct economic benefit that the US already drew from the multilateral international economic system.  The US had no close competitor in that system thus a great fraction of the system's gains accrued significantly to the US itself.  For the US, both geopolitics and economics aligned in multilateralism.  
 
 But that margin of costs and benefits shifted.  First, the Cold War ended.  Today, not only do America's greatest geopolitical adversaries no longer oppose free markets and open trade, they have instead benefited from multilateralism.  Second, and related, the global economy grew multipolar.  When, in the past, the world was obviously unipolar, America gained visibly every time the global economy grew due to multilateralism.  In this calculation, when the cost-benefit ratio rises, it becomes rational for the US and other similarly-positioned powers to pull back from providing multilateralism the support they had previously done.
 
