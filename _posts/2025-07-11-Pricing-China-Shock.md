@@ -1,9 +1,14 @@
 ---
 fileName: 2025-07-11-Pricing-China-Shock.md
-# Last-edited: 2025.07.12.1846.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2025.09.11.2153.Thu -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
-Tags: >
-  US, China, trade, ChinaShock, BalassaSamuelson, industrialPolicy
+Tags: 
+  - US
+  - China
+  - trade
+  - ChinaShock
+  - BalassaSamuelson
+  - industrialPolicy
 # Created: 2025.07.08.1831.Tue -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
@@ -11,7 +16,7 @@ fontsize: 14pt
 output: pdf_document
 title: "Pricing the China Shock: The Unintended Consequences of Sectoral Trade Protectionism"
 ---
-### "Pricing the China Shock: The Unintended Consequences of Sectoral Trade Protectionism"  
+### Pricing the China Shock: The Unintended Consequences of Sectoral Trade Protectionism  
 
 by  
 Danny Quah  
@@ -26,7 +31,7 @@ Today, US narrative is that trade is unfair and unbalanced, and harms American b
 The typical objection to this is that protectionism creates inefficiency, even if industrial policy might well do the right thing.  I argue here that beyond just inefficiency, such policies have the unintended consequence of immiserising the very industry being protected.
 
 <figure>
-<img align=right width="100%" src="https://DannyQuah.github.io/Storage/Posts/ChatGPT-China-Shock-jobs-flow-2025.07.png" alt="ChatGPT - The China Shock.  Jobs flow">
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/ChatGPT-China-Shock-jobs-flow-2025.07.png" alt="ChatGPT - The China Shock.  Jobs flow">
 <figcaption>Chat GPT - The China Shock.  Jobs flow</figcaption>
 </figure>
 
