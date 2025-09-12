@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-11-Multilateralism-without-Consensus.md
-# Last-edited: 2025.09.11.2154.Thu -- Danny Quah ( dq @ hpt-2023-07 )
+# Last-edited: 2025.09.12.0950.Fri -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - worldOrder
@@ -21,6 +21,9 @@ Danny Quah
 Sep 2025  
 
 Synopsis:  International cooperation can advance, even when the most powerful players are at odds.  
+
+WhatsApp-Broadcast: The Realists are right. The world is unlikely to see an outbreak of love and internationalist goodwill anytime soon. But while those qualities might induce global collaboration, their absence doesn't mean anarchy and chaos:  They are sufficient but not necessary for an orderly world.  After all, it is not from the goodwill of Apple, Google, or Netflix that our lives have been enriched, but from their self-interest.  Multilateral cooperation can survive the loss of consensus.  But we have to work for it.
+
 
 (This is a preprint version of:  
 
