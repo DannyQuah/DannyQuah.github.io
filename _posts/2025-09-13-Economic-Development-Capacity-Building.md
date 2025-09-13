@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-13-Economic-Development-Capacity-Building.md
-# Last-edited: 2025.09.13.1747.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.09.13.1800.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - development
@@ -11,9 +11,10 @@ Tags:
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: 2025-09-13-Economic-Development-Capacity-Building
+title: "How Economic Development Can Be More Than Just Capacity Building"
+
 ---
-### How can economic development be more than just capacity building?  
+### How Economic Development Can Be More Than Just Capacity Building
 
 by  
 Danny Quah  
