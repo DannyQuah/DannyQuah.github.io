@@ -1,0 +1,70 @@
+---
+fileName: 2025-09-13-Economic-Development-Capacity-Building.md
+# Last-edited: 2025.09.13.1747.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
+Type: Publication
+Tags:
+  - development
+  - multilateralism
+  - capacityBuilding
+# Created: 2025.09.13.1724.Sat -- Danny Quah ( me @ DannyQuah.com )
+
+documentclass: extarticle
+fontsize: 14pt
+output: pdf_document
+title: 2025-09-13-Economic-Development-Capacity-Building
+---
+### How can economic development be more than just capacity building?  
+
+by  
+Danny Quah  
+Sep 2025  
+
+Synopsis:  Policy discourse in economic development conventionally focuses on capacity building: improving health, raising skills and education, building infrastructure.  All this builds out the supply side. But unless demand is elastic, capacity building doesn't create jobs; it just increases unemployment.  That opens space for populism, which will only add xenophobic fuel to a world increasingly protectionist and uncollaborative.  With multilateralism and globalization in retreat, the international environment and an elastic global demand can no longer be relied on to finish the job of development that capacity building begins.  
+
+<figure>
+<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.07.22.Tue-ABCDE25-Development-Populism-Main-Card1.png" alt="World Bank ABCDE 2025:  Development in the Age of Populism">
+<figcaption>World Bank ABCDE 2025:  Development in the Age of Populism</figcaption>
+</figure>
+
+____
+
+It is a dissonance to us in East Asia how so many observers around the world equate the process of economic development with just capacity building.  Here, our experience has been different.  This disparity is brought into ever sharper relief in today's international environment of angry populism, frayed multilateralism, and recalibrated globalization.  
+
+
+**Development and its traditions**
+
+Scholarship and policymaking have helped build out the human capital of hundreds of millions in emerging economies.  Their focus has been on improving health, raising skills and education, building infrastructure, shifting the workforce from low-productivity activities to high-productivity industry.  To that end, schools have been built, textbooks provided, teachers rewarded, basic medications trialled.  In village after village, township after township, improvements in individual circumstances in health, basic education, and personal finance have successfully moved billions of people from a state of making poor choices to where they better control their own destiny.  No emerging economy that has succeeded has done so without improving the health, skills, and education of its people.  
+
+This kind of capacity building points to all the right things to do.  These improvements obviously necessary for growth in any developing economy.  But the question is, are they sufficient?  
+
+
+
+**Development is not just capacity-building.  It is also about the demand side**  
+
+In the history of development in East Asia---whether that part around Singapore or around China---we carried out capacity building too.  But we did more.  We operated in the knowledge that capacity-building was just one side of the equation, the supply side.  Explicitly or otherwise, we noted the importance of the other side, the demand side.  We knew our hinterland was too diminutive or too poor to provide sufficient demand for the increased supply that development policy was building.  So, in East Asia, we balanced the equation by always making sure we connected with large, rich markets elsewhere.  This provided demand.  When global demand was elastic and needed little further attention, we could focus on capacity building, and that was then indeed economic development.  
+
+The problem we had faced previously is now everywhere.  The large looming threat to well-being in the developing world today is that multilateralism and globalization are on the retreat, and with them the international environment that allows traditional capacity building to grow economies.  Global demand today is no longer elastic and needs a great deal of attention.  Without elastic demand, capacity building doesn't create jobs.  It increases unemployment.  This drives populism which, in turn, raises xenophobia and protectionism, and through those fray multilateralism even further.  This is a vicious cycle of failure to develop.  
+
+Improving productive capacity helps emerging economies grow only if demand is elastic for what these economies produce.  Without elastic demand---because markets elsewhere are closing in on themselves---raising supply-side productivity doesn't raise living standards: it creates frustration.  In these circumstances, capacity-building makes populations angry and worsens relations with yet other nations: both xenophobia and protectionism shrink a nation. Without elastic demand between nations, an economy's improvement in skills, health, and education doesn't create jobs:  It increases unemployment.  
+
+The rise of populism and the withdrawal of multilateralism call for small developing economies to do more than just stand by, simply continuing their old ways of only capacity-building.  But even if they might counter their domestic populism, how can small poor nation states exercise agency in an international system when the major powers are turning their backs on internationalism and multilateralism?
+
+
+**Development needs to step up on its international responsibility**
+
+Will development policy and research take demand-side lessons from East Asia, and pivot to engage with these new emerging challenges?  How can small developing states help build out again an international system to restore the best of multilateralism?  
+
+The challenge is profound.  Rising populism and xenophobia and the withdrawal of multilateralism give nation-states many reasons to be narrowly self-seeking and to not collaborate with each other.  Developing economies, however, do not have that luxury.  If collaboration is difficult, development economies should look instead to inadvertently cooperate, i.e., to do the right thing even if it's for the wrong reason.  After all, as Adam Smith pointed out, "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."  
+
+When advanced nations retreat from internationalism, developing economies should build and strengthen networks of their own, that can then emerge as coalitions of the willing.  These networks can be purpose-built for trade according to multilateral rules, or for yet other forms of rules-based cooperation, in a plurilateral way.  At the same time, these networks should remain open to bringing in yet others, provided only that those who seek entry agree to follow the rules.  Call this pathfinder multilateralism.  
+
+However the developing world seeks to do this, it will need diplomats and trade officials as much as teachers and engineers; skills and mindsets for international engagement as much as sleeping sickness tablets and mosquito nets.  Development needs to have both international and domestic dimensions, especially on the demand side.  Development needs to be more than just health and education, and the capacity that policy needs to build has to encourage demand growth---both domestic and foreign---not just strengthen supply.  
+
+____
+
+Gill, I., Glennester, R., and Quah, D. 2025. "[Development in the age of populism](https://www.worldbank.org/en/events/2025/07/22/abcde-2025)", World Bank blog (Jun)  
+
+
+<!---
+   Invisible section // 2025-09-13-Economic-Development-Capacity-Building.md
+-->
