@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-13-Economic-Development-Capacity-Building.md
-# Last-edited: 2025.09.13.1803.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.09.14.0755.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - development
@@ -20,7 +20,7 @@ by
 Danny Quah  
 Sep 2025  
 
-Synopsis:  Policy discourse in economic development conventionally focuses on capacity building: improving health, raising skills and education, building infrastructure.  All this builds out the supply side. But unless demand is elastic, capacity building doesn't create jobs; it just increases unemployment.  That opens space for populism, which will only add xenophobic fuel to a world increasingly protectionist and uncollaborative.  With multilateralism and globalization in retreat, the international environment and an elastic global demand can no longer be relied on to finish the job of development that capacity building begins.  
+Synopsis:  Policy discourse in economic development conventionally focuses on capacity building: improving health, raising skills and education, building infrastructure.  This strengthens the supply side.  But unless demand is elastic, capacity building doesn't create jobs; it just increases unemployment.  That opens space for populism, adding xenophobic fuel to a world increasingly protectionist and uncollaborative.  With multilateralism and globalization in retreat, the fragmented international environment and weak inelastic global demand can no longer be relied on to finish the job of development that capacity building begins.  
 
 <figure>
 <img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.07.22.Tue-ABCDE25-Development-Populism-Main-Card1.png" alt="World Bank ABCDE 2025:  Development in the Age of Populism">
@@ -29,7 +29,7 @@ Synopsis:  Policy discourse in economic development conventionally focuses on ca
 
 ____
 
-It is a dissonance to us in East Asia how so many observers around the world equate the process of economic development with just capacity building.  Here, our experience has been different.  This disparity is brought into ever sharper relief in today's international environment of angry populism, frayed multilateralism, and recalibrated globalization.  
+In East Asia we find it dissonant how so many observers around the world equate the process of economic development with just capacity building.  Here, our experience has been different: we see capacity building as necessary but not sufficient for growth.  This distinction is brought into ever sharper relief in today's international environment of angry populism, frayed multilateralism, and recalibrated globalization.  
 
 
 **Development and its traditions**
@@ -64,6 +64,9 @@ However the developing world seeks to do this, it will need diplomats and trade 
 ____
 
 Gill, I., Glennester, R., and Quah, D. 2025. "[Development in the age of populism](https://www.worldbank.org/en/events/2025/07/22/abcde-2025)", World Bank blog (Jun)  
+
+Quah, Danny. 2025. "[Multilateralism Can Survive the Loss of Consensus](https://www.imf.org/en/Publications/fandd/issues/2025/09/point-of-view-multilateralism-can-survive-the-loss-of-consensus-danny-quah)", *IMF Finance and Development* (Sep), pp. 14-15  
+
 
 
 <!---
