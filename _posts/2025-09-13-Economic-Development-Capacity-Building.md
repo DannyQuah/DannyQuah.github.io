@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-13-Economic-Development-Capacity-Building.md
-# Last-edited: 2025.09.14.0802.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.09.14.1111.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - development
@@ -17,7 +17,7 @@ title: "Economic Development Needs To Be More Than Just Capacity Building"
 ### Economic Development Needs To Be More Than Just Capacity Building
 
 by  
-Danny Quah  
+[Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
 Sep 2025  
 
 Synopsis:  Policy discourse in economic development conventionally focuses on capacity building: improving health, raising skills and education, building infrastructure.  This strengthens the supply side.  But unless demand is elastic, capacity building doesn't create jobs; it just increases unemployment.  That opens space for populism, adding xenophobic fuel to a world increasingly protectionist and uncollaborative.  With multilateralism and globalization in retreat, the fragmented international environment and weak inelastic global demand can no longer be relied on to finish the job of development that capacity building begins.  
@@ -55,11 +55,11 @@ The rise of populism and the withdrawal of multilateralism call for small develo
 
 Will development policy and research take demand-side lessons from East Asia, and pivot to engage with these new emerging challenges?  How can small developing states help build out again an international system to restore the best of multilateralism?  
 
-The challenge is profound.  Rising populism and xenophobia and the withdrawal of multilateralism give nation-states many reasons to be narrowly self-seeking and to not collaborate with each other.  Developing economies, however, do not have that luxury.  If collaboration is difficult, development economies should look instead to inadvertently cooperate, i.e., to do the right thing even if it's for the wrong reason.  After all, as Adam Smith pointed out, "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."  
+The challenge is profound.  Rising populism and xenophobia and the withdrawal of multilateralism give advanced nation-states many reasons to be narrowly self-seeking and to not collaborate with each other.  Developing economies, however, do not have that luxury.  If collaboration is difficult, development economies should look instead to inadvertently cooperate, i.e., to do the right thing even if it's for the wrong reason.  After all, as Adam Smith pointed out, "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."  
 
-When advanced nations retreat from internationalism, developing economies should build and strengthen networks of their own, that can then emerge as coalitions of the willing.  These networks can be purpose-built for trade according to multilateral rules, or for yet other forms of rules-based cooperation, in a plurilateral way.  At the same time, these networks should remain open to bringing in yet others, provided only that those who seek entry agree to follow the rules.  Call this pathfinder multilateralism.  
+When advanced nations retreat from internationalism, developing economies should build and strengthen networks of their own.  BRICS+ can be repurposed along streamlined domains, not just as a portmanteau opposition to the advanced West.  Networks can be purpose-built for trade according to multilateral rules, or for yet other forms of rules-based cooperation, in a plurilateral way.  ASEAN and the Global South might look to one another for coalitions of the willing.  At the same time, these networks should remain open to allow in yet other nations, provided only that those seeking entry agree to follow the rules.  Call this pathfinder multilateralism.  
 
-However the developing world seeks to do this, it will need diplomats and trade officials as much as teachers and engineers; skills and mindsets for international engagement as much as sleeping sickness tablets and mosquito nets.  Development needs to have both international and domestic dimensions, especially on the demand side.  Development needs to be more than just health and education, and the capacity that policy needs to build has to encourage demand growth---both domestic and foreign---not just strengthen supply.  
+The developing world will need diplomats and trade officials as much as teachers and engineers, international engagement skills and mindsets as much as sleeping sickness tablets and mosquito nets.  Development needs to advance on both international and domestic dimensions simultaneously.  Development needs to be more than just health and education, and capacity-building has to encourage demand growth---both domestic and foreign---not just strengthen supply.  
 
 ____
 
