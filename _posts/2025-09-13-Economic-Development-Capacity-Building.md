@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-13-Economic-Development-Capacity-Building.md
-# Last-edited: 2025.09.14.1111.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.09.14.1135.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - development
@@ -20,7 +20,7 @@ by
 [Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
 Sep 2025  
 
-Synopsis:  Policy discourse in economic development conventionally focuses on capacity building: improving health, raising skills and education, building infrastructure.  This strengthens the supply side.  But unless demand is elastic, capacity building doesn't create jobs; it just increases unemployment.  That opens space for populism, adding xenophobic fuel to a world increasingly protectionist and uncollaborative.  With multilateralism and globalization in retreat, the fragmented international environment and weak inelastic global demand can no longer be relied on to finish the job of development that capacity building begins.  
+*Synopsis:  Policy discourse in economic development conventionally focuses on capacity building: improving health, raising skills and education, building infrastructure.  This strengthens the supply side.  But unless demand is elastic, capacity building doesn't create jobs; it just increases unemployment.  That opens space for populism, adding xenophobic fuel to a world increasingly protectionist and uncollaborative.  With multilateralism and globalization in retreat, the fragmented international environment and weak inelastic global demand can no longer be relied on to finish the job of development that capacity building begins.*  
 
 <figure>
 <img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.07.22.Tue-ABCDE25-Development-Populism-Main-Card1.png" alt="World Bank ABCDE 2025:  Development in the Age of Populism">
@@ -30,6 +30,7 @@ Synopsis:  Policy discourse in economic development conventionally focuses on ca
 ____
 
 In East Asia we find it dissonant how so many observers around the world equate the process of economic development with just capacity building.  Here, our experience has been different: we see capacity building as necessary but not sufficient for growth.  This distinction is brought into ever sharper relief in today's international environment of angry populism, frayed multilateralism, and recalibrated globalization.  
+
 
 
 **Development and its traditions**
@@ -51,6 +52,7 @@ Improving productive capacity helps emerging economies grow only if demand is el
 The rise of populism and the withdrawal of multilateralism call for small developing economies to do more than just stand by, simply continuing their old ways of only capacity-building.  But even if they might counter their domestic populism, how can small poor nation states exercise agency in an international system when the major powers are turning their backs on internationalism and multilateralism?
 
 
+
 **Development needs to step up on its international responsibility**
 
 Will development policy and research take demand-side lessons from East Asia, and pivot to engage with these new emerging challenges?  How can small developing states help build out again an international system to restore the best of multilateralism?  
@@ -60,6 +62,7 @@ The challenge is profound.  Rising populism and xenophobia and the withdrawal of
 When advanced nations retreat from internationalism, developing economies should build and strengthen networks of their own.  BRICS+ can be repurposed along streamlined domains, not just as a portmanteau opposition to the advanced West.  Networks can be purpose-built for trade according to multilateral rules, or for yet other forms of rules-based cooperation, in a plurilateral way.  ASEAN and the Global South might look to one another for coalitions of the willing.  At the same time, these networks should remain open to allow in yet other nations, provided only that those seeking entry agree to follow the rules.  Call this pathfinder multilateralism.  
 
 The developing world will need diplomats and trade officials as much as teachers and engineers, international engagement skills and mindsets as much as sleeping sickness tablets and mosquito nets.  Development needs to advance on both international and domestic dimensions simultaneously.  Development needs to be more than just health and education, and capacity-building has to encourage demand growth---both domestic and foreign---not just strengthen supply.  
+
 
 ____
 
