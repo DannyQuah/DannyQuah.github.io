@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-13-Economic-Development-Capacity-Building.md
-# Last-edited: 2025.09.14.0755.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.09.14.0802.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - development
@@ -34,9 +34,9 @@ In East Asia we find it dissonant how so many observers around the world equate 
 
 **Development and its traditions**
 
-Scholarship and policymaking have helped build out the human capital of hundreds of millions in emerging economies.  Their focus has been on improving health, raising skills and education, building infrastructure, shifting the workforce from low-productivity activities to high-productivity industry.  To that end, schools have been built, textbooks provided, teachers rewarded, basic medications trialled.  In village after village, township after township, improvements in individual circumstances in health, basic education, and personal finance have successfully moved billions of people from a state of making poor choices to where they better control their own destiny.  No emerging economy that has succeeded has done so without improving the health, skills, and education of its people.  
+Conventional scholarship and policymaking have concentrated on improving the human capital of people in the emerging economies.  The focus has been on improving health, raising skills and education, building infrastructure, shifting the workforce from low-productivity activities to high-productivity industry.  To that end, schools have been built, textbooks provided, teachers rewarded, basic medications trialled.  In village after village, township after township, improvements in individual circumstances in health, basic education, and personal finance have successfully moved billions of people from circumstances where they made poor choices to where they better control their own destiny.  No emerging economy that has succeeded has done so without improving the health, skills, and education of its people.  
 
-This kind of capacity building points to all the right things to do.  These improvements obviously necessary for growth in any developing economy.  But the question is, are they sufficient?  
+This kind of capacity building puts in place improvements that are obviously necessary for growth in any developing economy.  The question is, are they sufficient?  
 
 
 
