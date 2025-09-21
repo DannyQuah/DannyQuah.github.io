@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-17-Rethinking-Multilateralism-Incentive-not-Size-Power.md
-# Last-edited: 2025.09.21.2146.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+# Last-edited: 2025.09.21.2158.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -12,9 +12,9 @@ Tags:
 documentclass: extarticle
 fontsize: 14pt
 output: pdf_document
-title: "IMF got me Rethinking Multilateralism: How nations need to worry about aligning incentives, not about size or power"
+title: "IMF got me rethinking multilateralism: How nations need to worry about aligning incentives, not about size or power"
 ---
-### "IMF got me Rethinking Multilateralism: How nations need to worry about aligning incentives, not about size or power"  
+### IMF got me rethinking multilateralism: How nations need to worry about aligning incentives, not about size or power  
 
 by  
 [Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
@@ -22,10 +22,10 @@ Sep 2025
 
 *Synopsis:  Multilateralism benefits everyone but its costs are asymmetrically distributed.  This didn't use to bother the US.  America did not have a zero-sum view of the international system.  Now it does.  But the outcome isn't just America wins, we lose.  It's everybody loses.  What will successfully restore the best features of multilateralism is incentive alignment, not size or power; inadvertent cooperation, not contractual consensus.*
 
-[<figure>
-<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.09.17.Wed-Danny.Quah-Rethinking-Multilateralism-podcast-card.0-cover.png" alt="Quah 2025 - Rethinking Multilateralism, IMF podcast">
+<figure>
+[<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.09.17.Wed-Danny.Quah-Rethinking-Multilateralism-podcast-card.0-cover.png" alt="Quah 2025 - Rethinking Multilateralism, IMF podcast">](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism)
 <figcaption>Danny Quah. 2025, "Rethinking Multilateralism", IMF podcast (Sep)</figcaption>
-</figure>](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism)
+</figure>
 
 ____
 
@@ -45,14 +45,13 @@ What will successfully restore the best features of multilateralism is incentive
 
 ___
 
-Podcast: "Rethinking Multilateralism", IMF podcast (Sep 2025)  https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism  
+Podcast: "[Rethinking Multilateralism](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism)", IMF podcast (Sep 2025)  
 
-Article:  "Multilateralism Can Survive the Loss of Consensus", *IMF Finance and Development* (Sep), pp. 14-15
-https://www.imf.org/en/Publications/fandd/issues/2025/09/point-of-view-multilateralism-can-survive-the-loss-of-consensus-danny-quah  
+Article:  "[Multilateralism Can Survive the Loss of Consensus](https://www.imf.org/en/Publications/fandd/issues/2025/09/point-of-view-multilateralism-can-survive-the-loss-of-consensus-danny-quah)", *IMF Finance and Development* (Sep), pp. 14-15
 
-Chapter (Economics and geopolitics alignment):  "Correlated Trade and Geopolitics Driving a Fractured World Order", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  
-https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah  (Open Access from July 2025)  
-https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003571384/new-global-economic-order-lili-yan-ing-dani-rodrik  
+Chapter (Economics and geopolitics alignment):  "[Correlated Trade and Geopolitics Driving a Fractured World Order](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah)", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) [*The New Global Economic Order*](https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003571384/new-global-economic-order-lili-yan-ing-dani-rodrik), New York: Routledge.  (Open Access from July 2025)  
+
+
 
 <!---
    Invisible section // 2025-09-17-Rethinking-Multilateralism-Incentive-not-Size-Power.md
