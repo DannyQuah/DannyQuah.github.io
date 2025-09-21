@@ -1,11 +1,14 @@
 ---
 fileName: 2025-09-13-Economic-Development-Capacity-Building.md
-# Last-edited: 2025.09.14.1135.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.09.14.1353.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - development
   - multilateralism
   - capacityBuilding
+  - ASEAN
+  - GlobalSouth
+  - BRICS
 # Created: 2025.09.13.1724.Sat -- Danny Quah ( me @ DannyQuah.com )
 
 documentclass: extarticle
