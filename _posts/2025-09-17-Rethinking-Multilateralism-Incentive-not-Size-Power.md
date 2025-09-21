@@ -1,6 +1,6 @@
 ---
 fileName: 2025-09-17-Rethinking-Multilateralism-Incentive-not-Size-Power.md
-# Last-edited: 2025.09.21.2206.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+# Last-edited: 2025.09.21.2215.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -22,10 +22,14 @@ Sep 2025
 
 *Synopsis:  Multilateralism benefits everyone but its costs are asymmetrically distributed.  This didn't use to bother the US.  America did not have a zero-sum view of the international system.  Now it does.  But the outcome isn't just America wins, we lose.  It's everybody loses.  What will successfully restore the best features of multilateralism is incentive alignment, not size or power; inadvertent cooperation, not contractual consensus.*
 
-<figure>
 [![Rethinking Multilateralism](https://DannyQuah.github.io/Storage/2025.09.17.Wed-Danny.Quah-Rethinking-Multilateralism-podcast-card.0-cover.png)](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism)
+
+
+
+[<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.09.17.Wed-Danny.Quah-Rethinking-Multilateralism-podcast-card.0-cover.png" alt="Quah 2025, IMF podcast (Sep)">](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism)
+
 <figcaption>Danny Quah. 2025, "Rethinking Multilateralism", IMF podcast (Sep)</figcaption>
-</figure>
+
 
 ____
 
