@@ -1,10 +1,11 @@
 ---
 fileName: 2025-09-17-Rethinking-Multilateralism-Incentive-not-Size-Power.md
-# Last-edited: 2025.09.21.2218.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+# Last-edited: 2025.09.22.0647.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - geopolitics
   - multilateralism
+  - middlePowers
   - US
   - substack
 # Created: 2025.09.21.2127.Sun -- Danny Quah (me @ DannyQuah.com)
@@ -28,7 +29,7 @@ Sep 2025
 
 ____
 
-Multilateralism is not a topic that appears in any PhD macroeconomics or microeconomics core course.  When I was an Economics grad student, where I might have learnt about multilateralism was in Economic History. But I paid little attention there, and thought of it as just a distribution requirement to fill.  I even deliberately skipped that part of International Economics that might have connected with multilateralism:  Too wordy, and lacking the elegance and power of a Krugman, Helpman, Melitz model.  
+Multilateralism is not a topic that appears in any PhD macroeconomics or microeconomics core course.  When I was an Economics grad student, where I might have learnt about multilateralism was in Economic History. But I paid little attention there, and thought of it as just a distribution requirement to fulfill.  I even deliberately skipped that part of International Economics that might have connected with multilateralism:  Too wordy, and lacking the elegance and power of a Helpman, Krugman, Melitz model.  
 
 But now I research and write multilateralism because, for me, it is the best tool we have to understand what is happening to the international economic system.  
 
@@ -36,7 +37,7 @@ Multilateralism is like all of us operating our own boats in a very large swimmi
 
 Previously, when the US worked to fill the pool, it attracted respect and admiration from all the rest of the world, not least because the other big boat, the Soviets---America's ideological rivals---were thereby revealed to be less capable.  Everyone saw and admired the value of America's approach to open markets and free trade. Asymmetric costs did not use to bother the US.  We benefited; America benefited.  America did not have a zero-sum view of the world.  But now it does.  
 
-Small nations not on the frontline initially thought we would never be able to compete economically with Great Powers like the US or Western Europe.  But we worked hard to overcome these challenges, confident that hard work gave us a chance because we saw multilateralism extend a level playing field.  Now, however, that that we have gotten to where we can compete, we find out that richer nations, America in particular, have decided multilaterism's rules are no longer how they want to play.
+Small nations not on the frontline initially thought we would never be able to compete economically with Great Powers like the US or Western Europe.  But we worked hard to overcome these challenges, confident that hard work gave us a chance because we saw multilateralism extend a level playing field.  Now, however, that that we have gotten to where we can compete, we find out that richer nations, America in particular, have decided multilateralism's rules are no longer how they want to play.
 
 Middle-power states might have capacity to step in but my own prediction is, this is just a phase. Their incentives to support multilateralism will soon line up the same way as America's.  
 
