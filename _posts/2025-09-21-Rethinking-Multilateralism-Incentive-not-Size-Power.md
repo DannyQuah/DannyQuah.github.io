@@ -1,6 +1,6 @@
 ---
-fileName: 2025-09-17-Rethinking-Multilateralism-Incentive-not-Size-Power.md
-# Last-edited: 2025.09.22.0647.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
+fileName: 2025-09-21-Rethinking-Multilateralism-Incentive-not-Size-Power.md
+# Last-edited: 2025.09.22.0659.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - geopolitics
@@ -21,7 +21,7 @@ by
 [Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
 Sep 2025  
 
-*Synopsis:  Multilateralism benefits everyone but its costs are asymmetrically distributed.  This didn't use to bother the US.  It did not have a zero-sum view of the international system.  Now it does.  But the outcome isn't just America wins, we lose.  It's everybody loses.  What will successfully restore the best features of multilateralism is incentive alignment, not size or power; inadvertent cooperation, not contractual consensus.*
+*Synopsis:  Multilateralism benefits everyone but its costs are asymmetrically distributed.  This didn't use to bother the US.  It did not have a zero-sum view of the international system.  Now it does.  But the outcome isn't just "America wins, we lose".  It's everybody loses.  What will successfully restore the best features of multilateralism is incentive alignment, not size or power; inadvertent cooperation, not contractual consensus.*
 
 [<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2025.09.17.Wed-Danny.Quah-Rethinking-Multilateralism-podcast-card.0-cover.png" alt="Quah 2025, IMF podcast (Sep)">](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/09/17/danny-quah-on-multilateralism)  
 <figcaption>Danny Quah. 2025, "Rethinking Multilateralism", IMF podcast (Sep)</figcaption>
@@ -29,7 +29,7 @@ Sep 2025
 
 ____
 
-Multilateralism is not a topic that appears in any PhD macroeconomics or microeconomics core course.  When I was an Economics grad student, where I might have learnt about multilateralism was in Economic History. But I paid little attention there, and thought of it as just a distribution requirement to fulfill.  I even deliberately skipped that part of International Economics that might have connected with multilateralism:  Too wordy, and lacking the elegance and power of a Helpman, Krugman, Melitz model.  
+Multilateralism is not a topic that appears in any PhD macroeconomics or microeconomics core course.  When I was an Economics grad student, where I might have learnt about multilateralism was in Economic History. But I paid little attention there, and thought of it as just a distribution requirement to fulfil.  I even deliberately skipped that part of International Economics that might have connected with multilateralism:  Too wordy, and lacking the elegance and power of a Helpman, Krugman, Melitz model.  
 
 But now I research and write multilateralism because, for me, it is the best tool we have to understand what is happening to the international economic system.  
 
@@ -54,5 +54,5 @@ Chapter (Economics and geopolitics alignment):  "[Correlated Trade and Geopoliti
 
 
 <!---
-   Invisible section // 2025-09-17-Rethinking-Multilateralism-Incentive-not-Size-Power.md
+   Invisible section // 2025-09-21-Rethinking-Multilateralism-Incentive-not-Size-Power.md
 -->
