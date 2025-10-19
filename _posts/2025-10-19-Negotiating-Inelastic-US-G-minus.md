@@ -1,6 +1,6 @@
 ---
 fileName: 2025-10-19-Negotiating-Inelastic-US-G-minus.md
-Last-edited: 2025.10.19.1727.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+Last-edited: 2025.10.19.1752.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -19,7 +19,7 @@ by
 [Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
 Oct 2025  
 
-*Synopsis: If the US only ever responds inelastically, its growing international irrelevance is the expected Realist outcome.  If US trade policy continues to make it costlier for countries to export to it, then those countries will eventually stop trying to do so.  This is the natural progression from G7 to G2 to G-zero ... to G-minus.*
+*Synopsis: If the US only ever responds inelastically, its diminishing international relevance is the expected Realist outcome.  If US trade policy continues to make it costlier for countries to export to it, then those countries will eventually stop exporting to it.  This is the natural progression from G7 to G2 to G-zero ... to G-minus.*
 
 
 <figure>
