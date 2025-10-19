@@ -1,6 +1,6 @@
 ---
 fileName: 2025-10-19-Negotiating-Inelastic-US-G-minus.md
-Last-edited: 2025.10.19.1755.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+Last-edited: 2025.10.19.1825.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -19,7 +19,7 @@ by
 [Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
 Oct 2025  
 
-*Synopsis: If the US only ever responds inelastically, its diminishing international relevance is the expected Realist outcome.  If US trade policy continues to make it costlier for countries to export to the US, then those countries will eventually stop exporting to the US.  This is the natural progression from G7 to G2 to G-zero ... to G-minus.*
+*Synopsis: If the US only ever responds inelastically, its diminished international relevance is the expected Realist outcome.  If US trade policy continues to make it costlier for countries to export to the US, then those countries will eventually stop exporting to the US.  This is the natural progression from G7 to G2 to G-zero ... to G-minus.*
 
 
 <figure>
@@ -33,7 +33,7 @@ However it was that nations chose to respond to Trump's Liberation Day tariffs (
 
 Economists describe this as elasticity, and the concept can be expressed numerically.  
 
-We have learn in the last several months that America's elasticity is either zero or negative.  Nations that have worked hard have not only gotten nothing in return; in several high-profile cases, their circumstances have instead worsened.  
+We have learnt in the last several months that America's elasticity is either zero or negative.  Nations that have worked hard have not only gotten nothing in return; in several high-profile cases, their circumstances have instead worsened.  
 
 Vietnam was first to negotiate with the Trump administration.  Faced with a LDT rate of 46%, Vietnam managed to negotiate rates down to 10-15%, only to have Trump unexpectedly announce a rate of 20% in general and of 40% on those goods the US identifies as trans-shipments. In addition, Vietnam appears to have ignored its own domestic laws in fast-tracking a USD1.5bn Trump family golf complex.  
 
