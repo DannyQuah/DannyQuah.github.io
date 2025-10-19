@@ -1,6 +1,6 @@
 ---
 fileName: 2025-10-19-Negotiating-Inelastic-US-G-minus.md
-Last-edited: 2025.10.19.1722.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+Last-edited: 2025.10.19.1727.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -29,7 +29,7 @@ Oct 2025
 
 ____
 
-However it was that nations chose to respond to Trump's Liberation Day tariffs (LDT), in the process there must have been expectation that those nations' sacrifices would achieve some return.  The Great Power, in this prediction, ought to be flexible: Greater effort in acquiesence and alignment should draw correspondingly greater reciprocal action.  
+However it was that nations chose to respond to Trump's Liberation Day tariffs (LDT), in the process there must have been expectation that those nations' sacrifices would achieve some return.  The Great Power, in this prediction, ought to be flexible: Greater effort in acquiescence and alignment should draw correspondingly greater reciprocal action.  
 
 Economists describe this as elasticity, and the concept can be expressed numerically.  
 
@@ -39,7 +39,7 @@ Vietnam was first to negotiate with the Trump administration.  Faced with a LDT 
 
 Indonesia began with an LDT of 32% that got lowered to 19% in mid-July. In return, however, Indonesia has committed to USD34bn purchases of US energy, US agricultural products, and US aircraft, and to invest in Louisiana blue ammonia industry.  India's LDT started at 26%, was lowered to 25% in mid-August, but then doubled to 50%, with its jewelry, gems, and textiles industries at extreme risk.  South Korea's LDT of 25% was negotiated down to 15% by early August but then had to commit to invest USD350bn in US "strategic projects" and USD100bn in US energy products.  (We can also note in passing that South Korea had a Free Trade Agreement with the US.)  Similarly, Japan's LDT of 24% came down, with negotiations, to 15%, but Japan had to commit to invest USD550bn in US projects in EV supply chains, shipbuilding, and semiconductors.  Malaysia obtained an early-August tariff rate of 19%, down from LDT 24%, but then had to commit to a USD240bn package of spending and investment on US energy, aircraft, and semiconductor and data equipment.  
 
-To get a sense of proportion, Japan's annual GDP is USD4.03tn, so its investment committment in this agreement is 14 percent.  For South Korea, it is 20 percent; for Malaysia, 57 percent!  
+To get a sense of proportion, Japan's annual GDP is USD4.03tn, so its investment commitment in this agreement is 14 percent.  For South Korea, it is 20 percent; for Malaysia, 57 percent!  
 
 In economic terms, US elasticity is either zero or negative in response to concessions (and acquiescence and alignment).  The right response is to stop making concessions and to stop acquiescing and aligning with the US.  Some observers might say, yes, but even if acquiescence and alignment get us little in trade terms, it gets us political and security benefits from the US.  The question then is, if the elasticity between trade terms and acquiescence is so unfavorable, why does anyone think the cross elasticities will be any better?  Put another way, if you can't trust the US to respond positively to your ventures on trade, why do you think it would do so in a situation of national security?  
 
