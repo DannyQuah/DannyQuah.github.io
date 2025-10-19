@@ -1,6 +1,6 @@
 ---
 fileName: 2025-10-19-Negotiating-Inelastic-US-G-minus.md
-Last-edited: 2025.10.19.1647.Sun -- Danny Quah ( dq @ hpt-2023-07 )
+Last-edited: 2025.10.19.1707.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -19,7 +19,7 @@ by
 [Danny Quah](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
 Oct 2025  
 
-*Synopsis: If the US only ever responds inelastically, its growing international irrelevance is the expected Realist outcome.  If US trade policy continues to make it progressively costlier for countries to export to it, that those countries eventually stop doing so is exactly the right response.*
+*Synopsis: If the US only ever responds inelastically, its growing international irrelevance is the expected Realist outcome.  If US trade policy continues to make it costlier for countries to export to it, then those countries will eventually stop trying to do so.*
 
 
 <figure>
@@ -45,11 +45,11 @@ In economic terms, US elasticity is either zero or negative in response to conce
 
 Regardless of one's views on this, however, the elasticity of other nations' is likely more reasonable.  As long as those elasticities are the right sign, then the more expensive it becomes to engage with the US, the less engagement there will be.  In economics, this is called a downward-sloping demand curve.  Extrapolating a trend from G20 to G7 to G2 to G-zero, we might therefore need to prepare for a G-minus world, where global engagement will no longer have the US in it.  No hard feelings, this is just Realism and economics.  Obviously, the world is better with America in it than not, but none of the rest of us can make that happen simply by wishing it.
 
-In the limit, the world will have zero interaction with the US, which will then in turn be surrounded only by fish, to its East and West, and friends (to the North and South, or what it can find of them).
+In the limit, the world will have zero interaction with the US, which will then in turn be surrounded only by fish, to its East and West, and friends (to the North and South, or what it can find of them). <img align=right width="45%" src="https://DannyQuah.github.io/Storage/2025.06.19.1345.Thu-Melisa.Idris-Elina.Noor-DQ-Astro-Awani-collage.jpg" alt="The US, China, and a Changing Asia, Astro Awani">  
 
-My panel discussion with Melisa Idris and Elina Noor took place in June, two months after Liberation Day, and two months before the resolution I describe.  Obviously, we couldn't have known about any of these details, but the trend to G-minus was apparent in what we did say.  <img align=right width="45%" src="https://DannyQuah.github.io/Storage/2025.06.19.1345.Thu-Melisa.Idris-Elina.Noor-DQ-Astro-Awani-collage.jpg" alt="The US, China, and a Changing Asia, Astro Awani">  
+My panel discussion with Melisa Idris and Elina Noor took place in June, two months after Liberation Day, and two months before the resolution I describe.  Obviously, we couldn't have known about any of these details, but the trend to G-minus was apparent in what we did say.  
 
-Panel (with Melisa Idris moderator and Elina Noor). 2025. "Consider This:  The US, China, and a Changing Asia", Astro Awani (19 Jun).  https://www.youtube.com/watch?v=Z2Ydhr-pX8w  
+Panel (with Melisa Idris moderator and Elina Noor). 2025. "Consider This:  The US, China, and a Changing Asia", Astro Awani [video](https://www.youtube.com/watch?v=Z2Ydhr-pX8w) (19 Jun).    
 
 Quah, Danny. 2025. "[Concede or Resist](https://www.straitstimes.com/opinion/concede-or-resist-neither-as-the-world-moves-on-from-trumps-tariff-tantrum?gift=08b97f8f-e385-4d83-ba45-9a2fc75eb1cb)", *Straits Times* (02 Sep), pp. 22-23  
 
