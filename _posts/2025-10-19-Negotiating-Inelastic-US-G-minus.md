@@ -1,6 +1,6 @@
 ---
 fileName: 2025-10-19-Negotiating-Inelastic-US-G-minus.md
-Last-edited: 2025.10.20.2248.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2025.10.21.0659.Tue -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Publication
 Tags:
   - geopolitics
@@ -29,9 +29,9 @@ Oct 2025
 
 ____
 
-Whatever concessions different nations offered in response to Trump's Liberation Day Tariffs (LDT), they must have expected sacrifice would earn returns.  In geoeconomics and international politics, making concessions, acquiescing, and aligning ought to attract special dispensation.
+Whatever concessions different nations offered in response to Trump's Liberation Day Tariffs (LDT), they must have expected sacrifice would earn returns.  In geoeconomics and international politics, making concessions, acquiescing, and aligning attract reward.
 
-The assumption is that when you give up something so that others gain, in exchange they will offer you something valuable in return.  In labour market economics, if you employ workers and you offer higher wages, you expect a higher labour supply.  When you are buying a car and are willing to pay a higher price, you expect the car dealer to provide you a more valuable vehicle.  So, too in Great Power geopolitics: if you make concessions, are acquiescent, and align with a Great Power, you ought to receive more of whatever you find valuable in what that Great Power provides.  
+The assumption is that when you give up something so that others gain, in exchange they offer you something valuable in return.  In labour market economics, if you employ workers and you offer higher wages, you expect a higher labour supply.  When you are buying a car and are willing to pay a higher price, you expect the car dealer to provide you a more valuable vehicle.  So, too in Great Power geopolitics: if you make concessions, are acquiescent, and align with a Great Power, you ought to receive more of whatever you find valuable in what that Great Power provides.  
 
 Economists describe this as elasticity, and the concept can be expressed numerically: for instance, labour supply elasticity is the ratio of the percentage increase in labour supply to the percentage increase in wage offer.  
 
