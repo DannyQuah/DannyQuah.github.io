@@ -1,6 +1,6 @@
 ---
 fileName: 2025-10-19-Negotiating-Inelastic-US-G-minus.md
-Last-edited: 2025.10.20.1731.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2025.10.20.1744.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - geopolitics
@@ -50,6 +50,7 @@ Indonesia began with an LDT of 32% that got lowered to 19% in mid-July. In retur
 | KR | 25 | DC negotiations, said to be grueling, from broad frameworks to technical discussions. No additional testing in Japan of US-made cars. | 15 | KR already had a Free Trade Agreement with the US, that these arrangements now abrogate.  KR commitment of USD350bn to US "strategic projects" investment, plus USD100bn spending on US energy over the next 4 years. Committed to hike defense spending to over 8% GDP, with concerns the US might make further security demands. |
 | JP | 24 | Eight rounds of negotiations in DC, with breakthrough after meeting between Treasure Secretary Bessent and Prime Minister Ishiba | 15 | JP commitment of USD550bn to sectors to be directed by the US government, including critical minerals, shipbuilding, and semiconductors. Moreover, the US administration will retain 90% of the profits from these investments.|
 | MY | 24 | DC negotiations, through early Aug | 19 | USD240bn to US energy, aircraft, and semiconductor and data equipment |
+
 To get a sense of proportion, Japan's annual GDP is USD4.03tn, so its investment and spending commitment to the US is 14 percent.  For South Korea, it is 26 percent; for Malaysia, 57 percent!  These investment and spending packages are so significant that South Korea has requested currency swap lines to help manage the foreign exchange impact.  Japan is expected to draw on an existing one already in place with the US since 2013.  (Malaysia has not yet requested a currency swap line.)  
 
 In economic terms, US elasticity is either zero or negative in response to concessions (and acquiescence and alignment).  The right response is to stop making concessions and to stop acquiescing and aligning with the US.  Some observers might say, yes, but even if acquiescence and alignment get us little in trade terms, it gets us political and security benefits from the US.  The question then is, if the elasticity between trade terms and acquiescence is so unfavorable, why does anyone think the cross elasticities will be any better?  Put another way, if you can't trust the US to respond positively to your ventures on trade, why do you think it would do so in a situation of national security?  
