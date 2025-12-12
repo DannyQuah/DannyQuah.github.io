@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah work bio"
-# Last-edited: 2025.12.12.2021.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.12.12.2023.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 permalink: /bio-work/
 # Created: 2025.12.12.1944.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 ---
@@ -12,6 +12,7 @@ Quah was previously Assistant Professor of Economics at MIT, and then at LSE Pro
 
 Quah studied at Princeton, Minnesota, and Harvard.
 
+(160 words)  
 ____
 Output records at [Google Scholar](https://scholar.google.com.sg/citations?user=qS-fnM8AAAAJ) // [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603779078) // [Substack](https://DannyQuah.substack.com) // [Blog](https://DannyQuah.github.io/year-archive/)  // [Github](https://github.com/DannyQuah) // [github.io](https://DannyQuah.github.io/) // [Lectures and Talks on YouTube](https://www.youtube.com/playlist?list=PL50A13DC96724F7E9)// [Facebook](https://www.facebook.com/DannyQuah) // [Instagram](https://www.instagram.com/DannyQuah) // [X](https://www.x.com/DannyQuah/) // [LinkedIn](https://www.linkedin.com/in/DannyQuah) //
 
