@@ -1,6 +1,6 @@
 ---
-title: "Export-Led Growth: The Trade-Technology Relation in Small and Poor Economies"
-# Last-edited: 2025.08.09.1125.Sat -- Danny Quah ( dq @ hpt-2023-07 )
+title: "The Trade-Technology Relation in Small and Poor Economies"
+# Last-edited: 2025.12.23.1527.Tue -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapters
 # Created: 2025.08.08.1701.Fri -- Danny Quah ( me @ DannyQuah.com )
