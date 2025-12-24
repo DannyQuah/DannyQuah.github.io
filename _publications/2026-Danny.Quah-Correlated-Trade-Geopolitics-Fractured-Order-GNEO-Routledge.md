@@ -1,6 +1,6 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.12.24.1326.Wed -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.12.24.1711.Wed -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapters
 # category: articles
@@ -8,6 +8,7 @@ category: bookChapters
 # Created: 2025.08.08.1701.Fri -- Danny Quah ( me @ DannyQuah.com )
 permalink: /publications/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge/
 excerpt: 'This paper argues that in a fracturing world order, paradoxically, geopolitics and trade align.  It is, thus, a fallacy that geopolitics and economics provide a balance through working in opposition in a fragmenting global economy.'
+abstract: "This paper evaluates the hypothesis that trade interconnectedness holds together the world economy even as geopolitical rivalry drives global fragmentation. The paper finds that, depending on circumstances, trade can contribute either centripetal or centrifugal force: Thus, economic interconnectedness cannot be relied upon to provide automatic glue for the global economy.  The paper shows that over the last fifty years, trade, or economic forces more generally, initially worked together with geopolitics to help align the interests of both advanced and developing nations, and thus coalesce world order. However, from the first decade of the new millennium, three distinct factors---the ``China Shock'', multipolarity, and multilateralism---have altered those dynamics. Economic and geopolitical forces still work together but they now exacerbate global fragmentation.  The paper advances three proposals to help repair global fracture:  (a)~seek inadvertent cooperation; (b)~nudge Great Powers away from gridlock; and (c)~build systems around plurilateralism or pathfinder multilateralism."
 date: 2025-07-24
 venue: 'Ing, Lili Yan and Rodrik, Dani (eds) <i>The New Global Economic Order</i>, Routledge'
 paperurl: 'https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah'
