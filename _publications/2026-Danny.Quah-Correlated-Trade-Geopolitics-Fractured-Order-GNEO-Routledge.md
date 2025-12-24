@@ -1,6 +1,6 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.08.09.1126.Sat -- Danny Quah ( dq @ hpt-2023-07 )
+# Last-edited: 2025.12.24.1326.Wed -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapters
 # category: articles
@@ -11,7 +11,7 @@ excerpt: 'This paper argues that in a fracturing world order, paradoxically, geo
 date: 2025-07-24
 venue: 'Ing, Lili Yan and Rodrik, Dani (eds) <i>The New Global Economic Order</i>, Routledge'
 paperurl: 'https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah'
-citation: 'Quah, Danny. 2026. &quot;Correlated Trade and Geopolitics Driving a Fractured World Order.&quot; Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) <i>The New Global Economic Order</i>, Routledge.'
+citation: 'Quah, Danny. 2026. &quot;Correlated Trade and Geopolitics Driving a Fractured World Order&quot; Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) <i>The New Global Economic Order</i>, Routledge.'
 ---
 [<img src="https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge-titlepage.png" alt = "Correlated Trade Geopolitics Driving a Fractured World Order - titlepage"/>](https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge.pdf)
 [Published](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003571384-5/correlated-trade-geopolitics-driving-fractured-world-order-danny-quah) (Open Access from July 2025)  //  [Local PDF](https://DannyQuah.github.io/Storage/2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge.pdf)
