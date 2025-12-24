@@ -1,6 +1,6 @@
 ---
 title: "Correlated Trade and Geopolitics Driving a Fractured World Order"
-# Last-edited: 2025.12.24.1711.Wed -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2025.12.24.1714.Wed -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapters
 # category: articles
@@ -32,6 +32,11 @@ A vital resource for economists, policymakers, and researchers, this book provid
 
 Chapter 5 by Danny Quah explores how the relationship between trade interconnectedness and geopolitical tensions influences the current global order. During the so-called centripetal era (1980–2010), economic integration and geopolitical alignment played a crucial role in bridging the interests of developed and developing nations, contributing to a relatively stable world economy. However, the author notes a significant shift that began in the early 2000s, primarily driven by factors such as China’s economic rise (i.e., ‘China shock’), the emergence of a multipolar world, and evolving practices in multilateral cooperation. These changes have disrupted the previous alignment of interests and played an instrumental part in ushering in the so-called centrifugal era of world economy, where economic and geopolitical forces work in ways that exacerbate global fragmentation. To mitigate the growing fragmentation, the author offers three key proposals. First, he suggests fostering inadvertent cooperation, whereby mutual benefits emerge even without deliberate collaboration. Second, he advocates for breaking political gridlocks among the Great Powers to mitigate tensions. Finally, the chapter emphasises the potential of plurilateralism and innovative multilateral frameworks to restore global unity in a fractured world. By implementing these strategies, the author argues, the international community can begin to counteract the divisive impacts of current economic and geopolitical dynamics.
 
+
+
+<!---
+   Invisible section // 2026-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-GNEO-Routledge.md
+-->
 
 
 
