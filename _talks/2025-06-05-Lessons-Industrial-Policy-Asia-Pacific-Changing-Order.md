@@ -1,6 +1,6 @@
 ---
 title: "Good and Bad Industrial Policy Lessons for the Asia-Pacific in a Changing Global Order"
-# Last-edited: 2025.06.22.1912.Sun -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2026.01.01.2150.Thu -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: talks
 type: "Talk"
 # Created: 2025.06.19.1946.Thu -- Danny Quah (me@DannyQuah.com)
@@ -8,7 +8,7 @@ date: 2025-06-05
 # permalink: /talks/
 venue: "C. Fred Bergsten Conference Center"
 location: "Peterson Institute for International Economics, Washington DC"
-fileName: 2026-06-05-PAFTAD-Lessons-Industrial-Policy-Asia-Pacific-PIIE.md
+fileName: 2025-06-05-PAFTAD-Lessons-Industrial-Policy-Asia-Pacific-PIIE.md
 ---
 Thu 05 Jun 2025 1730h  
 Revisiting Industrial Policy in a Changing Global Order:  PAFTAD 42  
@@ -18,7 +18,7 @@ Moderator --- Chad Bown
 Venue --- C. Fred Bergsten Conference Center  
 Location --- Peterson Institute for International Economics, Washington DC  
 
-<img src="https://DannyQuah.github.io/Storage/2025.06.05.1700.Thu-PAFTAD-Lessons-Policy-Asia-Pacific-panel-poster.jpg" width="50%" alt="Industrial Policy for Asia and the Pacific">
+<img src="https://www.DannyQuah.com/Storage/2025.06.05.1700.Thu-PAFTAD-Lessons-Policy-Asia-Pacific-panel-poster.jpg" width="50%" alt="Industrial Policy for Asia and the Pacific">
 
 ###  Good and Bad Industrial Policy Lessons for the Asia-Pacific in a Changing Global Order  
 
