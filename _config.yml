@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# Last-edited: 2026.01.03.0859.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2026.01.03.1220.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -94,6 +94,8 @@ publication_category:
     title: 'Book Chapters'
   commentaries:
     title: 'Commentaries'
+  richMedia:
+    title: 'Rich Media'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
