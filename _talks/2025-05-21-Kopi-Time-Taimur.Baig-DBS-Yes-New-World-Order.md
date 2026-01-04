@@ -1,6 +1,6 @@
 ---
 title: "Kopi Time with Taimur Baig -- Episode 153"
-# Last-edited: 2025.05.22.0746.Thu -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2026.01.04.1059.Sun -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: talks
 type: "Talk"
 # Created: 2025.05.21.1608.Wed -- Danny Quah (me@DannyQuah.com)
@@ -41,7 +41,7 @@ My Foreign Policy open letter to the then-incoming US President argued that Amer
 
 My forthcoming Correlated Economics and Geopolitics article, forthcoming in the *The New Global Economic Order* (Ing and Rodrik, editors) says that we shouldn't be overly surprised at how world order has gone over the last eighty years.  That the international system has fractured as much as it has is shocking to those who think that no matter how bad geopolitics gets, economics (comparative advantage, win-win outcomes from trade) will hold things together.  But the fact is, international economics is not experienced by politically pivotal agents in terms of comparative advantage.  Instead, for those agents, the lived experience is the China Shock: the tsunami wave of imports stealing jobs, dismantling industry, turning into ghost towns what were once thriving middle-class communities.  This is how Americans now think about trade, so of course economics has grown collinear with geostrategic rivalry.  China is an enemy both on geopolitical and economic grounds.  And, surprise, the China Shock language has now crept into the political conversations in other nations too.  The fault lies not in economics (which still produces aggregate win-win outcomes from trade); the fault lies in policymakers that don't translate aggregate win-win outcomes into inclusive growth for their populations.  
 
-<img src="https://DannyQuah.github.io/Storage/2025.05.21.Wed-Taimur.Baig-LinkedIn-Kopi-Time-153-DQ.png" width="50%" alt="Kopi Time with Taimur Baig no. 153">
+<img src="https://www.DannyQuah.com/Storage/2025.05.21.Wed-Taimur.Baig-LinkedIn-Kopi-Time-153-DQ.png" width="50%" alt="Kopi Time with Taimur Baig no. 153">
 
 
 **References**  
@@ -50,7 +50,7 @@ Kopi Time with Taimur Baig no. 153 [youtube](https://www.youtube.com/watch?v=n_i
 
 Quah, Danny. 2024.  "[Why America Should Drop Its Obsession With Being No. 1](https://foreignpolicy.com/2024/09/04/danny-quah-singapore-letter-us-president/?utm_content=gifting&tpcc=gifting_article&gifting_article=ZGFubnktcXVhaC1zaW5nYXBvcmUtbGV0dGVyLXVzLXByZXNpZGVudA==&pid=PNILoiIJgqmxsxl)", *Foreign Policy* (Fall) pp. 41-43  
 
-Quah, Danny. 2025. "[Correlated Trade and Geopolitics Driving a Fractured World Order](https://DannyQuah.github.io/Storage/2025-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO.pdf)", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  
+Quah, Danny. 2025. "[Correlated Trade and Geopolitics Driving a Fractured World Order](https://www.DannyQuah.com/Storage/2025-Danny.Quah-Correlated-Trade-Geopolitics-Fractured-Order-NEO.pdf)", Ch. 5, pp. 54-66, in Ing, Lili Yan and Rodrik, Dani (eds.) *The New Global Economic Order*, New York: Routledge.  
 
 <!---
    Invisible section // 2025-05-21-Kopi-Time-Taimur.Baig-DBS-Yes-New-World-Order.md
