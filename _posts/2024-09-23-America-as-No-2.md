@@ -1,9 +1,13 @@
 ---
 fileName: 2024-09-23-America-as-No-2.md
-# Last-edited: 2025.03.22.1227.Sat -- Danny Quah (me@DannyQuah.com)
+# Last-edited: 2026.01.21.2136.Wed -- Danny Quah ( dq @ hpt-2023-07 )
 Type: Report
-Tags: >
-  ChinaUS, America, ThirdNations, Thucydides, Realism
+Tags: 
+  - ChinaUS
+  - America
+  - ThirdNations
+  - Thucydides
+  - Realism
 # Created: 2024.09.22.2314.Sun -- Danny Quah (me@DannyQuah.com)
 
 documentclass: extarticle
