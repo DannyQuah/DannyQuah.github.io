@@ -1,6 +1,6 @@
 ---
-title: theTitle
-# Last-edited: 2026.02.02.1603.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
+title: 'Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria'
+# Last-edited: 2026.02.02.1618.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapter
 # Created: 2026.02.02.1549.Mon -- Danny Quah ( me @ DannyQuah.com )
