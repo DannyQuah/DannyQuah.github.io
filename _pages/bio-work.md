@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah work bio"
-# Last-edited: 2025.12.31.2229.Wed -- Danny Quah ( dq @ hpt-2023-07 )
+# Last-edited: 2026.02.15.1217.Sun -- Danny Quah ( dq @ hpt-2023-07 )
 permalink: /bio-work/
 # Created: 2025.12.12.1944.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 ---
@@ -25,6 +25,7 @@ Profile photographs (higher-resolution) as needed:
 [<img src="https://www.DannyQuah.com/Storage/2023.09.07.1715.Thu-HSC-Lecture-Amitav.Acharya-DQ-moderating.jpeg" alt="Moderating" width="50">](https://www.DannyQuah.com/Storage/2023.09.07.1715.Thu-HSC-Lecture-Amitav.Acharya-DQ-moderating.jpeg) 
 [<img src="https://www.DannyQuah.com/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg" alt="Globalization" width="50">](https://www.DannyQuah.com/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg) 
 
+[<img src="https://www.DannyQuah.com/Storage/2026.01.13.1200.Tue-SC-Global-Market-Outlook-SIN-53-DQ.jpeg" alt="Global Market Singapore" width="50">](https://www.DannyQuah.com/Storage/2026.01.13.1200.Tue-SC-Global-Market-Outlook-SIN-53-DQ.jpeg) 
 
 ____
 [Home](https://www.DannyQuah.com/)  
