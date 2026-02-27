@@ -1,6 +1,6 @@
 ---
 fileName: 2026-02-27-AI-inversion-LLM-introspect.md
-Last-edited: 2026.02.27.1759.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2026.02.27.1813.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - Obsidian
@@ -42,8 +42,8 @@ Obsidian Copilot plugin:
 -  Use `vault QA (free)`   
 
 
-<video width="320" height="240" controls>
-  <source src="https://DannyQuah.github.io/Storage/2026.02.26.1120.Thu-original-DQ-second-brain-compressed.mov" type="video/quicktime">
+<video width="480" controls>
+  <source src="https://DannyQuah.github.io/Storage/2026.02.26.1120.Thu-original-DQ-second-brain-compressed.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
