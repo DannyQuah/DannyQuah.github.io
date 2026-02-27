@@ -1,6 +1,6 @@
 ---
 fileName: 2026-02-27-AI-inversion-LLM-introspect.md
-Last-edited: 2026.02.27.1813.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2026.02.27.1836.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - Obsidian
@@ -18,6 +18,11 @@ by
 Feb 2026  
 
 This past weekend I looked at my LLMs and decided that for a while I wasn't going to be asking what the world says or knows.  Instead, I wanted to see the connections in and clusters of ideas, common turns of phrase, and formal parallels in statistical models and mathematical structures in and across the models of social mobility and of world order that I have been developing.  The source material had to be clearly circumscribed and controlled:  notes I keep of half-finished conjectures and ideas from what I've read; YouTube and podcast recordings of panels, roundtables, and fireside chats I've done; markdown and latex source of papers, blogs, and commentaries I've written.
+
+<video width="480" controls>
+  <source src="https://DannyQuah.github.io/Storage/2026.02.26.1120.Thu-original-DQ-second-brain-compressed.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 I wanted the ideational connections across these mathematical and conceptual models updated in real time, and I didn't want this source material uploaded to the cloud.  I wanted to query locally and dynamically my second brain, not just look at its connections graphically, which Obsidian had already long allowed me to do.  
 
@@ -40,12 +45,6 @@ Obsidian Copilot plugin:
 -  For API key of both chat and embedding models, don't leave blank but put in any string  (like `x` or `ollama`).  
 -  In tab QA, set embedding model to `nomic-embed-text (Ollama)`
 -  Use `vault QA (free)`   
-
-
-<video width="480" controls>
-  <source src="https://DannyQuah.github.io/Storage/2026.02.26.1120.Thu-original-DQ-second-brain-compressed.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 
