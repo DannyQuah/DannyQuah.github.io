@@ -1,6 +1,6 @@
 ---
 fileName: 2026-03-13-Third-Nations-Repair-Ruptured-World-Order.md
-Last-edited: 2026.03.13.1201.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2026.03.13.1215.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - geopolitics
@@ -22,9 +22,8 @@ Mar 2026
 
 *Synopsis: Third nations have long been expected to endure the consequences of major-power actions. But instead of treating such whims as inevitable, third nations can actively mitigate external shocks by forging coalitions with states that share common interests and are willing to commit to collective rules. Such pathfinder multilateralism, exemplified by coalitions like ASEAN and the CPTPP, may provide a roadmap for stability and growth in a G-minus world.*
 
-<figure>
 [<img align=right width="100%" src="https://DannyQuah.github.io/Storage/2026.03.13.Fri-Danny.Quah-Third-Nations-Ruptured-World-Order-EAF-cover.png" alt="Quah 2026 EAF - Third nations can piece together a ruptured world order">](https://eastasiaforum.org/2026/03/13/third-nations-can-piece-together-a-ruptured-world-order/)
-</figure>
+
 
 With escalating great power disruption and rising geopolitical rivalry, third nations now feel the pressure to navigate a new world order. These states are neither on the frontline of geopolitical conflict nor do they want a ruptured international system. They did not shape the current world order, yet they are watching it grow increasingly unsettled.
 
@@ -60,13 +59,13 @@ The reality of today’s world order, where major powers are less constrained by
 
 Third nations are no longer restricted to passive roles assigned by traditional theories of realism, where smaller nations suffer what they must. Through mitigation — drawing on agile and networked coalitions — nations can build resilient and robust regional or interest-focused groupings decoupled from the whims of major powers. By prioritising incentive compatibility and decentralised governance over size and power, third nations can successfully navigate and [productively reshape](https://www.imf.org/en/Publications/fandd/issues/2025/09/point-of-view-multilateralism-can-survive-the-loss-of-consensus-danny-quah) a disrupted world order.
 
-_Danny Ǫuah is Li Ka Shing Professor in Economics at the Lee Kuan Yew School of Public Policy, National University of Singapore.  
+_Danny Ǫuah is Li Ka Shing Professor in Economics at the Lee Kuan Yew School of Public Policy, National University of Singapore._  
 
 _This article is part of an_ EAF special series _featuring papers from the 2026 Asian Voices and Visions Conference, co-organised by the Taipei School of Economics, the Taipei School of Economics and Political Science Foundation and the Harvard Kennedy School._
 
 [https://doi.org/10.59425/eabc.1773396000](https://doi.org/10.59425/eabc.1773396000)
 
-[EAF](https://eastasiaforum.org/) | [Asian Voices and Visions](https://eastasiaforum.org/category/asian-voices-and-visions/) | Third nations can piece together a ruptured world order
+[EAF](https://eastasiaforum.org/) \| [Asian Voices and Visions](https://eastasiaforum.org/category/asian-voices-and-visions/) \| Third nations can piece together a ruptured world order
 
 (This article is reproduced from the [East Asia Forum](https://eastasiaforum.org) for readers' convenience under a Creative Commons licence.)
 
