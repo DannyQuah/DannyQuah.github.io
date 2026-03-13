@@ -1,16 +1,13 @@
 ---
 fileName: 2026-02-27-AI-inversion-LLM-introspect.md
-Last-edited: 2026.02.27.1836.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2026.03.13.1137.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 Type: Publication
 Tags:
   - Obsidian
   - LLM
 Created: 2026.02.27.1751.Fri -- Danny Quah (me @ DannyQuah.com)
-documentclass: extarticle
-fontsize: 14pt
-output: pdf_document
-title: "AI inversion.  I asked my local LLM to introspect and join up what I'd been thinking the last four years"
----
+itle: "AI inversion.  I asked my local LLM to introspect and join up what I'd been thinking the last four years"
+--
 ### "AI inversion.  I asked my local LLM to introspect and join up what I'd been thinking the last four years"  
 
 by  
