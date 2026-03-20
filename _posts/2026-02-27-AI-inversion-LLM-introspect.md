@@ -1,6 +1,6 @@
 ---
 fileName: 2026-02-27-AI-inversion-LLM-introspect.md
-Last-edited: 2026.03.13.1220.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+Last-edited: 2026.03.20.1613.Fri -- Danny Quah ( dq @ mbpm5-2026-03.local )
 Type: Publication
 Tags:
   - Obsidian
@@ -37,7 +37,7 @@ ollama pull llama3:8b-insgtruct-q4_K_M
 ollama pull nomic-embed-text  
 ```
 Obsidian Copilot plugin:
--  Self-hosted ollama API `http://localhost:11424`; ignore all other API key requests  
+-  Self-hosted ollama API `http://localhost:11434`; ignore all other API key requests  
 -  Chat model `llama3:8b-insgtruct-q4_K_M`; embedding model `nomic-embed-text`
 -  For API key of both chat and embedding models, don't leave blank but put in any string  (like `x` or `ollama`).  
 -  In tab QA, set embedding model to `nomic-embed-text (Ollama)`
