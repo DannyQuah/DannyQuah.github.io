@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah work bio"
-# Last-edited: 2026.03.31.2218.Tue -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2026.03.31.2223.Tue -- Danny Quah ( dq @ mbam2-2023-04.local )
 permalink: /bio-work/
 # Created: 2025.12.12.1944.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 ---
@@ -25,9 +25,7 @@ Profile photographs (higher-resolution) as needed:
 [<img src="https://www.DannyQuah.com/Storage/2023.09.07.1715.Thu-HSC-Lecture-Amitav.Acharya-DQ-moderating.jpeg" alt="Moderating" width="50">](https://www.DannyQuah.com/Storage/2023.09.07.1715.Thu-HSC-Lecture-Amitav.Acharya-DQ-moderating.jpeg) 
 [<img src="https://www.DannyQuah.com/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg" alt="Globalization" width="50">](https://www.DannyQuah.com/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg) 
 [<img src="https://www.DannyQuah.com/Storage/2026.01.13.1200.Tue-SC-Global-Market-Outlook-SIN-53-DQ.jpeg" alt="Global Market Singapore" width="50">](https://www.DannyQuah.com/Storage/2026.01.13.1200.Tue-SC-Global-Market-Outlook-SIN-53-DQ.jpeg) 
-
 [<img src="https://www.DannyQuah.com/Storage/2026.03.06.0900-8770.Fri-DQ-Keynote-Asia.jpg" alt="Asia in 2050 keynote" width="50">](https://www.DannyQuah.com/Storage/2026.03.06.0900-8770.Fri-DQ-Keynote-Asia.jpg) 
-
 [<img src="https://www.DannyQuah.com/Storage/2026.03.25.1045.Wed-DQ-RCEP-panel-313949.png" alt="Boao Forum RCEP panel" width="50">](https://www.DannyQuah.com/Storage/2026.03.25.1045.Wed-DQ-RCEP-panel-313949.png) 
 
 
