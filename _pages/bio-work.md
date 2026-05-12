@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah work bio"
-# Last-edited: 2026.03.31.2223.Tue -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2026.05.09.0645.Sat -- Danny Quah ( dq @ mbam2-2023-04.local )
 permalink: /bio-work/
 # Created: 2025.12.12.1944.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 ---
