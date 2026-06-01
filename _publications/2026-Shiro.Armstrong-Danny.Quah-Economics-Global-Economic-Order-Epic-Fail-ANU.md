@@ -1,6 +1,6 @@
 ---
 title: 'Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria'
-# Last-edited: 2026.02.02.1634.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2026.06.01.1631.Mon -- Danny Quah ( dq @ mbam2-2023-04.local )
 collection: publications
 category: bookChapters
 # Created: 2026.02.02.1549.Mon -- Danny Quah ( me @ DannyQuah.com )
@@ -9,9 +9,9 @@ excerpt: "This paper casts within a unified economic framework some key challeng
 date: 2026-02-02
 venue: 'Armstrong, Shiro and Tiberghien, Yves (eds.) <i>Globalization and the Economics, Technology, and Security Nexus</i>,  Canberra: ANU Press'
 paperurl: 'https://www.DannyQuah.com/Storage/2023.10-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail.pdf'
-citation: 'Armtrong, Shiro and Quah, Danny. 2026. &quot;Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria&quot; ch. 6 in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>Globalization and the Economics, Technology, and Security Nexus</i>, Canberra: ANU Press'
+citation: 'Armstrong, Shiro and Quah, Danny. 2026. &quot;Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria&quot; ch. 6 in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>Globalization and the Economics, Technology, and Security Nexus</i>, Canberra: ANU Press'
 ---
-Armtrong, Shiro and Quah, Danny. 2026. "Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria", ch. 6 in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>Globalization and the Economics, Technology, and Security Nexus</i>, Canberra: ANU Press'
+Armstrong, Shiro and Quah, Danny. 2026. "Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria", ch. 6 in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>Globalization and the Economics, Technology, and Security Nexus</i>, Canberra: ANU Press'
 
 [<img src="https://www.DannyQuah.com/Storage/2023.10-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail-titlepage.png" alt="Economics for the Global Economic Order Epic Fail - titlepage" />](https://www.DannyQuah.com/Storage/2023.10-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail.pdf)  
 [Published](https://www.DannyQuah.com/Storage/2023.10-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail.pdf) (forthcoming)  //  [Local PDF](https://www.DannyQuah.com/Storage/2023.10-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail.pdf)
