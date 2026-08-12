@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah's website"
-# Last-edited: 2025.12.12.2047.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
+# Last-edited: 2026.08.13.0745.Thu -- Danny Quah ( dq @ mbpm5-202603.local )
 author_profile: true
 permalink: /
 # Created: 2025.03.21.1500.Fri -- Danny Quah (me@DannyQuah.com)
@@ -18,6 +18,7 @@ This website seeks to be minimalist and lightweight.  The principal sections (al
 
 ____
 LKYSPP [work webpage](https://lkyspp.nus.edu.sg/our-people/faculty/danny-quah)  
+LKYSPP PP5182 "[Economic Diplomacy in an Age of Strategic Interdependence](https://canvas.nus.edu.sg/courses/98197)" 2026/27 Sem 1
 Substack [duplicate blog](https://DannyQuah.substack.com/)  
 
 ____
