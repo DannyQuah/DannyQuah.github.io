@@ -1,6 +1,6 @@
 ---
 title: 'Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria'
-# Last-edited: 2026.09.03.1420.Thu -- Danny Quah ( dq @ mbam2-202304.local )
+# Last-edited: 2026.09.03.1521.Thu -- Danny Quah ( dq @ mbam2-202304.local )
 collection: publications
 category: bookChapters
 # Created: 2026.02.02.1549.Mon -- Danny Quah ( me @ DannyQuah.com )
@@ -9,10 +9,8 @@ excerpt: "This paper casts within a unified economic framework some key challeng
 date: 2026-09-03
 venue: 'Armstrong, Shiro and Tiberghien, Yves (eds.) <i>At the Brink: Asia in the Global Economic Order</i>,  Canberra: ANU Press'
 paperurl: 'https://www.DannyQuah.com/Storage/2026-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail-ANU.pdf'
-citation: 'Armstrong, Shiro and Quah, Danny. 2026. &quot;Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria&quot; ch. 6 in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>At the Brink: Asia in the Global Economic Order</i>, Canberra: ANU Press'
+citation: 'Armstrong, Shiro and Quah, Danny. 2026. &quot;Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria&quot; in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>At the Brink: Asia in the Global Economic Order</i>, ch. 5, pp. 151-177, Canberra: ANU Press'
 ---
-Armstrong, Shiro and Quah, Danny. 2026. "Economics for the Global Economic Order: The Tragedy of Epic Fail Equilibria", ch. 6 in Armstrong, Shiro and Tieberghen, Yves (eds.) <i>At the Brink: Asia in the Global Economic Order</i>, Canberra: ANU Press
-
 [<img src="https://www.DannyQuah.com/Storage/2026-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail-ANU.-titlepage.png" alt="Economics for the Global Economic Order Epic Fail - titlepage" />](https://press-files.anu.edu.au/downloads/press/n15454/pdf/ch05.pdf)  
 [Published](https://dx.doi.org/10.22459/AB.2026)  //  [Local PDF](https://www.DannyQuah.com/Storage/2026-Shiro.Armstrong-Danny.Quah-Economics-Global-Economic-Order-Epic-Fail-ANU.pdf)
 
