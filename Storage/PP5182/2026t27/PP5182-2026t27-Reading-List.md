@@ -1,17 +1,16 @@
 ---
 fileName: 2026.08-PP5182-Reading-List-DQ.md
-Last-edited: 2026.11.05.1528.Thu -- Danny Quah (dq@msm3u-202603.local)
+Last-edited: 2026.11.05.1559.Thu -- Danny Quah (dq@msm3u-202603.local)
 Type: Misc
 Tags:
   - worldOrder
   - multilateralism
-  - socialMobility
-  - ChinaUS
   - economicDiplomacy
 Created: 2026.08.12.2223.Wed -- Danny Quah ( dq @ mbpm5-202603.local )
 title: 2026.08-PP5182-Reading-List-DQ
 ---
-PP5182 Course Readings
+PP5182 Course Readings (to be used in conjunction with the year's NUS-formatted syllabus [PP5182](https://www.DannyQuah.com/Storage/PP5182/2026t27/PP5182-syll.pdf)  
+
 
 ---
 
@@ -156,7 +155,8 @@ Week 9: Making cooperation ordinary.  Strategic competition
 Week 10: New international institutions.  Flexible topology.  Country strategy presentations 1.  
 - Rockwell, Keith.  2026.  "Trouble at the WTO Was a Long Time Coming", *Freedom Frequency Hoover Institution* (18 Jul)  
     - 🌐 [View Web Resource](https://www.thefreedomfrequency.org/p/trouble-at-the-wto-was-a-long-time)  
-- Bruegel Podcast. 2026. "BRICs at 25" (07 Oct) https://www.bruegel.org/podcast/brics-25  
+- Bruegel Podcast. 2026. "BRICs at 25" (07 Oct) https://www.bruegel.org/podcast/brics-25
+- IMF Exhibit - The Importance of Global Cooperation https://www.imf.org/external/np/exr/center/mm/eng/mm_cc_01.htm
 
 
 Week 11: Building actionable economic diplomacy.  Country strategy presentations 2.  
