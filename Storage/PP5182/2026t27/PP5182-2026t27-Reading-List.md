@@ -1,6 +1,6 @@
 ---
 fileName: 2026.08-PP5182-Reading-List-DQ.md
-Last-edited: 2026.11.05.1559.Thu -- Danny Quah (dq@msm3u-202603.local)
+Last-edited: 2026.11.05.1613.Thu -- Danny Quah (dq@msm3u-202603.local)
 Type: Misc
 Tags:
   - worldOrder
@@ -70,7 +70,7 @@ Week 3: Globalization to strategic interdependence.  3S
 - Quah, Danny. 2026.  "The Evolving Development Landscape of Asia and Pacific: The International Economics of Strategic Interdependence", Ch. 12, pp. 241-258 in Rahul Anand, Thomas Helbling, and Krishna Srinivasan (eds.) *Shaping the Future of Asia*. Washington DC: IMF  
     - 🌐 [View Web Resource](https://www.DannyQuah.com/publications/2026-Danny.Quah-Asia-Pacific-IESI-IMF/)
 
-Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988 https://www.youtube.com/watch?v=Tp1T7kPEdDY  
+Reagan's Radio Address on Canadian Elections and Free Trade on November 26, 1988 <https://www.youtube.com/watch?v=Tp1T7kPEdDY>  
 
 
 Week 4: Economic security  
