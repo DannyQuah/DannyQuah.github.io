@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah work bio"
-# Last-edited: 2026.11.13.1318.Fri -- Danny Quah (dq@msm3u-202603.local)
+# Last-edited: 2026.11.13.1322.Fri -- Danny Quah (dq@msm3u-202603.local)
 permalink: /bio-work/
 # Created: 2025.12.12.1944.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 ---
@@ -19,11 +19,8 @@ Output records at [Google Scholar](https://scholar.google.com.sg/citations?user=
 Profile photographs (higher-resolution) as needed:
 [<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-Bamboo-056-Danny.Quah.jpg" alt="Bamboo, half" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-Bamboo-056-Danny.Quah.jpg)
 [<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-096-Danny.Quah.jpg" alt="OTH, seated, tie" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-096-Danny.Quah.jpg) 
-
 [<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-021-Danny.Quah.jpg" alt="OTH, seated, tie" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-021-Danny.Quah.jpg) 
-
 [<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-to-MM-152-Danny.Quah.jpg" alt="to MM, standing" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-to-MM-152-Danny.Quah.jpg) 
-
 [<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg" alt="Jacket, headshot" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg) 
 [<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg" alt="Jacket, standing" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg) 
 [<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-white-shirt-headshot.jpg" alt="White shirt, headshot" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-white-shirt-headshot.jpg) 
