@@ -1,6 +1,6 @@
 ---
 title: "Danny Quah work bio"
-# Last-edited: 2026.11.13.1322.Fri -- Danny Quah (dq@msm3u-202603.local)
+# Last-edited: 2026.11.13.1329.Fri -- Danny Quah (dq@msm3u-202603.local)
 permalink: /bio-work/
 # Created: 2025.12.12.1944.Fri -- Danny Quah ( dq @ mbam2-2023-04.local )
 ---
@@ -18,10 +18,8 @@ Output records at [Google Scholar](https://scholar.google.com.sg/citations?user=
 
 Profile photographs (higher-resolution) as needed:
 [<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-Bamboo-056-Danny.Quah.jpg" alt="Bamboo, half" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-Bamboo-056-Danny.Quah.jpg)
-[<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-096-Danny.Quah.jpg" alt="OTH, seated, tie" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-096-Danny.Quah.jpg) 
-[<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-021-Danny.Quah.jpg" alt="OTH, seated, tie" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-021-Danny.Quah.jpg) 
-[<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-to-MM-152-Danny.Quah.jpg" alt="to MM, standing" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-to-MM-152-Danny.Quah.jpg) 
-[<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg" alt="Jacket, headshot" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg) 
+[<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-096-Danny.Quah.jpg" alt="OTH, seated, tie" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-096-Danny.Quah.jpg)
+[<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg" alt="Jacket, headshot" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-jacket-headshot.jpg)
 [<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg" alt="Jacket, standing" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-jacket-up.jpg) 
 [<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-white-shirt-headshot.jpg" alt="White shirt, headshot" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-DQ-white-shirt-headshot.jpg) 
 [<img src="https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-up.jpg" alt="White shirt, standing" width="50">](https://www.DannyQuah.com/Storage/2020.09.02.1530-NUS-115th-Anniversary-Coffeetable-up.jpg) 
@@ -30,8 +28,9 @@ Profile photographs (higher-resolution) as needed:
 [<img src="https://www.DannyQuah.com/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg" alt="Globalization" width="50">](https://www.DannyQuah.com/Storage/2024.02.15.1110.Thu-SAIF-Globalisation-DQ-speak-official.jpg) 
 [<img src="https://www.DannyQuah.com/Storage/2026.01.13.1200.Tue-SC-Global-Market-Outlook-SIN-53-DQ.jpeg" alt="Global Market Singapore" width="50">](https://www.DannyQuah.com/Storage/2026.01.13.1200.Tue-SC-Global-Market-Outlook-SIN-53-DQ.jpeg) 
 [<img src="https://www.DannyQuah.com/Storage/2026.03.06.0900-8770.Fri-DQ-Keynote-Asia.jpg" alt="Asia in 2050 keynote" width="50">](https://www.DannyQuah.com/Storage/2026.03.06.0900-8770.Fri-DQ-Keynote-Asia.jpg) 
-[<img src="https://www.DannyQuah.com/Storage/2026.03.25.1045.Wed-DQ-RCEP-panel-313949.png" alt="Boao Forum RCEP panel" width="50">](https://www.DannyQuah.com/Storage/2026.03.25.1045.Wed-DQ-RCEP-panel-313949.png) 
-
+[<img src="https://www.DannyQuah.com/Storage/2026.03.25.1045.Wed-DQ-RCEP-panel-313949.png" alt="Boao Forum RCEP panel" width="50">](https://www.DannyQuah.com/Storage/2026.03.25.1045.Wed-DQ-RCEP-panel-313949.png)
+[<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-021-Danny.Quah.jpg" alt="OTH, seated, tie" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-OTH-seated-021-Danny.Quah.jpg)
+[<img src="https://www.DannyQuah.com/Storage/2026.10.13.Tue-to-MM-152-Danny.Quah.jpg" alt="to MM, standing" width="50">](https://www.DannyQuah.com/Storage/2026.10.13.Tue-to-MM-152-Danny.Quah.jpg)
 
 
 
